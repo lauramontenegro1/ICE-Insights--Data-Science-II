@@ -1,0 +1,330 @@
+iscoGroup,occupation_code,preferredLabel,occupation_id_onet
+2153,2153.1,telecommunications engineer,15-1231.00
+2153,2153.1,telecommunications engineer,15-1241.00
+2153,2153.1,telecommunications engineer,15-1241.01
+2153,2153.1,telecommunications engineer,17-2072.01
+2153,2153.1,telecommunications engineer,49-2021.00
+2153,2153.1,telecommunications engineer,49-2022.00
+2153,2153.1,telecommunications engineer,49-9052.00
+2512,2512.2,software analyst,15-1211.00
+2512,2512.2,software analyst,15-1211.01
+2512,2512.2,software analyst,15-1251.00
+2512,2512.2,software analyst,15-1252.00
+2512,2512.2,software analyst,15-1253.00
+2511,2511.17,integration engineer,15-1299.07
+2511,2511.17,integration engineer,15-1299.08
+2513,2513.2,search engine optimisation expert,13-1161.00
+2513,2513.2,search engine optimisation expert,13-1161.01
+2519,2519.6,ICT test analyst,15-1253.00
+2152,2152.1.5,medical device engineer,49-9062.00
+3114,3114.1.6,microelectronics engineering technician,17-2199.06
+3114,3114.1.6,microelectronics engineering technician,17-3023.00
+3114,3114.1.6,microelectronics engineering technician,51-9141.00
+2519,2519.4,ICT disaster recovery analyst,13-1199.04
+2519,2519.4,ICT disaster recovery analyst,15-1212.00
+2519,2519.4,ICT disaster recovery analyst,15-1299.06
+2511,2511.5,embedded system designer,15-1211.00
+2511,2511.5,embedded system designer,17-2199.05
+2519,2519.7,software tester,15-1211.00
+2519,2519.7,software tester,15-1253.00
+2519,2519.7,software tester,15-1255.00
+2511,2511.2,computer vision engineer,15-1221.00
+2511,2511.2,computer vision engineer,15-2051.00
+2511,2511.2,computer vision engineer,17-2112.01
+2511,2511.2,computer vision engineer,17-2199.07
+2151,2151.1.2,electromagnetic engineer,17-2071.00
+2151,2151.1.2,electromagnetic engineer,17-2072.00
+2151,2151.1.2,electromagnetic engineer,17-2072.01
+3114,3114.1.7,microelectronics maintenance technician,49-9041.00
+3114,3114.1.7,microelectronics maintenance technician,49-9043.00
+3114,3114.1.7,microelectronics maintenance technician,49-9071.00
+3114,3114.1.7,microelectronics maintenance technician,51-9141.00
+2511,2511.7,green ICT consultant,11-1011.03
+2512,2512.4.1,blockchain developer,15-1299.07
+2152,2152.1.14,satellite engineer,17-3021.00
+2511,2511.4,data scientist,15-1221.00
+2511,2511.4,data scientist,15-1243.00
+2511,2511.4,data scientist,15-1243.01
+2511,2511.4,data scientist,15-2041.00
+2511,2511.4,data scientist,15-2051.00
+2511,2511.4,data scientist,19-1029.01
+2511,2511.4,data scientist,43-9111.00
+3114,3114.1.8,microsystem engineering technician,17-2199.06
+3114,3114.1.8,microsystem engineering technician,17-3024.01
+3114,3114.1.8,microsystem engineering technician,51-9141.00
+3114,3114.1,electronics engineering technician,15-1232.00
+3114,3114.1,electronics engineering technician,17-2061.00
+3114,3114.1,electronics engineering technician,17-2072.00
+3114,3114.1,electronics engineering technician,17-2072.01
+3114,3114.1,electronics engineering technician,17-2199.06
+3114,3114.1,electronics engineering technician,17-2199.07
+3114,3114.1,electronics engineering technician,17-3023.00
+3114,3114.1,electronics engineering technician,17-3024.01
+3114,3114.1,electronics engineering technician,17-3028.00
+3114,3114.1,electronics engineering technician,17-3029.01
+3114,3114.1,electronics engineering technician,17-3029.08
+3114,3114.1,electronics engineering technician,29-2081.00
+3114,3114.1,electronics engineering technician,31-9099.02
+3114,3114.1,electronics engineering technician,49-2011.00
+3114,3114.1,electronics engineering technician,49-2091.00
+3114,3114.1,electronics engineering technician,49-2093.00
+3114,3114.1,electronics engineering technician,49-2096.00
+3114,3114.1,electronics engineering technician,49-9041.00
+3114,3114.1,electronics engineering technician,49-9043.00
+3114,3114.1,electronics engineering technician,49-9062.00
+3114,3114.1,electronics engineering technician,49-9071.00
+3114,3114.1,electronics engineering technician,51-9083.00
+3114,3114.1,electronics engineering technician,51-9141.00
+3114,3114.1.4,instrumentation engineering technician,17-3023.00
+3114,3114.1.4,instrumentation engineering technician,17-3028.00
+2511,2511.6,enterprise architect,15-1299.08
+2514,2514.2.2,mobile application developer,15-1252.00
+2514,2514.2.2,mobile application developer,15-1254.00
+2514,2514.2.2,mobile application developer,15-1299.01
+2514,2514.2.2,mobile application developer,15-1299.07
+3114,3114.1.5,medical device engineering technician,31-9099.02
+3114,3114.1.5,medical device engineering technician,49-9062.00
+2519,2519.7.1,digital games tester,15-1253.00
+2512,2512.1,cloud engineer,15-1242.00
+2512,2512.1,cloud engineer,15-1299.07
+2512,2512.1,cloud engineer,15-1299.08
+2511,2511.11,artificial intelligence engineer,15-1221.00
+2511,2511.11,artificial intelligence engineer,15-1243.00
+2511,2511.11,artificial intelligence engineer,15-2051.00
+2152,2152.1.11,optoelectronic engineer,17-2199.07
+2152,2152.1.11,optoelectronic engineer,17-3029.08
+3114,3114.1.2,computer hardware engineering technician,15-1232.00
+3114,3114.1.2,computer hardware engineering technician,17-2061.00
+3114,3114.1.2,computer hardware engineering technician,17-3023.00
+3114,3114.1.2,computer hardware engineering technician,49-2011.00
+2519,2519.3,ICT change and configuration manager,15-1299.08
+1330,1330.9,telecommunications manager,15-1231.00
+1330,1330.9,telecommunications manager,15-1241.00
+1330,1330.9,telecommunications manager,15-1241.01
+2514,2514.1,ICT application configurator,15-1211.00
+2152,2152.1.4,language engineer,27-3091.00
+2511,2511.8,ICT business analysis manager,15-1299.09
+2152,2152.1,electronics engineer,15-1232.00
+2152,2152.1,electronics engineer,17-2011.00
+2152,2152.1,electronics engineer,17-2061.00
+2152,2152.1,electronics engineer,17-2071.00
+2152,2152.1,electronics engineer,17-2072.00
+2152,2152.1,electronics engineer,17-2072.01
+2152,2152.1,electronics engineer,17-2112.02
+2152,2152.1,electronics engineer,17-2131.00
+2152,2152.1,electronics engineer,17-2199.05
+2152,2152.1,electronics engineer,17-2199.06
+2152,2152.1,electronics engineer,17-2199.07
+2152,2152.1,electronics engineer,17-2199.08
+2152,2152.1,electronics engineer,17-2199.09
+2152,2152.1,electronics engineer,17-3021.00
+2152,2152.1,electronics engineer,17-3028.00
+2152,2152.1,electronics engineer,17-3029.08
+2152,2152.1,electronics engineer,27-3091.00
+2152,2152.1,electronics engineer,49-2091.00
+2152,2152.1,electronics engineer,49-9062.00
+2152,2152.1,electronics engineer,51-9141.00
+2152,2152.1.15,sensor engineer,17-2072.00
+2152,2152.1.15,sensor engineer,17-2072.01
+2152,2152.1.15,sensor engineer,17-2199.07
+2152,2152.1.15,sensor engineer,17-2199.08
+2519,2519.7.2,ICT accessibility tester,15-1253.00
+2519,2519.7.4,ICT system tester,15-1211.00
+2519,2519.7.4,ICT system tester,15-1253.00
+2514,2514.2.1,embedded systems software developer,15-1252.00
+2514,2514.2.1,embedded systems software developer,15-1299.08
+2514,2514.2.1,embedded systems software developer,17-2061.00
+2151,2151.1.1,electric power generation engineer,11-3051.04
+2151,2151.1.1,electric power generation engineer,17-2071.00
+2151,2151.1.1,electric power generation engineer,17-2199.03
+2519,2519.7.5,ICT usability tester,15-1253.00
+2519,2519.7.5,ICT usability tester,15-1255.00
+1330,1330.4,ICT documentation manager,15-1299.03
+1330,1330.4,ICT documentation manager,27-3042.00
+2152,2152.1.2,flight test engineer,17-2011.00
+2152,2152.1.2,flight test engineer,17-2112.02
+2152,2152.1.2,flight test engineer,17-3021.00
+2152,2152.1.2,flight test engineer,49-2091.00
+3114,3114.1.10,sensor engineering technician,17-2072.00
+3114,3114.1.10,sensor engineering technician,17-2072.01
+3114,3114.1.10,sensor engineering technician,17-2199.07
+2514,2514.4,numerical tool and process control programmer,51-4041.00
+2514,2514.4,numerical tool and process control programmer,51-9161.00
+2514,2514.4,numerical tool and process control programmer,51-9162.00
+2511,2511.12,ICT research consultant,15-1221.00
+2519,2519.1,data quality specialist,15-1243.01
+2519,2519.1,data quality specialist,15-2041.00
+2151,2151.2,smart home engineer,17-2199.05
+2519,2519.7.3,ICT integration tester,15-1253.00
+2519,2519.2,ICT auditor manager,11-9199.00
+2151,2151.1.3,electromechanical engineer,17-2071.00
+2151,2151.1.3,electromechanical engineer,17-2199.05
+2511,2511.14.1,blockchain architect,15-1299.07
+2511,2511.14.1,blockchain architect,15-1299.08
+1330,1330.3,chief technology officer,11-3021.00
+1330,1330.3,chief technology officer,15-1299.09
+2152,2152.1.6,microelectronics designer,17-2061.00
+2152,2152.1.6,microelectronics designer,17-2199.06
+2152,2152.1.6,microelectronics designer,17-2199.09
+2152,2152.1.10,microsystem engineer,17-2061.00
+2152,2152.1.10,microsystem engineer,17-2072.00
+2152,2152.1.10,microsystem engineer,17-2199.05
+2152,2152.1.10,microsystem engineer,17-2199.06
+2152,2152.1.10,microsystem engineer,17-2199.08
+2152,2152.1.10,microsystem engineer,17-2199.09
+2152,2152.1.12,power electronics engineer,17-2071.00
+2152,2152.1.12,power electronics engineer,17-2072.00
+1330,1330.1.1,ICT information and knowledge manager,15-1299.03
+1330,1330.1.1,ICT information and knowledge manager,29-9021.00
+2152,2152.1.9,microelectronics smart manufacturing engineer,17-2061.00
+2152,2152.1.9,microelectronics smart manufacturing engineer,17-2072.00
+2152,2152.1.9,microelectronics smart manufacturing engineer,17-2199.06
+2152,2152.1.9,microelectronics smart manufacturing engineer,51-9141.00
+1330,1330.2,chief information officer,11-3021.00
+1330,1330.2,chief information officer,15-1299.09
+2512,2512.5,user interface developer,15-1252.00
+2512,2512.5,user interface developer,15-1254.00
+2512,2512.5,user interface developer,15-1255.00
+2512,2512.5,user interface developer,15-1299.01
+2151,2151.1,electrical engineer,11-3051.04
+2151,2151.1,electrical engineer,17-2071.00
+2151,2151.1,electrical engineer,17-2072.00
+2151,2151.1,electrical engineer,17-2072.01
+2151,2151.1,electrical engineer,17-2199.03
+2151,2151.1,electrical engineer,17-2199.05
+1330,1330.7,ICT project manager,13-1082.00
+1330,1330.7,ICT project manager,15-1299.09
+2152,2152.1.7,microelectronics engineer,17-2061.00
+2152,2152.1.7,microelectronics engineer,17-2071.00
+2152,2152.1.7,microelectronics engineer,17-2072.00
+2152,2152.1.7,microelectronics engineer,17-2072.01
+2152,2152.1.7,microelectronics engineer,17-2199.06
+2152,2152.1.13,predictive maintenance expert,17-2072.00
+2152,2152.1.1,computer hardware engineer,15-1232.00
+2152,2152.1.1,computer hardware engineer,17-2061.00
+2152,2152.1.1,computer hardware engineer,17-2071.00
+2152,2152.1.1,computer hardware engineer,17-2072.00
+2152,2152.1.1,computer hardware engineer,17-2072.01
+2152,2152.1.1,computer hardware engineer,17-2199.05
+2152,2152.1.1,computer hardware engineer,17-2199.06
+2152,2152.1.1,computer hardware engineer,17-2199.07
+2152,2152.1.1,computer hardware engineer,17-2199.08
+2152,2152.1.1,computer hardware engineer,17-2199.09
+2152,2152.1.1,computer hardware engineer,17-3021.00
+2152,2152.1.1,computer hardware engineer,17-3029.08
+2513,2513.3,user interface designer,15-1255.00
+2513,2513.1,digital games developer,15-1252.00
+2513,2513.1,digital games developer,15-1255.01
+2519,2519.5,ICT quality assurance manager,11-3051.01
+2519,2519.5,ICT quality assurance manager,15-1253.00
+2511,2511.13,ICT system analyst,15-1211.00
+2511,2511.13,ICT system analyst,15-1211.01
+2511,2511.13,ICT system analyst,15-1241.00
+2511,2511.13,ICT system analyst,15-1244.00
+2513,2513.4,web content manager,15-1254.00
+2513,2513.4,web content manager,15-1299.01
+1330,1330.6,ICT product manager,15-1299.09
+2511,2511.15,ICT system developer,15-1211.00
+2511,2511.15,ICT system developer,15-1211.01
+2511,2511.15,ICT system developer,15-1242.00
+2511,2511.15,ICT system developer,15-1251.00
+2511,2511.15,ICT system developer,15-1252.00
+2511,2511.15,ICT system developer,15-1254.00
+2511,2511.15,ICT system developer,15-1299.08
+2151,2151.1.5,power distribution engineer,17-2071.00
+2511,2511.10,ICT consultant,15-1299.09
+3114,3114.1.1,avionics inspector,17-2072.00
+3114,3114.1.1,avionics inspector,17-2072.01
+3114,3114.1.1,avionics inspector,17-2199.07
+3114,3114.1.1,avionics inspector,17-3029.01
+3114,3114.1.1,avionics inspector,49-2091.00
+2514,2514.3,industrial mobile devices software developer,15-1251.00
+2514,2514.3,industrial mobile devices software developer,15-1252.00
+2514,2514.2,ICT application developer,15-1211.00
+2514,2514.2,ICT application developer,15-1242.00
+2514,2514.2,ICT application developer,15-1251.00
+2514,2514.2,ICT application developer,15-1252.00
+2514,2514.2,ICT application developer,15-1254.00
+2514,2514.2,ICT application developer,15-1299.01
+2514,2514.2,ICT application developer,15-1299.07
+2514,2514.2,ICT application developer,15-1299.08
+2514,2514.2,ICT application developer,17-2061.00
+2511,2511.16,ICT system integration consultant,15-1211.00
+3114,3114.1.3,computer hardware test technician,17-3023.00
+2513,2513.5,web developer,15-1251.00
+2513,2513.5,web developer,15-1254.00
+2513,2513.5,web developer,15-1255.00
+2513,2513.5,web developer,15-1299.01
+2153,2153.1.1,telecommunications analyst,15-1231.00
+2153,2153.1.1,telecommunications analyst,15-1241.00
+2153,2153.1.1,telecommunications analyst,15-1241.01
+2153,2153.1.1,telecommunications analyst,17-2072.01
+2153,2153.1.1,telecommunications analyst,49-2022.00
+2511,2511.18,IT auditor,13-2011.00
+2512,2512.3,software architect,15-1252.00
+2512,2512.3,software architect,15-1299.07
+2512,2512.3,software architect,15-1299.08
+2511,2511.3,data analyst,15-1242.00
+2511,2511.3,data analyst,15-1243.00
+2511,2511.3,data analyst,15-1243.01
+2511,2511.3,data analyst,15-2051.00
+2511,2511.3,data analyst,15-2051.01
+2511,2511.3,data analyst,43-9111.00
+3114,3114.1.9,optoelectronic engineering technician,17-2199.07
+3114,3114.1.9,optoelectronic engineering technician,17-3029.08
+3114,3114.1.9,optoelectronic engineering technician,29-2081.00
+3114,3114.1.9,optoelectronic engineering technician,51-9083.00
+2511,2511.14,ICT system architect,15-1211.00
+2511,2511.14,ICT system architect,15-1241.00
+2511,2511.14,ICT system architect,15-1242.00
+2511,2511.14,ICT system architect,15-1243.00
+2511,2511.14,ICT system architect,15-1299.07
+2511,2511.14,ICT system architect,15-1299.08
+1330,1330.1,chief data officer,15-1243.01
+1330,1330.1,chief data officer,15-1299.03
+1330,1330.1,chief data officer,29-9021.00
+2511,2511.1,computer scientist,13-2011.00
+2511,2511.1,computer scientist,15-1211.00
+2511,2511.1,computer scientist,15-1211.01
+2511,2511.1,computer scientist,15-1221.00
+2511,2511.1,computer scientist,15-1241.00
+2511,2511.1,computer scientist,15-1242.00
+2511,2511.1,computer scientist,15-1243.00
+2511,2511.1,computer scientist,15-1244.00
+2511,2511.1,computer scientist,15-1251.00
+2511,2511.1,computer scientist,15-1252.00
+2511,2511.1,computer scientist,15-1254.00
+2511,2511.1,computer scientist,15-1255.00
+2511,2511.1,computer scientist,15-1299.07
+2511,2511.1,computer scientist,15-1299.08
+2511,2511.1,computer scientist,15-1299.09
+2511,2511.1,computer scientist,15-2051.00
+2511,2511.1,computer scientist,17-2112.01
+2511,2511.1,computer scientist,19-1029.01
+2152,2152.1.3,instrumentation engineer,17-2199.05
+2152,2152.1.3,instrumentation engineer,17-3028.00
+2151,2151.1.4,mine electrical engineer,17-2071.00
+2152,2152.1.8,microelectronics materials engineer,17-2061.00
+2152,2152.1.8,microelectronics materials engineer,17-2131.00
+2152,2152.1.8,microelectronics materials engineer,17-2199.06
+2152,2152.1.8,microelectronics materials engineer,17-2199.09
+1330,1330.8,ICT vendor relationship manager,11-9199.00
+1330,1330.5,ICT operations manager,11-3021.00
+1330,1330.5,ICT operations manager,15-1299.09
+2151,2151.1.6,substation engineer,17-2071.00
+2512,2512.4,software developer,15-1211.00
+2512,2512.4,software developer,15-1251.00
+2512,2512.4,software developer,15-1252.00
+2512,2512.4,software developer,15-1253.00
+2512,2512.4,software developer,15-1254.00
+2512,2512.4,software developer,15-1299.01
+2512,2512.4,software developer,15-1299.07
+2512,2512.4,software developer,15-1299.08
+1330,1330.5.1,software manager,15-1299.09
+2511,2511.19,user experience analyst,15-1255.00
+2511,2511.19,user experience analyst,17-2112.01
+2152,2152.1.7.1,integrated circuit design engineer,17-2071.00
+2152,2152.1.7.1,integrated circuit design engineer,17-2072.00
+2152,2152.1.7.1,integrated circuit design engineer,17-2072.01
+2152,2152.1.7.1,integrated circuit design engineer,17-2199.06
+2511,2511.9,ICT business analyst,15-1211.00
