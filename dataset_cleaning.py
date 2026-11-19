@@ -15,7 +15,7 @@ antropic_tasks = pd.read_csv("antropic_robot_exposure_tasks.csv")
 
 
 #1. sectors table
-it_ISCO08 = [1330, 2151, 2152, 2153, 2411, 2412, 2413, 2414, 2421, 2422, 2423, 2424, 2431, 2432, 2433, 2434, 2511, 2512, 2513, 2514, 2519, 3113, 3114, 3311, 3312, 3313, 3314, 3315, 3321, 3322, 3323, 3324, 3331, 3341, 3511, 3512, 3513, 3514, 3521, 3522]
+it_ISCO08 = [1211, 1213, 1330, 2151, 2152, 2153, 2411, 2412, 2413, 2414, 2421, 2422, 2423, 2424, 2431, 2432, 2433, 2434, 2511, 2512, 2513, 2514, 2519, 3113, 3114, 3311, 3312, 3313, 3314, 3315, 3321, 3322, 3323, 3324, 3331, 3341, 3511, 3512, 3513, 3514, 3521, 3522]
 ISCO_groups = ISCO_groups[ISCO_groups["code"].isin(it_ISCO08)].copy() #filter occupations database for only it
 sectors_table = ISCO_groups.filter(["code", "preferredLabel"]).rename(columns={"code": "sector_id", "preferredLabel":"sector_name"})
 

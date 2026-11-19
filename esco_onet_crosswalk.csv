@@ -18,6 +18,7 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2512,2512.2,software analyst,15-1251.00
 2512,2512.2,software analyst,15-1252.00
 2512,2512.2,software analyst,15-1253.00
+1211,1211.1.1,accounting manager,11-3031.01
 2422,2422.14,procurement category specialist,11-3061.00
 2422,2422.14,procurement category specialist,13-1023.00
 2422,2422.14,procurement category specialist,43-3061.00
@@ -200,6 +201,11 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 3114,3114.1.5,medical device engineering technician,31-9099.02
 3114,3114.1.5,medical device engineering technician,49-9062.00
 3341,3341.1,call centre analyst,43-1011.00
+1211,1211.1,financial manager,11-3031.00
+1211,1211.1,financial manager,11-3031.01
+1211,1211.1,financial manager,13-2031.00
+1211,1211.1,financial manager,43-3031.00
+1211,1211.1,financial manager,43-3071.00
 3331,3331.2.1.35,import export specialist in wood and construction materials,13-1041.08
 3331,3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",13-1041.08
 3312,3312.3,credit manager,13-2041.00
@@ -251,6 +257,8 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 1330,1330.9,telecommunications manager,15-1241.00
 1330,1330.9,telecommunications manager,15-1241.01
 3331,3331.2.1.3,import export specialist in beverages,13-1041.08
+1211,1211.1.4,corporate treasurer,11-3031.00
+1211,1211.1.4,corporate treasurer,11-3031.01
 2432,2432.6,political campaign officer,19-3094.00
 2432,2432.6,political campaign officer,27-3031.00
 2432,2432.6,political campaign officer,41-9091.00
@@ -264,6 +272,9 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2431,2431.13,network marketer,11-2021.00
 2431,2431.13,network marketer,13-1161.00
 2431,2431.13,network marketer,13-1161.01
+1211,1211.1.3,budget manager,11-3031.01
+1211,1211.1.3,budget manager,13-2031.00
+1211,1211.1.3,budget manager,43-3031.00
 2514,2514.1,ICT application configurator,15-1211.00
 2431,2431.10,marketing consultant,11-2011.00
 2431,2431.10,marketing consultant,11-2021.00
@@ -331,6 +342,7 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2411,2411.1.4,budget analyst,15-2031.00
 2412,2412.10,public funding advisor,11-2033.00
 2412,2412.10,public funding advisor,13-1131.00
+1213,1213.2.2,strategic planning manager,11-1021.00
 2152,2152.1.15,sensor engineer,17-2072.00
 2152,2152.1.15,sensor engineer,17-2072.01
 2152,2152.1.15,sensor engineer,17-2199.07
@@ -421,6 +433,13 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 3513,3513.2,ICT network technician,15-1241.00
 3513,3513.2,ICT network technician,15-1241.01
 3513,3513.2,ICT network technician,15-1244.00
+1213,1213.2,policy manager,11-1021.00
+1213,1213.2,policy manager,11-9151.00
+1213,1213.2,policy manager,11-9199.02
+1213,1213.2,policy manager,13-1141.00
+1213,1213.2,policy manager,13-1161.00
+1213,1213.2,policy manager,19-2041.01
+1213,1213.2,policy manager,43-4061.00
 3324,3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",41-4011.00
 2412,2412.11,venture capitalist,11-3031.03
 2412,2412.11,venture capitalist,13-2099.00
@@ -585,6 +604,8 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2152,2152.1.13,predictive maintenance expert,17-2072.00
 2432,2432.4,intercultural communication consultant,21-1099.00
 3331,3331.2.1.1,import export specialist in agricultural machinery and equipment,13-1041.08
+1213,1213.3,procurement department manager,11-3061.00
+1213,1213.3,procurement department manager,43-3061.00
 2152,2152.1.1,computer hardware engineer,15-1232.00
 2152,2152.1.1,computer hardware engineer,17-2061.00
 2152,2152.1.1,computer hardware engineer,17-2071.00
@@ -745,6 +766,9 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 3114,3114.1.1,avionics inspector,17-2199.07
 3114,3114.1.1,avionics inspector,17-3029.01
 3114,3114.1.1,avionics inspector,49-2091.00
+1211,1211.1.2,bank treasurer,11-3031.00
+1211,1211.1.2,bank treasurer,11-3031.01
+1211,1211.1.2,bank treasurer,43-3071.00
 2433,2433.6.4,technical sales representative in machinery and industrial equipment,41-2022.00
 2433,2433.6.4,technical sales representative in machinery and industrial equipment,41-4011.00
 2433,2433.6.4,technical sales representative in machinery and industrial equipment,41-4012.00
@@ -826,12 +850,12 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2153,2153.1.1,telecommunications analyst,49-2022.00
 3324,3324.4.4,wholesale merchant in chemical products,41-4011.00
 3324,3324.4.32,wholesale merchant in tobacco products,41-4012.00
+1213,1213.4,programme manager,13-1082.00
+1213,1213.4,programme manager,15-1299.09
 2433,2433.6,technical sales representative,41-2022.00
 2433,2433.6,technical sales representative,41-4011.00
 2433,2433.6,technical sales representative,41-4012.00
 2433,2433.6,technical sales representative,41-9031.00
-3311,3311.2.3,mutual fund broker,11-3031.03
-3311,3311.2.3,mutual fund broker,41-3031.00
 2421,2421.4,lean manager,13-1082.00
 2411,2411.1.1,accounting analyst,11-2033.00
 2411,2411.1.1,accounting analyst,11-3031.01
@@ -868,6 +892,9 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2411,2411.1.2,audit supervisor,13-2082.00
 2511,2511.18,IT auditor,13-2011.00
 3324,3324.4.6,wholesale merchant in clothing and footwear,41-4012.00
+1213,1213.2.1,social security administrator,11-9151.00
+1213,1213.2.1,social security administrator,13-1141.00
+1213,1213.2.1,social security administrator,43-4061.00
 3323,3323.4,standalone public buyer,11-3061.00
 3323,3323.4,standalone public buyer,13-1023.00
 2512,2512.3,software architect,15-1252.00
@@ -953,6 +980,7 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 3331,3331.2.1.31,import export specialist in textiles and textile semi-finished and raw materials,13-1041.08
 3311,3311.1,asset manager,11-3031.03
 3311,3311.1,asset manager,13-2052.00
+1213,1213.2.3,tourism policy director,13-1161.00
 1330,1330.1,chief data officer,15-1243.01
 1330,1330.1,chief data officer,15-1299.03
 1330,1330.1,chief data officer,29-9021.00
