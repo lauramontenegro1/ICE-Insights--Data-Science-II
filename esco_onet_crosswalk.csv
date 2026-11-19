@@ -1,4 +1,11 @@
 iscoGroup,occupation_code,preferredLabel,occupation_id_onet
+2431,2431.9,hospitality revenue manager,11-9081.00
+2422,2422.12.8,housing policy officer,19-2041.01
+3315,3315.3,insurance claims handler,13-1031.00
+3315,3315.3,insurance claims handler,13-1032.00
+3315,3315.3,insurance claims handler,13-2022.00
+3315,3315.3,insurance claims handler,15-2011.00
+3315,3315.3,insurance claims handler,43-9041.00
 2153,2153.1,telecommunications engineer,15-1231.00
 2153,2153.1,telecommunications engineer,15-1241.00
 2153,2153.1,telecommunications engineer,15-1241.01
@@ -11,15 +18,49 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2512,2512.2,software analyst,15-1251.00
 2512,2512.2,software analyst,15-1252.00
 2512,2512.2,software analyst,15-1253.00
+2422,2422.14,procurement category specialist,11-3061.00
+2422,2422.14,procurement category specialist,13-1023.00
+2422,2422.14,procurement category specialist,43-3061.00
+3311,3311.3.2,foreign exchange trader,41-3031.00
+3521,3521.1.4,performance video operator,27-4011.00
+3521,3521.1.4,performance video operator,27-4012.00
+3521,3521.1.4,performance video operator,27-4015.00
+3521,3521.1.4,performance video operator,27-4031.00
+3521,3521.1.4,performance video operator,39-3021.00
+3521,3521.1.4,performance video operator,49-2097.00
+2423,2423.6,recruitment consultant,13-1071.00
+3312,3312.2.1,credit analyst,13-2041.00
+3312,3312.2.1,credit analyst,13-2071.00
+3312,3312.2.1,credit analyst,13-2072.00
+3312,3312.2.1,credit analyst,43-3011.00
+3312,3312.2.1,credit analyst,43-4041.00
+3312,3312.2.1,credit analyst,43-4141.00
+2413,2413.1.4,securities analyst,13-2051.00
+2413,2413.1.4,securities analyst,13-2054.00
+2413,2413.1.4,securities analyst,13-2099.01
 2511,2511.17,integration engineer,15-1299.07
 2511,2511.17,integration engineer,15-1299.08
 2513,2513.2,search engine optimisation expert,13-1161.00
 2513,2513.2,search engine optimisation expert,13-1161.01
+3323,3323.2.1,green coffee buyer,13-1021.00
+3324,3324.4.27,wholesale merchant in perfume and cosmetics,41-4012.00
 2519,2519.6,ICT test analyst,15-1253.00
+2424,2424.2,corporate trainer,11-3131.00
+2424,2424.2,corporate trainer,13-1151.00
 2152,2152.1.5,medical device engineer,49-9062.00
+3521,3521.1.10,sound operator,27-2091.00
+3521,3521.1.10,sound operator,27-4011.00
+3521,3521.1.10,sound operator,27-4012.00
+3521,3521.1.10,sound operator,27-4014.00
+3521,3521.1.10,sound operator,49-2097.00
+3341,3341.6,field survey manager,17-1022.00
+3341,3341.6,field survey manager,19-3022.00
 3114,3114.1.6,microelectronics engineering technician,17-2199.06
 3114,3114.1.6,microelectronics engineering technician,17-3023.00
 3114,3114.1.6,microelectronics engineering technician,51-9141.00
+2412,2412.6.3,investment manager,11-3031.03
+2412,2412.6.3,investment manager,13-2051.00
+2412,2412.6.3,investment manager,13-2099.01
 2519,2519.4,ICT disaster recovery analyst,13-1199.04
 2519,2519.4,ICT disaster recovery analyst,15-1212.00
 2519,2519.4,ICT disaster recovery analyst,15-1299.06
@@ -28,20 +69,77 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2519,2519.7,software tester,15-1211.00
 2519,2519.7,software tester,15-1253.00
 2519,2519.7,software tester,15-1255.00
+2433,2433.3,renewable energy consultant,17-2199.03
+2433,2433.3,renewable energy consultant,17-2199.11
+2433,2433.3,renewable energy consultant,41-4011.07
+2433,2433.3,renewable energy consultant,47-4011.01
+3512,3512.2,ICT help desk manager,15-1232.00
+2432,2432.6.1,campaign canvasser,41-9091.00
+2432,2432.5,online community manager,13-1161.01
+2432,2432.5,online community manager,13-1199.06
+3322,3322.1,commercial sales representative,41-3091.00
+3322,3322.1,commercial sales representative,41-4011.00
+3322,3322.1,commercial sales representative,41-4011.07
+3322,3322.1,commercial sales representative,41-4012.00
+3314,3314.1,actuarial assistant,15-2011.00
+3314,3314.1,actuarial assistant,43-9111.00
+2434,2434.3,ICT presales engineer,41-3091.00
+3324,3324.4.18,wholesale merchant in household goods,41-4012.00
+2413,2413.1.3,mergers and acquisitions analyst,23-2093.00
+2422,2422.16,social service consultant,43-4061.00
+3312,3312.2,credit adviser,13-2041.00
+3312,3312.2,credit adviser,13-2052.00
+3312,3312.2,credit adviser,13-2071.00
+3312,3312.2,credit adviser,13-2072.00
+3312,3312.2,credit adviser,43-3011.00
+3312,3312.2,credit adviser,43-4041.00
+3312,3312.2,credit adviser,43-4141.00
+2411,2411.1.7,financial auditor,13-2011.00
+2411,2411.1.7,financial auditor,13-2061.00
+2411,2411.1.7,financial auditor,13-2082.00
+2411,2411.1.7,financial auditor,13-2099.04
 2511,2511.2,computer vision engineer,15-1221.00
 2511,2511.2,computer vision engineer,15-2051.00
 2511,2511.2,computer vision engineer,17-2112.01
 2511,2511.2,computer vision engineer,17-2199.07
+2413,2413.1.1,insurance rating analyst,13-1031.00
+2413,2413.1.1,insurance rating analyst,13-1032.00
+2413,2413.1.1,insurance rating analyst,13-2022.00
+2413,2413.1.1,insurance rating analyst,13-2023.00
+2413,2413.1.1,insurance rating analyst,13-2054.00
+2413,2413.1.1,insurance rating analyst,15-2011.00
+2413,2413.1.1,insurance rating analyst,43-9041.00
+3311,3311.3.1,energy trader,41-3031.00
 2151,2151.1.2,electromagnetic engineer,17-2071.00
 2151,2151.1.2,electromagnetic engineer,17-2072.00
 2151,2151.1.2,electromagnetic engineer,17-2072.01
+2421,2421.3,business intelligence manager,15-1243.01
+2421,2421.3,business intelligence manager,15-2031.00
+2421,2421.3,business intelligence manager,15-2041.00
+2421,2421.3,business intelligence manager,15-2051.01
+2423,2423.4,labour relations officer,11-3121.00
+2423,2423.4,labour relations officer,13-1041.03
+2423,2423.4,labour relations officer,13-1071.00
+2423,2423.4,labour relations officer,13-1075.00
 3114,3114.1.7,microelectronics maintenance technician,49-9041.00
 3114,3114.1.7,microelectronics maintenance technician,49-9043.00
 3114,3114.1.7,microelectronics maintenance technician,49-9071.00
 3114,3114.1.7,microelectronics maintenance technician,51-9141.00
+2421,2421.1.1,manufacturing cost estimator,13-1051.00
+2431,2431.16,promotion assistant,13-1121.00
+2412,2412.4,financial planner,13-2052.00
+2412,2412.4,financial planner,43-3071.00
+2412,2412.4,financial planner,43-4141.00
 2511,2511.7,green ICT consultant,11-1011.03
+3315,3315.1,foreclosure specialist,13-2072.00
+3315,3315.1,foreclosure specialist,23-2093.00
+3521,3521.1.9,sound mastering engineer,27-2091.00
+3521,3521.1.9,sound mastering engineer,27-4011.00
+3521,3521.1.9,sound mastering engineer,27-4014.00
 2512,2512.4.1,blockchain developer,15-1299.07
 2152,2152.1.14,satellite engineer,17-3021.00
+2412,2412.6.1,corporate investment banker,13-2051.00
+2412,2412.6.1,corporate investment banker,13-2099.01
 2511,2511.4,data scientist,15-1221.00
 2511,2511.4,data scientist,15-1243.00
 2511,2511.4,data scientist,15-1243.01
@@ -52,6 +150,8 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 3114,3114.1.8,microsystem engineering technician,17-2199.06
 3114,3114.1.8,microsystem engineering technician,17-3024.01
 3114,3114.1.8,microsystem engineering technician,51-9141.00
+2413,2413.2,middle office analyst,13-1111.00
+2413,2413.2,middle office analyst,13-2054.00
 3114,3114.1,electronics engineering technician,15-1232.00
 3114,3114.1,electronics engineering technician,17-2061.00
 3114,3114.1,electronics engineering technician,17-2072.00
@@ -75,15 +175,38 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 3114,3114.1,electronics engineering technician,49-9071.00
 3114,3114.1,electronics engineering technician,51-9083.00
 3114,3114.1,electronics engineering technician,51-9141.00
+2422,2422.12.14,regional development policy officer,19-2041.01
+2422,2422.12.14,regional development policy officer,19-3051.00
+3323,3323.2,purchaser,11-3061.00
+3323,3323.2,purchaser,13-1021.00
+3323,3323.2,purchaser,13-1023.00
+3323,3323.2,purchaser,43-3061.00
+3323,3323.2,purchaser,43-5061.00
+3324,3324.1,commodity broker,13-1041.08
+3324,3324.1,commodity broker,41-3031.00
+3324,3324.1,commodity broker,53-1042.01
 3114,3114.1.4,instrumentation engineering technician,17-3023.00
 3114,3114.1.4,instrumentation engineering technician,17-3028.00
 2511,2511.6,enterprise architect,15-1299.08
+2433,2433.6.1,technical sales representative in agricultural machinery and equipment,41-4011.00
+2433,2433.6.1,technical sales representative in agricultural machinery and equipment,41-4012.00
+2433,2433.6.1,technical sales representative in agricultural machinery and equipment,41-9031.00
+3324,3324.4.11,wholesale merchant in electronic and telecommunications equipment and parts,41-4011.00
 2514,2514.2.2,mobile application developer,15-1252.00
 2514,2514.2.2,mobile application developer,15-1254.00
 2514,2514.2.2,mobile application developer,15-1299.01
 2514,2514.2.2,mobile application developer,15-1299.07
+3324,3324.4.12,wholesale merchant in fish crustaceans and molluscs,41-4012.00
 3114,3114.1.5,medical device engineering technician,31-9099.02
 3114,3114.1.5,medical device engineering technician,49-9062.00
+3341,3341.1,call centre analyst,43-1011.00
+3331,3331.2.1.35,import export specialist in wood and construction materials,13-1041.08
+3331,3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",13-1041.08
+3312,3312.3,credit manager,13-2041.00
+3312,3312.3,credit manager,13-2071.00
+3312,3312.3,credit manager,13-2072.00
+3312,3312.3,credit manager,43-3011.00
+3331,3331.2.1.22,import export specialist in meat and meat products,13-1041.08
 2519,2519.7.1,digital games tester,15-1253.00
 2512,2512.1,cloud engineer,15-1242.00
 2512,2512.1,cloud engineer,15-1299.07
@@ -91,19 +214,97 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2511,2511.11,artificial intelligence engineer,15-1221.00
 2511,2511.11,artificial intelligence engineer,15-1243.00
 2511,2511.11,artificial intelligence engineer,15-2051.00
+2431,2431.10.4,online marketer,13-1161.01
+2431,2431.10.4,online marketer,13-1199.06
 2152,2152.1.11,optoelectronic engineer,17-2199.07
 2152,2152.1.11,optoelectronic engineer,17-3029.08
+3324,3324.4.8,wholesale merchant in computer peripheral equipment and software,13-1199.06
+3521,3521.1.8,sound editor,27-2091.00
+3521,3521.1.8,sound editor,27-4032.00
+2422,2422.12.2,competition policy officer,11-1011.00
+2422,2422.12.2,competition policy officer,19-2041.01
 3114,3114.1.2,computer hardware engineering technician,15-1232.00
 3114,3114.1.2,computer hardware engineering technician,17-2061.00
 3114,3114.1.2,computer hardware engineering technician,17-3023.00
 3114,3114.1.2,computer hardware engineering technician,49-2011.00
+2412,2412.6,investment adviser,11-3031.03
+2412,2412.6,investment adviser,13-2051.00
+2412,2412.6,investment adviser,13-2052.00
+2412,2412.6,investment adviser,13-2099.01
+2412,2412.6,investment adviser,43-4141.00
+3331,3331.2,forwarding manager,11-3071.00
+3331,3331.2,forwarding manager,13-1041.08
+3331,3331.2,forwarding manager,13-1081.01
+3331,3331.2,forwarding manager,13-1081.02
+3331,3331.2,forwarding manager,33-3051.04
+3331,3331.2,forwarding manager,43-5011.00
+3331,3331.2,forwarding manager,43-5011.01
+3331,3331.2.1.14,import export specialist in fruit and vegetables,13-1041.08
+2422,2422.2,community development officer,21-1091.00
+3324,3324.4,wholesale merchant,13-1199.06
+3324,3324.4,wholesale merchant,41-4011.00
+3324,3324.4,wholesale merchant,41-4012.00
+3331,3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",13-1041.08
 2519,2519.3,ICT change and configuration manager,15-1299.08
+3311,3311.3.5,stock trader,41-3031.00
 1330,1330.9,telecommunications manager,15-1231.00
 1330,1330.9,telecommunications manager,15-1241.00
 1330,1330.9,telecommunications manager,15-1241.01
+3331,3331.2.1.3,import export specialist in beverages,13-1041.08
+2432,2432.6,political campaign officer,19-3094.00
+2432,2432.6,political campaign officer,27-3031.00
+2432,2432.6,political campaign officer,41-9091.00
+3512,3512.4,ICT technician,15-1231.00
+3512,3512.4,ICT technician,15-1232.00
+3512,3512.4,ICT technician,15-1244.00
+3512,3512.4,ICT technician,49-2011.00
+3324,3324.4.17,"wholesale merchant in hides, skins and leather products",41-4012.00
+3331,3331.2.1.13,import export specialist in flowers and plants,13-1041.08
+2422,2422.7,humanitarian advisor,11-9151.00
+2431,2431.13,network marketer,11-2021.00
+2431,2431.13,network marketer,13-1161.00
+2431,2431.13,network marketer,13-1161.01
 2514,2514.1,ICT application configurator,15-1211.00
+2431,2431.10,marketing consultant,11-2011.00
+2431,2431.10,marketing consultant,11-2021.00
+2431,2431.10,marketing consultant,11-2032.00
+2431,2431.10,marketing consultant,13-1161.00
+2431,2431.10,marketing consultant,13-1161.01
+2431,2431.10,marketing consultant,13-1199.06
+2431,2431.2,advertising media buyer,11-2011.00
+2431,2431.2,advertising media buyer,13-1011.00
+3521,3521.1.3,performance rental technician,27-4011.00
+3521,3521.1.3,performance rental technician,49-2097.00
+2431,2431.10.3,marketing assistant,11-2021.00
+2431,2431.10.3,marketing assistant,13-1161.00
+3324,3324.4.28,wholesale merchant in pharmaceutical goods,41-4011.00
 2152,2152.1.4,language engineer,27-3091.00
+3321,3321.3.1,property insurance underwriter,13-1031.00
+3321,3321.3.1,property insurance underwriter,13-1032.00
+3321,3321.3.1,property insurance underwriter,13-2022.00
+3321,3321.3.1,property insurance underwriter,13-2023.00
+3321,3321.3.1,property insurance underwriter,13-2053.00
+3321,3321.3.1,property insurance underwriter,15-2011.00
+3321,3321.3.1,property insurance underwriter,43-9041.00
+2433,2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",41-4011.00
+2433,2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",41-9031.00
+2431,2431.12,membership manager,11-2021.00
+2431,2431.12,membership manager,11-3012.00
 2511,2511.8,ICT business analysis manager,15-1299.09
+3324,3324.3,non-vessel operating common carrier,13-1041.08
+3311,3311.3.4,securities trader,41-3031.00
+3322,3322.1.1,electricity sales representative,41-3091.00
+2412,2412.6.4,investor relations manager,13-2051.00
+2422,2422.8,intelligence officer,33-3021.06
+2422,2422.8,intelligence officer,33-9021.00
+3521,3521.1.1,boom operator,15-1232.00
+3521,3521.1.1,boom operator,27-2091.00
+3521,3521.1.1,boom operator,27-4011.00
+3521,3521.1.1,boom operator,27-4012.00
+3521,3521.1.1,boom operator,27-4014.00
+3521,3521.1.1,boom operator,27-4031.00
+3521,3521.1.1,boom operator,39-3021.00
+3521,3521.1.1,boom operator,49-2097.00
 2152,2152.1,electronics engineer,15-1232.00
 2152,2152.1,electronics engineer,17-2011.00
 2152,2152.1,electronics engineer,17-2061.00
@@ -124,48 +325,191 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2152,2152.1,electronics engineer,49-2091.00
 2152,2152.1,electronics engineer,49-9062.00
 2152,2152.1,electronics engineer,51-9141.00
+2411,2411.1.4,budget analyst,11-3031.01
+2411,2411.1.4,budget analyst,13-1111.00
+2411,2411.1.4,budget analyst,13-2031.00
+2411,2411.1.4,budget analyst,15-2031.00
+2412,2412.10,public funding advisor,11-2033.00
+2412,2412.10,public funding advisor,13-1131.00
 2152,2152.1.15,sensor engineer,17-2072.00
 2152,2152.1.15,sensor engineer,17-2072.01
 2152,2152.1.15,sensor engineer,17-2199.07
 2152,2152.1.15,sensor engineer,17-2199.08
+2412,2412.1,business valuer,11-2033.00
+2412,2412.1,business valuer,11-3031.03
+2412,2412.1,business valuer,13-1131.00
+2412,2412.1,business valuer,13-2022.00
+2412,2412.1,business valuer,13-2023.00
+2412,2412.1,business valuer,13-2051.00
+2412,2412.1,business valuer,13-2061.00
+2412,2412.1,business valuer,13-2099.00
+2412,2412.1,business valuer,13-2099.01
 2519,2519.7.2,ICT accessibility tester,15-1253.00
+2422,2422.12.6,fiscal affairs policy officer,13-2081.00
+2422,2422.12.6,fiscal affairs policy officer,13-2082.00
+2422,2422.12.6,fiscal affairs policy officer,19-3011.00
+3113,3113.1.2,electromechanical engineering technician,17-3024.00
+3113,3113.1.2,electromechanical engineering technician,49-2092.00
+3113,3113.1.2,electromechanical engineering technician,49-2094.00
+3113,3113.1.2,electromechanical engineering technician,51-2023.00
 2519,2519.7.4,ICT system tester,15-1211.00
 2519,2519.7.4,ICT system tester,15-1253.00
+2433,2433.6.5,technical sales representative in mining and construction machinery,41-2022.00
+2433,2433.6.5,technical sales representative in mining and construction machinery,41-4011.00
+2433,2433.6.5,technical sales representative in mining and construction machinery,41-4012.00
+2433,2433.6.5,technical sales representative in mining and construction machinery,41-9031.00
+3331,3331.3,international forwarding operations coordinator,13-1041.08
+3331,3331.3,international forwarding operations coordinator,13-1081.01
+3331,3331.3,international forwarding operations coordinator,13-1081.02
+3331,3331.3,international forwarding operations coordinator,43-5011.01
 2514,2514.2.1,embedded systems software developer,15-1252.00
 2514,2514.2.1,embedded systems software developer,15-1299.08
 2514,2514.2.1,embedded systems software developer,17-2061.00
+2434,2434.2,ICT business development manager,11-9199.00
+3341,3341.2,call centre quality auditor,19-4099.01
+2431,2431.10.2,eBusiness manager,13-1199.06
+3324,3324.4.22,wholesale merchant in meat and meat products,41-4012.00
 2151,2151.1.1,electric power generation engineer,11-3051.04
 2151,2151.1.1,electric power generation engineer,17-2071.00
 2151,2151.1.1,electric power generation engineer,17-2199.03
+3513,3513.1,aviation data communications manager,11-3021.00
+2411,2411.1.12,tax advisor,13-2081.00
+2411,2411.1.12,tax advisor,13-2082.00
+3324,3324.4.9,wholesale merchant in dairy products and edible oils,41-4012.00
+2423,2423.1,career guidance advisor,13-1071.00
+2423,2423.1,career guidance advisor,13-2071.00
+2423,2423.1,career guidance advisor,21-1012.00
+2423,2423.1,career guidance advisor,21-1015.00
+2422,2422.12.11,legal policy officer,11-9199.01
+2422,2422.12.11,legal policy officer,11-9199.02
+2422,2422.12.11,legal policy officer,13-1041.03
+2422,2422.12.11,legal policy officer,11-9199.01
+2422,2422.12.11,legal policy officer,11-9199.02
+2422,2422.12.11,legal policy officer,13-1041.03
+3312,3312.1,bank account manager,13-2072.00
+3312,3312.1,bank account manager,43-3071.00
+3312,3312.1,bank account manager,43-4141.00
+2411,2411.1.8,financial controller,11-3031.01
+2411,2411.1.8,financial controller,13-2061.00
+2411,2411.1.8,financial controller,13-2099.04
 2519,2519.7.5,ICT usability tester,15-1253.00
 2519,2519.7.5,ICT usability tester,15-1255.00
 1330,1330.4,ICT documentation manager,15-1299.03
 1330,1330.4,ICT documentation manager,27-3042.00
+2422,2422.12.3,cultural policy officer,11-9151.00
+2421,2421.1,business analyst,13-1051.00
+2421,2421.1,business analyst,13-1082.00
+2421,2421.1,business analyst,13-1111.00
+2421,2421.1,business analyst,15-2031.00
+2421,2421.1,business analyst,15-2051.01
 2152,2152.1.2,flight test engineer,17-2011.00
 2152,2152.1.2,flight test engineer,17-2112.02
 2152,2152.1.2,flight test engineer,17-3021.00
 2152,2152.1.2,flight test engineer,49-2091.00
+3311,3311.3,financial trader,41-3031.00
+2422,2422.6,healthcare consultant,21-1091.00
+3331,3331.2.1,import export specialist,13-1041.08
+3331,3331.2.1,import export specialist,33-3051.04
+3331,3331.2.1.25,import export specialist in office furniture,13-1041.08
 3114,3114.1.10,sensor engineering technician,17-2072.00
 3114,3114.1.10,sensor engineering technician,17-2072.01
 3114,3114.1.10,sensor engineering technician,17-2199.07
+2422,2422.5,government planning inspector,13-1041.04
+2422,2422.5,government planning inspector,19-3051.00
+3331,3331.2.1.18,import export specialist in household goods,13-1041.08
+3513,3513.2,ICT network technician,15-1231.00
+3513,3513.2,ICT network technician,15-1241.00
+3513,3513.2,ICT network technician,15-1241.01
+3513,3513.2,ICT network technician,15-1244.00
+3324,3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",41-4011.00
+2412,2412.11,venture capitalist,11-3031.03
+2412,2412.11,venture capitalist,13-2099.00
+2422,2422.3,employment programme coordinator,21-1015.00
+3324,3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",41-4012.00
+2431,2431.11,market research analyst,13-1161.00
+2431,2431.11,market research analyst,13-1161.01
+2431,2431.11,market research analyst,15-2051.01
+2431,2431.11,market research analyst,19-3022.00
+2421,2421.2,business consultant,13-1082.00
+2421,2421.2,business consultant,15-2031.00
+3341,3341.3,call centre supervisor,41-9041.00
+3341,3341.3,call centre supervisor,43-1011.00
+2422,2422.12.9,immigration policy officer,13-1041.03
+2422,2422.12.9,immigration policy officer,19-2041.01
+3324,3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",41-4012.00
+2423,2423.5,occupational analyst,13-1111.00
+2423,2423.5,occupational analyst,13-1141.00
+2423,2423.5,occupational analyst,15-2031.00
+2423,2423.5,occupational analyst,19-3032.00
+2434,2434.4,technical sales representative in electronic and telecommunications equipment,41-4011.00
+2434,2434.4,technical sales representative in electronic and telecommunications equipment,41-4012.00
+2434,2434.4,technical sales representative in electronic and telecommunications equipment,41-9031.00
 2514,2514.4,numerical tool and process control programmer,51-4041.00
 2514,2514.4,numerical tool and process control programmer,51-9161.00
 2514,2514.4,numerical tool and process control programmer,51-9162.00
+3341,3341.7,office manager,11-1021.00
+3341,3341.7,office manager,11-3012.00
+3341,3341.7,office manager,43-1011.00
+3324,3324.4.30,wholesale merchant in textile industry machinery,41-4011.00
 2511,2511.12,ICT research consultant,15-1221.00
+3324,3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",41-4012.00
+3521,3521.1.2,camera operator,27-4021.00
+3521,3521.1.2,camera operator,27-4031.00
+3521,3521.1.2,camera operator,39-3021.00
+3521,3521.1.2,camera operator,49-9061.00
 2519,2519.1,data quality specialist,15-1243.01
 2519,2519.1,data quality specialist,15-2041.00
 2151,2151.2,smart home engineer,17-2199.05
+2431,2431.6,client relations manager,41-3091.00
+2431,2431.6,client relations manager,41-4011.00
+2431,2431.6,client relations manager,41-4012.00
+2412,2412.8,personal trust officer,13-2052.00
+2412,2412.8,personal trust officer,43-4141.00
+3331,3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",13-1041.08
 2519,2519.7.3,ICT integration tester,15-1253.00
+3521,3521.1,audio-visual technician,15-1232.00
+3521,3521.1,audio-visual technician,27-2091.00
+3521,3521.1,audio-visual technician,27-4011.00
+3521,3521.1,audio-visual technician,27-4012.00
+3521,3521.1,audio-visual technician,27-4014.00
+3521,3521.1,audio-visual technician,27-4015.00
+3521,3521.1,audio-visual technician,27-4021.00
+3521,3521.1,audio-visual technician,27-4031.00
+3521,3521.1,audio-visual technician,27-4032.00
+3521,3521.1,audio-visual technician,39-3021.00
+3521,3521.1,audio-visual technician,49-2097.00
+3521,3521.1,audio-visual technician,49-9061.00
 2519,2519.2,ICT auditor manager,11-9199.00
 2151,2151.1.3,electromechanical engineer,17-2071.00
 2151,2151.1.3,electromechanical engineer,17-2199.05
+2422,2422.9,international relations officer,11-1011.00
+2422,2422.9,international relations officer,13-1041.03
+2422,2422.9,international relations officer,13-1111.00
+3324,3324.4.33,wholesale merchant in waste and scrap,41-4012.00
+2411,2411.1.11,public finance accountant,11-3031.01
+2411,2411.1.11,public finance accountant,13-2011.00
 2511,2511.14.1,blockchain architect,15-1299.07
 2511,2511.14.1,blockchain architect,15-1299.08
+3521,3521.1.7,sound designer,27-4014.00
+2412,2412.5,financial risk manager,13-2054.00
 1330,1330.3,chief technology officer,11-3021.00
 1330,1330.3,chief technology officer,15-1299.09
 2152,2152.1.6,microelectronics designer,17-2061.00
 2152,2152.1.6,microelectronics designer,17-2199.06
 2152,2152.1.6,microelectronics designer,17-2199.09
+2422,2422.17,sports programme coordinator,11-9072.00
+2422,2422.17,sports programme coordinator,27-2022.00
+2422,2422.17,sports programme coordinator,39-9032.00
+3321,3321.2,insurance risk consultant,13-1031.00
+3321,3321.2,insurance risk consultant,13-1032.00
+3321,3321.2,insurance risk consultant,13-2054.00
+3321,3321.2,insurance risk consultant,15-2011.00
+3321,3321.2,insurance risk consultant,43-9041.00
+3113,3113.2,hydropower technician,11-3051.04
+3113,3113.2,hydropower technician,49-9081.00
+3113,3113.2,hydropower technician,49-9099.01
+3113,3113.2,hydropower technician,51-8013.03
+3113,3113.2,hydropower technician,51-8013.04
 2152,2152.1.10,microsystem engineer,17-2061.00
 2152,2152.1.10,microsystem engineer,17-2072.00
 2152,2152.1.10,microsystem engineer,17-2199.05
@@ -174,14 +518,24 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2152,2152.1.10,microsystem engineer,17-2199.09
 2152,2152.1.12,power electronics engineer,17-2071.00
 2152,2152.1.12,power electronics engineer,17-2072.00
+3324,3324.4.26,wholesale merchant in office machinery and equipment,41-4012.00
+3324,3324.4.34,wholesale merchant in watches and jewellery,41-4012.00
+3331,3331.2.1.19,import export specialist in live animals,13-1041.08
 1330,1330.1.1,ICT information and knowledge manager,15-1299.03
 1330,1330.1.1,ICT information and knowledge manager,29-9021.00
+2422,2422.10,monitoring and evaluation officer,19-2041.01
+2422,2422.10,monitoring and evaluation officer,19-4061.00
 2152,2152.1.9,microelectronics smart manufacturing engineer,17-2061.00
 2152,2152.1.9,microelectronics smart manufacturing engineer,17-2072.00
 2152,2152.1.9,microelectronics smart manufacturing engineer,17-2199.06
 2152,2152.1.9,microelectronics smart manufacturing engineer,51-9141.00
 1330,1330.2,chief information officer,11-3021.00
 1330,1330.2,chief information officer,15-1299.09
+2432,2432.2,election agent,11-1031.00
+3331,3331.2.1.8,"import export specialist in computers, peripheral equipment and software",13-1041.08
+2411,2411.1.5,cost analyst,13-1051.00
+2433,2433.4,sales engineer,41-2022.00
+2433,2433.4,sales engineer,41-9031.00
 2512,2512.5,user interface developer,15-1252.00
 2512,2512.5,user interface developer,15-1254.00
 2512,2512.5,user interface developer,15-1255.00
@@ -192,14 +546,45 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2151,2151.1,electrical engineer,17-2072.01
 2151,2151.1,electrical engineer,17-2199.03
 2151,2151.1,electrical engineer,17-2199.05
+3331,3331.2.1.34,import export specialist in watches and jewellery,13-1041.08
+2411,2411.1.10,grants management officer,11-2033.00
+2411,2411.1.10,grants management officer,11-9121.01
+2411,2411.1.10,grants management officer,13-1131.00
+2434,2434.1,ICT account manager,41-4011.00
+3311,3311.2.4.1,securities underwriter,43-4011.00
 1330,1330.7,ICT project manager,13-1082.00
 1330,1330.7,ICT project manager,15-1299.09
+3331,3331.2.2,shipping agent,13-1041.08
+2422,2422.13,political affairs officer,19-3094.00
+2422,2422.13,political affairs officer,27-3031.00
+3324,3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",41-4011.00
+3324,3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",41-4012.00
 2152,2152.1.7,microelectronics engineer,17-2061.00
 2152,2152.1.7,microelectronics engineer,17-2071.00
 2152,2152.1.7,microelectronics engineer,17-2072.00
 2152,2152.1.7,microelectronics engineer,17-2072.01
 2152,2152.1.7,microelectronics engineer,17-2199.06
+2413,2413.1,financial analyst,11-3031.03
+2413,2413.1,financial analyst,13-1031.00
+2413,2413.1,financial analyst,13-1032.00
+2413,2413.1,financial analyst,13-2022.00
+2413,2413.1,financial analyst,13-2023.00
+2413,2413.1,financial analyst,13-2051.00
+2413,2413.1,financial analyst,13-2054.00
+2413,2413.1,financial analyst,13-2099.01
+2413,2413.1,financial analyst,15-2011.00
+2413,2413.1,financial analyst,23-2093.00
+2413,2413.1,financial analyst,43-9041.00
+3312,3312.5,loan officer,13-2041.00
+3312,3312.5,loan officer,13-2071.00
+3312,3312.5,loan officer,13-2072.00
+3312,3312.5,loan officer,43-4041.00
+3312,3312.5,loan officer,43-4131.00
+3312,3312.5,loan officer,43-4141.00
+3311,3311.2.5,stock broker,41-3031.00
 2152,2152.1.13,predictive maintenance expert,17-2072.00
+2432,2432.4,intercultural communication consultant,21-1099.00
+3331,3331.2.1.1,import export specialist in agricultural machinery and equipment,13-1041.08
 2152,2152.1.1,computer hardware engineer,15-1232.00
 2152,2152.1.1,computer hardware engineer,17-2061.00
 2152,2152.1.1,computer hardware engineer,17-2071.00
@@ -212,11 +597,84 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2152,2152.1.1,computer hardware engineer,17-2199.09
 2152,2152.1.1,computer hardware engineer,17-3021.00
 2152,2152.1.1,computer hardware engineer,17-3029.08
+3324,3324.4.5,wholesale merchant in china and other glassware,41-4012.00
+2412,2412.6.2,investment fund management assistant,13-2051.00
+2412,2412.6.2,investment fund management assistant,43-4141.00
+3324,3324.1.1,shipbroker,13-1041.08
 2513,2513.3,user interface designer,15-1255.00
+3511,3511.1,data centre operator,15-1231.00
+3511,3511.1,data centre operator,15-1244.00
+2432,2432.1,activism officer,11-2032.00
+2432,2432.1,activism officer,11-2033.00
+2432,2432.1,activism officer,27-3031.00
+3331,3331.2.1.28,import export specialist in pharmaceutical goods,13-1041.08
+2433,2433.1,after-sales service technician,49-9099.00
+2422,2422.12.1,agricultural policy officer,11-9072.00
+2422,2422.12.1,agricultural policy officer,11-9199.01
+2422,2422.12.1,agricultural policy officer,11-9199.02
+2422,2422.12.1,agricultural policy officer,13-1041.03
+2422,2422.12.1,agricultural policy officer,17-2021.00
+2422,2422.12.1,agricultural policy officer,19-1041.00
+2422,2422.12.1,agricultural policy officer,19-2041.01
+2422,2422.12.1,agricultural policy officer,19-3051.00
+2422,2422.12.1,agricultural policy officer,19-3099.00
+2422,2422.12.1,agricultural policy officer,21-1091.00
+3324,3324.4.21,wholesale merchant in machine tools,41-4012.00
+3331,3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",13-1041.08
+3113,3113.1,electrical engineering technician,17-2071.00
+3113,3113.1,electrical engineering technician,17-3023.00
+3113,3113.1,electrical engineering technician,17-3024.00
+3113,3113.1,electrical engineering technician,17-3028.00
+3113,3113.1,electrical engineering technician,47-3013.00
+3113,3113.1,electrical engineering technician,49-2092.00
+3113,3113.1,electrical engineering technician,49-2094.00
+3113,3113.1,electrical engineering technician,51-2023.00
+3113,3113.1,electrical engineering technician,51-2061.00
+3323,3323.3,set buyer,13-1023.00
+2431,2431.8,customer experience manager,35-9031.00
+3341,3341.4,contact centre supervisor,43-1011.00
+2432,2432.8,public affairs consultant,11-2032.00
+2432,2432.8,public affairs consultant,27-3031.00
 2513,2513.1,digital games developer,15-1252.00
 2513,2513.1,digital games developer,15-1255.01
+2411,2411.1.9,financial fraud examiner,11-9199.08
+2411,2411.1.9,financial fraud examiner,13-2061.00
+2411,2411.1.9,financial fraud examiner,13-2081.00
+2411,2411.1.9,financial fraud examiner,13-2082.00
+2411,2411.1.9,financial fraud examiner,13-2099.04
+2411,2411.1.9,financial fraud examiner,33-9021.00
+2411,2411.1.9,financial fraud examiner,33-9099.02
+3324,3324.4.10,wholesale merchant in electrical household appliances,41-4011.00
+3321,3321.1,insurance broker,13-2053.00
+3321,3321.1,insurance broker,41-3021.00
+3321,3321.1,insurance broker,41-3091.00
+2422,2422.12.10,labour market policy officer,13-1041.03
+3324,3324.4.31,wholesale merchant in textiles and textile semi-finished and raw materials,41-4012.00
 2519,2519.5,ICT quality assurance manager,11-3051.01
 2519,2519.5,ICT quality assurance manager,15-1253.00
+3315,3315.4,insurance fraud investigator,13-1031.00
+3315,3315.4,insurance fraud investigator,13-1032.00
+3315,3315.4,insurance fraud investigator,13-1041.04
+3315,3315.4,insurance fraud investigator,13-2022.00
+3315,3315.4,insurance fraud investigator,13-2061.00
+3315,3315.4,insurance fraud investigator,13-2081.00
+3315,3315.4,insurance fraud investigator,13-2099.04
+3315,3315.4,insurance fraud investigator,33-9021.00
+3331,3331.1,customs and excise officer,13-1041.08
+3331,3331.1,customs and excise officer,33-3051.04
+3512,3512.3,ICT security technician,13-1199.07
+3512,3512.3,ICT security technician,15-1212.00
+3512,3512.3,ICT security technician,15-1244.00
+3512,3512.3,ICT security technician,15-1299.04
+3512,3512.3,ICT security technician,15-1299.05
+3324,3324.4.25,wholesale merchant in office furniture,41-4012.00
+3521,3521.1.11,video technician,15-1232.00
+3521,3521.1.11,video technician,27-4011.00
+3521,3521.1.11,video technician,27-4012.00
+3521,3521.1.11,video technician,27-4014.00
+3521,3521.1.11,video technician,39-3021.00
+3521,3521.1.11,video technician,49-2097.00
+3324,3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",41-4011.00
 2511,2511.13,ICT system analyst,15-1211.00
 2511,2511.13,ICT system analyst,15-1211.01
 2511,2511.13,ICT system analyst,15-1241.00
@@ -231,15 +689,89 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2511,2511.15,ICT system developer,15-1252.00
 2511,2511.15,ICT system developer,15-1254.00
 2511,2511.15,ICT system developer,15-1299.08
+3521,3521.1.6,recording studio technician,27-2091.00
+3521,3521.1.6,recording studio technician,27-4011.00
+3521,3521.1.6,recording studio technician,27-4012.00
+3521,3521.1.6,recording studio technician,27-4014.00
+3521,3521.1.6,recording studio technician,49-2097.00
+3331,3331.2.1.6,import export specialist in clothing and footwear,13-1041.08
+3324,3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",41-4011.00
+3512,3512.1,ICT help desk agent,15-1232.00
+3512,3512.1,ICT help desk agent,49-2011.00
+3312,3312.6,mortgage loan underwriter,13-2041.00
+3312,3312.6,mortgage loan underwriter,13-2053.00
+3312,3312.6,mortgage loan underwriter,13-2072.00
+3312,3312.6,mortgage loan underwriter,43-4131.00
+2433,2433.2,medical sales representative,41-4011.00
 2151,2151.1.5,power distribution engineer,17-2071.00
+3341,3341.5,data entry supervisor,43-1011.00
+3341,3341.5,data entry supervisor,43-9021.00
+3315,3315.7,property appraiser,13-1032.00
+3315,3315.7,property appraiser,13-1041.04
+3315,3315.7,property appraiser,13-2022.00
+3315,3315.7,property appraiser,13-2023.00
+3315,3315.7,property appraiser,23-2093.00
+2412,2412.3,corporate risk manager,11-9199.02
+2412,2412.3,corporate risk manager,11-9199.08
+2412,2412.3,corporate risk manager,13-1199.04
+2412,2412.3,corporate risk manager,13-2054.00
+2431,2431.1,advertising copywriter,11-2011.00
+2431,2431.1,advertising copywriter,11-2021.00
+2431,2431.1,advertising copywriter,11-2032.00
+2431,2431.1,advertising copywriter,11-3012.00
+2431,2431.1,advertising copywriter,11-9199.00
+2431,2431.1,advertising copywriter,13-1121.00
+2431,2431.1,advertising copywriter,13-1161.00
+2431,2431.1,advertising copywriter,13-1161.01
+2431,2431.1,advertising copywriter,13-1199.06
+2431,2431.1,advertising copywriter,15-2051.01
+2431,2431.1,advertising copywriter,19-3022.00
+2431,2431.1,advertising copywriter,27-3043.00
+2431,2431.1,advertising copywriter,27-3043.05
 2511,2511.10,ICT consultant,15-1299.09
+3312,3312.4,credit risk analyst,13-2041.00
+3312,3312.4,credit risk analyst,13-2054.00
+3312,3312.4,credit risk analyst,13-2072.00
+3312,3312.4,credit risk analyst,43-4041.00
+3331,3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",13-1041.08
+2431,2431.10.1,advertising media planner,11-2011.00
+2431,2431.10.1,advertising media planner,11-2032.00
+2422,2422.12.5,environmental policy officer,11-1011.03
+2422,2422.12.5,environmental policy officer,11-9121.02
+2422,2422.12.5,environmental policy officer,19-2041.01
+2422,2422.12.5,environmental policy officer,19-3011.01
 3114,3114.1.1,avionics inspector,17-2072.00
 3114,3114.1.1,avionics inspector,17-2072.01
 3114,3114.1.1,avionics inspector,17-2199.07
 3114,3114.1.1,avionics inspector,17-3029.01
 3114,3114.1.1,avionics inspector,49-2091.00
+2433,2433.6.4,technical sales representative in machinery and industrial equipment,41-2022.00
+2433,2433.6.4,technical sales representative in machinery and industrial equipment,41-4011.00
+2433,2433.6.4,technical sales representative in machinery and industrial equipment,41-4012.00
+2433,2433.6.4,technical sales representative in machinery and industrial equipment,41-9031.00
+2431,2431.5,business developer,13-1082.00
+3331,3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",13-1041.08
+2413,2413.1.2,investment analyst,11-3031.03
+2413,2413.1.2,investment analyst,13-2051.00
+2413,2413.1.2,investment analyst,13-2099.01
+2432,2432.9.1,spokesperson,11-2032.00
+2432,2432.9.1,spokesperson,27-3031.00
+3324,3324.4.23,wholesale merchant in metals and metal ores,41-4011.00
+2412,2412.7,investment fund manager,11-3031.03
+2412,2412.7,investment fund manager,13-2051.00
+3331,3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",13-1041.08
+3313,3313.3,grants administrator,11-2033.00
+3313,3313.3,grants administrator,11-9121.01
+3313,3313.3,grants administrator,13-1131.00
 2514,2514.3,industrial mobile devices software developer,15-1251.00
 2514,2514.3,industrial mobile devices software developer,15-1252.00
+3323,3323.2.2,ICT buyer,11-3061.00
+3323,3323.2.2,ICT buyer,13-1023.00
+3323,3323.2.2,ICT buyer,43-3061.00
+3315,3315.8,real estate surveyor,13-1041.04
+3315,3315.8,real estate surveyor,13-2022.00
+3315,3315.8,real estate surveyor,13-2023.00
+3315,3315.8,real estate surveyor,17-1022.00
 2514,2514.2,ICT application developer,15-1211.00
 2514,2514.2,ICT application developer,15-1242.00
 2514,2514.2,ICT application developer,15-1251.00
@@ -251,35 +783,176 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2514,2514.2,ICT application developer,17-2061.00
 2511,2511.16,ICT system integration consultant,15-1211.00
 3114,3114.1.3,computer hardware test technician,17-3023.00
+2433,2433.6.2,technical sales representative in chemical products,41-4011.00
+2433,2433.6.2,technical sales representative in chemical products,41-4012.00
+2433,2433.6.2,technical sales representative in chemical products,41-9031.00
+3313,3313.1,accounting assistant,43-3021.00
+3313,3313.1,accounting assistant,43-3031.00
+3313,3313.1,accounting assistant,43-3051.00
+3311,3311.2,financial broker,11-3031.03
+3311,3311.2,financial broker,13-2072.00
+3311,3311.2,financial broker,41-3031.00
+3311,3311.2,financial broker,41-9021.00
+3311,3311.2,financial broker,43-4011.00
+3311,3311.2,financial broker,43-4131.00
+3311,3311.2.4,securities broker,41-3031.00
+3311,3311.2.4,securities broker,41-9021.00
+3311,3311.2.4,securities broker,43-4011.00
+2432,2432.9,public relations officer,11-2032.00
+2432,2432.9,public relations officer,27-3031.00
+3331,3331.2.1.26,import export specialist in office machinery and equipment,13-1041.08
+3312,3312.7,student financial support coordinator,13-2071.00
+3312,3312.7,student financial support coordinator,21-1012.00
+2432,2432.3,fundraising manager,11-2033.00
+2432,2432.3,fundraising manager,13-1131.00
+2432,2432.3,fundraising manager,41-9041.00
+3113,3113.1.1,calibration technician,17-3028.00
+3113,3113.1.1,calibration technician,51-2061.00
+3313,3313.2,bookkeeper,13-2011.00
+3313,3313.2,bookkeeper,43-3021.00
+3313,3313.2,bookkeeper,43-3031.00
+3313,3313.2,bookkeeper,43-3051.00
+3323,3323.5,timber trader,13-1021.00
+3323,3323.5,timber trader,45-4023.00
 2513,2513.5,web developer,15-1251.00
 2513,2513.5,web developer,15-1254.00
 2513,2513.5,web developer,15-1255.00
 2513,2513.5,web developer,15-1299.01
+2422,2422.18,trade development officer,19-3011.00
 2153,2153.1.1,telecommunications analyst,15-1231.00
 2153,2153.1.1,telecommunications analyst,15-1241.00
 2153,2153.1.1,telecommunications analyst,15-1241.01
 2153,2153.1.1,telecommunications analyst,17-2072.01
 2153,2153.1.1,telecommunications analyst,49-2022.00
+3324,3324.4.4,wholesale merchant in chemical products,41-4011.00
+3324,3324.4.32,wholesale merchant in tobacco products,41-4012.00
+2433,2433.6,technical sales representative,41-2022.00
+2433,2433.6,technical sales representative,41-4011.00
+2433,2433.6,technical sales representative,41-4012.00
+2433,2433.6,technical sales representative,41-9031.00
+3311,3311.2.3,mutual fund broker,11-3031.03
+3311,3311.2.3,mutual fund broker,41-3031.00
+2421,2421.4,lean manager,13-1082.00
+2411,2411.1.1,accounting analyst,11-2033.00
+2411,2411.1.1,accounting analyst,11-3031.01
+2411,2411.1.1,accounting analyst,11-9121.01
+2411,2411.1.1,accounting analyst,13-1131.00
+2411,2411.1.1,accounting analyst,13-2011.00
+2411,2411.1.1,accounting analyst,13-2081.00
+2411,2411.1.1,accounting analyst,13-2082.00
+2411,2411.1.1,accounting analyst,43-3031.00
+2422,2422.12,policy officer,11-1011.00
+2422,2422.12,policy officer,11-1011.03
+2422,2422.12,policy officer,11-9072.00
+2422,2422.12,policy officer,11-9121.02
+2422,2422.12,policy officer,11-9151.00
+2422,2422.12,policy officer,11-9199.01
+2422,2422.12,policy officer,11-9199.02
+2422,2422.12,policy officer,13-1041.03
+2422,2422.12,policy officer,13-1111.00
+2422,2422.12,policy officer,13-2081.00
+2422,2422.12,policy officer,13-2082.00
+2422,2422.12,policy officer,17-2021.00
+2422,2422.12,policy officer,19-1041.00
+2422,2422.12,policy officer,19-2041.01
+2422,2422.12,policy officer,19-3011.00
+2422,2422.12,policy officer,19-3011.01
+2422,2422.12,policy officer,19-3051.00
+2422,2422.12,policy officer,19-3099.00
+2422,2422.12,policy officer,21-1091.00
+2422,2422.15,public procurement specialist,43-3061.00
+3323,3323.1,costume buyer,39-3092.00
+3323,3323.1,costume buyer,43-3061.00
+2411,2411.1.2,audit supervisor,13-2011.00
+2411,2411.1.2,audit supervisor,13-2061.00
+2411,2411.1.2,audit supervisor,13-2082.00
 2511,2511.18,IT auditor,13-2011.00
+3324,3324.4.6,wholesale merchant in clothing and footwear,41-4012.00
+3323,3323.4,standalone public buyer,11-3061.00
+3323,3323.4,standalone public buyer,13-1023.00
 2512,2512.3,software architect,15-1252.00
 2512,2512.3,software architect,15-1299.07
 2512,2512.3,software architect,15-1299.08
+2433,2433.6.7,technical sales representative in the textile machinery industry,41-4011.00
+2433,2433.6.7,technical sales representative in the textile machinery industry,41-4012.00
+2433,2433.6.7,technical sales representative in the textile machinery industry,41-9031.00
+2412,2412.2,corporate banking adviser,13-2071.00
+2412,2412.2,corporate banking adviser,13-2072.00
+2412,2412.2,corporate banking adviser,43-4141.00
+2431,2431.7,creative director,11-2011.00
+2431,2431.7,creative director,27-1011.00
+2431,2431.7,creative director,27-1024.00
+3314,3314.2,statistical assistant,15-1211.01
+3314,3314.2,statistical assistant,15-2041.00
+3314,3314.2,statistical assistant,43-9111.00
+3324,3324.4.35,wholesale merchant in wood and construction materials,41-4012.00
+3331,3331.2.1.33,import export specialist in waste and scrap,13-1041.08
+2423,2423.3,human resources officer,11-3111.00
+2423,2423.3,human resources officer,11-3121.00
+2423,2423.3,human resources officer,13-1071.00
+2423,2423.3,human resources officer,13-1075.00
+2423,2423.3,human resources officer,13-1141.00
+2423,2423.3,human resources officer,43-4161.00
 2511,2511.3,data analyst,15-1242.00
 2511,2511.3,data analyst,15-1243.00
 2511,2511.3,data analyst,15-1243.01
 2511,2511.3,data analyst,15-2051.00
 2511,2511.3,data analyst,15-2051.01
 2511,2511.3,data analyst,43-9111.00
+2422,2422.12.12,public health policy officer,19-1041.00
+2422,2422.12.12,public health policy officer,21-1091.00
+3331,3331.2.1.11,import export specialist in electronic and telecommunications equipment,13-1041.08
+2422,2422.12.15,social services policy officer,19-3099.00
+3522,3522.1,telecommunications engineering technician,15-1231.00
+3522,3522.1,telecommunications engineering technician,15-1241.00
+3522,3522.1,telecommunications engineering technician,15-1241.01
+3522,3522.1,telecommunications engineering technician,49-2021.00
+3522,3522.1,telecommunications engineering technician,49-2022.00
+3522,3522.1,telecommunications engineering technician,49-9052.00
+2422,2422.11,parliamentary assistant,43-6011.00
+3331,3331.2.1.32,import export specialist in tobacco products,13-1041.08
+2424,2424.1,business coach,11-3131.00
+2424,2424.1,business coach,13-1151.00
+2412,2412.4.1,relationship banking manager,43-3071.00
+2411,2411.1.3,bankruptcy trustee,13-2061.00
+2411,2411.1.3,bankruptcy trustee,13-2081.00
+2411,2411.1.3,bankruptcy trustee,23-2093.00
+2411,2411.1.3,bankruptcy trustee,43-3011.00
+3323,3323.2.3,purchase planner,11-3061.00
+3323,3323.2.3,purchase planner,43-3061.00
+3323,3323.2.3,purchase planner,43-5061.00
+3331,3331.2.1.5,import export specialist in china and other glassware,13-1041.08
+3514,3514.1,webmaster,15-1254.00
+3514,3514.1,webmaster,15-1255.00
+3514,3514.1,webmaster,15-1299.01
+3521,3521.1.5,projectionist,27-4031.00
+3521,3521.1.5,projectionist,39-3021.00
 3114,3114.1.9,optoelectronic engineering technician,17-2199.07
 3114,3114.1.9,optoelectronic engineering technician,17-3029.08
 3114,3114.1.9,optoelectronic engineering technician,29-2081.00
 3114,3114.1.9,optoelectronic engineering technician,51-9083.00
+3331,3331.2.1.27,import export specialist in perfume and cosmetics,13-1041.08
+3324,3324.4.19,wholesale merchant in live animals,41-4012.00
+2431,2431.4,brand manager,11-2011.00
+2431,2431.4,brand manager,11-2021.00
+2412,2412.9,programme funding manager,11-2033.00
+2411,2411.1.6,dividend analyst,43-3051.00
+2431,2431.3,advertising specialist,11-2011.00
+2431,2431.3,advertising specialist,11-2032.00
+2431,2431.3,advertising specialist,13-1161.00
+2431,2431.3,advertising specialist,13-1161.01
+3324,3324.4.3,wholesale merchant in beverages,41-4011.00
+3324,3324.4.3,wholesale merchant in beverages,41-4012.00
+2431,2431.14,pricing specialist,13-1161.00
 2511,2511.14,ICT system architect,15-1211.00
 2511,2511.14,ICT system architect,15-1241.00
 2511,2511.14,ICT system architect,15-1242.00
 2511,2511.14,ICT system architect,15-1243.00
 2511,2511.14,ICT system architect,15-1299.07
 2511,2511.14,ICT system architect,15-1299.08
+3331,3331.2.1.31,import export specialist in textiles and textile semi-finished and raw materials,13-1041.08
+3311,3311.1,asset manager,11-3031.03
+3311,3311.1,asset manager,13-2052.00
 1330,1330.1,chief data officer,15-1243.01
 1330,1330.1,chief data officer,15-1299.03
 1330,1330.1,chief data officer,29-9021.00
@@ -301,14 +974,69 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2511,2511.1,computer scientist,15-2051.00
 2511,2511.1,computer scientist,17-2112.01
 2511,2511.1,computer scientist,19-1029.01
+3324,3324.1.2,waste broker,53-1042.01
+2423,2423.2,employment and vocational integration consultant,13-1071.00
+2423,2423.2,employment and vocational integration consultant,21-1012.00
+2423,2423.2,employment and vocational integration consultant,21-1015.00
+3324,3324.2,commodity trader,41-3031.00
+2431,2431.15,product and services manager,11-9199.00
 2152,2152.1.3,instrumentation engineer,17-2199.05
 2152,2152.1.3,instrumentation engineer,17-3028.00
 2151,2151.1.4,mine electrical engineer,17-2071.00
+2433,2433.6.6,technical sales representative in office machinery and equipment,41-4011.00
+2433,2433.6.6,technical sales representative in office machinery and equipment,41-4012.00
+2433,2433.6.6,technical sales representative in office machinery and equipment,41-9031.00
 2152,2152.1.8,microelectronics materials engineer,17-2061.00
 2152,2152.1.8,microelectronics materials engineer,17-2131.00
 2152,2152.1.8,microelectronics materials engineer,17-2199.06
 2152,2152.1.8,microelectronics materials engineer,17-2199.09
+3331,3331.2.1.23,import export specialist in metals and metal ores,13-1041.08
+3331,3331.2.1.10,import export specialist in electrical household appliances,13-1041.08
 1330,1330.8,ICT vendor relationship manager,11-9199.00
+3315,3315.5,loss adjuster,13-1031.00
+3315,3315.5,loss adjuster,13-1032.00
+3315,3315.5,loss adjuster,13-2022.00
+3315,3315.5,loss adjuster,13-2023.00
+3315,3315.5,loss adjuster,15-2011.00
+3315,3315.5,loss adjuster,43-9041.00
+3321,3321.3,insurance underwriter,13-1031.00
+3321,3321.3,insurance underwriter,13-1032.00
+3321,3321.3,insurance underwriter,13-2022.00
+3321,3321.3,insurance underwriter,13-2023.00
+3321,3321.3,insurance underwriter,13-2053.00
+3321,3321.3,insurance underwriter,13-2054.00
+3321,3321.3,insurance underwriter,15-2011.00
+3321,3321.3,insurance underwriter,43-9041.00
+3315,3315.6,personal property appraiser,13-1031.00
+3315,3315.6,personal property appraiser,13-1032.00
+3315,3315.6,personal property appraiser,13-1041.04
+3315,3315.6,personal property appraiser,13-2022.00
+3315,3315.6,personal property appraiser,13-2023.00
+3315,3315.6,personal property appraiser,23-2093.00
+3331,3331.2.1.4,import export specialist in chemical products,13-1041.08
+3324,3324.4.1,wholesale merchant in agricultural machinery and equipment,41-4011.00
+3324,3324.4.1,wholesale merchant in agricultural machinery and equipment,41-4012.00
+2411,2411.1,accountant,11-2033.00
+2411,2411.1,accountant,11-3031.01
+2411,2411.1,accountant,11-9121.01
+2411,2411.1,accountant,11-9199.08
+2411,2411.1,accountant,13-1051.00
+2411,2411.1,accountant,13-1111.00
+2411,2411.1,accountant,13-1131.00
+2411,2411.1,accountant,13-2011.00
+2411,2411.1,accountant,13-2031.00
+2411,2411.1,accountant,13-2061.00
+2411,2411.1,accountant,13-2081.00
+2411,2411.1,accountant,13-2082.00
+2411,2411.1,accountant,13-2099.04
+2411,2411.1,accountant,15-2031.00
+2411,2411.1,accountant,23-2093.00
+2411,2411.1,accountant,33-9021.00
+2411,2411.1,accountant,33-9099.02
+2411,2411.1,accountant,43-3011.00
+2411,2411.1,accountant,43-3031.00
+2411,2411.1,accountant,43-3051.00
+3331,3331.2.1.21,import export specialist in machine tools,13-1041.08
 1330,1330.5,ICT operations manager,11-3021.00
 1330,1330.5,ICT operations manager,15-1299.09
 2151,2151.1.6,substation engineer,17-2071.00
@@ -321,10 +1049,66 @@ iscoGroup,occupation_code,preferredLabel,occupation_id_onet
 2512,2512.4,software developer,15-1299.07
 2512,2512.4,software developer,15-1299.08
 1330,1330.5.1,software manager,15-1299.09
+3331,3331.2.1.30,import export specialist in textile industry machinery,13-1041.08
+3331,3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",13-1041.08
+3324,3324.4.13,wholesale merchant in flowers and plants,41-4012.00
+2432,2432.7,political party agent,11-1031.00
+2432,2432.7,political party agent,11-2032.00
+2432,2432.7,political party agent,27-3031.00
+3331,3331.2.1.9,import export specialist in dairy products and edible oils,13-1041.08
+2422,2422.12.7,foreign affairs officer,13-1041.03
+2422,2422.12.7,foreign affairs officer,13-1111.00
+2422,2422.12.4,education policy officer,19-2041.01
+3315,3315.2,gemmologist,13-2022.00
+3315,3315.2,gemmologist,51-9071.06
+3331,3331.2.1.17,"import export specialist in hides, skins and leather products",13-1041.08
+3311,3311.2.1,foreign exchange broker,41-3031.00
 2511,2511.19,user experience analyst,15-1255.00
 2511,2511.19,user experience analyst,17-2112.01
+3311,3311.3.3,futures trader,41-3031.00
+3323,3323.2.4,textile sourcing merchandiser,11-3061.00
 2152,2152.1.7.1,integrated circuit design engineer,17-2071.00
 2152,2152.1.7.1,integrated circuit design engineer,17-2072.00
 2152,2152.1.7.1,integrated circuit design engineer,17-2072.01
 2152,2152.1.7.1,integrated circuit design engineer,17-2199.06
+2433,2433.5,solar energy sales consultant,41-3091.00
+2433,2433.5,solar energy sales consultant,41-4011.07
+2433,2433.5,solar energy sales consultant,47-1011.03
+3324,3324.4.14,wholesale merchant in fruit and vegetables,41-4012.00
+2422,2422.12.13,recreation policy officer,11-9072.00
 2511,2511.9,ICT business analyst,15-1211.00
+3521,3521.2,broadcast technician,27-4012.00
+3521,3521.2,broadcast technician,49-2097.00
+3322,3322.1.2,renewable energy sales representative,41-3091.00
+3322,3322.1.2,renewable energy sales representative,41-4011.07
+2422,2422.1,civil service administrative officer,11-1011.00
+2422,2422.1,civil service administrative officer,11-1011.03
+2422,2422.1,civil service administrative officer,11-1021.00
+2422,2422.1,civil service administrative officer,11-3061.00
+2422,2422.1,civil service administrative officer,11-9072.00
+2422,2422.1,civil service administrative officer,11-9121.02
+2422,2422.1,civil service administrative officer,11-9151.00
+2422,2422.1,civil service administrative officer,11-9199.01
+2422,2422.1,civil service administrative officer,11-9199.02
+2422,2422.1,civil service administrative officer,13-1023.00
+2422,2422.1,civil service administrative officer,13-1041.03
+2422,2422.1,civil service administrative officer,13-1111.00
+2422,2422.1,civil service administrative officer,13-2081.00
+2422,2422.1,civil service administrative officer,13-2082.00
+2422,2422.1,civil service administrative officer,17-2021.00
+2422,2422.1,civil service administrative officer,19-1041.00
+2422,2422.1,civil service administrative officer,19-2041.01
+2422,2422.1,civil service administrative officer,19-3011.00
+2422,2422.1,civil service administrative officer,19-3011.01
+2422,2422.1,civil service administrative officer,19-3051.00
+2422,2422.1,civil service administrative officer,19-3094.00
+2422,2422.1,civil service administrative officer,19-3099.00
+2422,2422.1,civil service administrative officer,19-4061.00
+2422,2422.1,civil service administrative officer,21-1091.00
+2422,2422.1,civil service administrative officer,27-2022.00
+2422,2422.1,civil service administrative officer,27-3031.00
+2422,2422.1,civil service administrative officer,39-9032.00
+2422,2422.1,civil service administrative officer,43-3061.00
+2422,2422.1,civil service administrative officer,43-4061.00
+2422,2422.1,civil service administrative officer,43-6011.00
+2422,2422.1,civil service administrative officer,43-9061.00
