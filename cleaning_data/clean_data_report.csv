@@ -1,0 +1,9 @@
+table,rows_before,removed,rows_after
+sectors,41,0,41
+occupations,427,1,426
+tasks,24013,74,23939
+skills,3528,5,3523
+occupation_skills,18234,46,18188
+ESCO_task_ai_exposure,292,0,292
+ONET_task_ai_exposure,4818,0,4818
+ONET_occupation_ai_exposure,229,0,229

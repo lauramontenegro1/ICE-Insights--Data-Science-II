@@ -1,17 +1,25 @@
+"""
+TaskBridge - first cleaning: separate variables needed from datasets and filter occupations (IT + business)
+entry : ESCO (occupations, skills, occupations to skills), O*NET (tasks), openai ai exposure, antropic ai use report,
+ILO ai exposure datasets and crosswalk ESCO - ONET occupations id
+out   : taskbridge_tables_raw, with: sectors, occupations, tasks, skills, and ai exposure tables
+"""
+
+
 import pandas as pd
 import numpy as np
 
 #1. read data
-occupations_ESCO = pd.read_csv("raw ESCO/occupations_en.csv")
-ISCO_groups = pd.read_csv("raw ESCO/ISCOGroups_en.csv")
-skills_ESCO = pd.read_csv("raw ESCO/skills_en.csv")
-occupation_skills_ESCO = pd.read_csv("raw ESCO/occupationSkillRelations_en.csv")
-transversal_skills_ESCO = pd.read_csv("raw ESCO/transversalSkillsCollection_en.csv")
-tasks_ONET = pd.read_csv("ONET_task_statements.csv")
-ILO = pd.read_excel("ILO_dataset.xlsx")
-openai = pd.read_csv("openai_dataset.tsv", sep="\t")
-antropic_occupations= pd.read_csv("antropic_robot_exposure_occupations.csv")
-antropic_tasks = pd.read_csv("antropic_robot_exposure_tasks.csv")
+occupations_ESCO = pd.read_csv("datasets/raw ESCO/occupations_en.csv")
+ISCO_groups = pd.read_csv("datasets/raw ESCO/ISCOGroups_en.csv")
+skills_ESCO = pd.read_csv("datasets/raw ESCO/skills_en.csv")
+occupation_skills_ESCO = pd.read_csv("datasets/raw ESCO/occupationSkillRelations_en.csv")
+transversal_skills_ESCO = pd.read_csv("datasets/raw ESCO/transversalSkillsCollection_en.csv")
+tasks_ONET = pd.read_csv("datasets/ONET_task_statements.csv")
+ILO = pd.read_excel("datasets/ILO_dataset.xlsx")
+openai = pd.read_csv("datasets/openai_dataset.tsv", sep="\t")
+antropic_occupations= pd.read_csv("datasets/antropic_robot_exposure_occupations.csv")
+antropic_tasks = pd.read_csv("datasets/antropic_robot_exposure_tasks.csv")
 
 
 #1. sectors table
@@ -80,7 +88,7 @@ onet_exposure_table = onet_exposure_table[["occupation_id_onet", "canonical_titl
 
 
 #output csv com abas das tables e os datasets gerais
-with pd.ExcelWriter("taskbridge_tables.xlsx", engine="openpyxl") as writer:
+with pd.ExcelWriter("taskbridge_tables_raw.xlsx", engine="openpyxl") as writer:
     sectors_table.to_excel(writer, sheet_name="sectors", index=False)
     occupations_table.to_excel(writer, sheet_name="occupations", index=False)
     tasks_table.to_excel(writer, sheet_name="tasks", index=False)
