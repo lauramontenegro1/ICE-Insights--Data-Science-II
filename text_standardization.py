@@ -13,15 +13,17 @@ _DASHES    = re.compile(r"[\u2010\u2011\u2012\u2013\u2014\u2212]")   # ‐ ‑ �
 _QUOTES_S  = re.compile(r"[\u2018\u2019\u201a\u00b4`]")              # ‘ ’ ‚ ´ `
 _QUOTES_D  = re.compile(r"[\u201c\u201d\u201e]")                     # “ ” „
 
+
 def _nfkc(x):
     return unicodedata.normalize("NFKC", x) if pd.notna(x) else x    # ﬁ->fi, nbsp->espaço
 
-#keep capital letters, accents and ponctuation
+#keep capital letters, accents and ponctuation (except commas)
 def clean_text(s: pd.Series) -> pd.Series:
     s = s.astype("string").map(_nfkc).astype("string")
     s = s.str.replace(_INVISIBLE, "", regex=True)
     s = s.str.replace(_DASHES, "-", regex=True)
     s = s.str.replace(_QUOTES_S, "'", regex=True).str.replace(_QUOTES_D, '"', regex=True)
+    s = s.str.replace(",", "", regex=False)
     return s.str.replace(r"\s+", " ", regex=True).str.strip()
 
 def _strip_accents(x):

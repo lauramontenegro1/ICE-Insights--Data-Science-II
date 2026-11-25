@@ -2653,7 +2653,7 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2152.1.14,satellite engineer,CAE software,optional,cae software
 2152.1.14,satellite engineer,fluid mechanics,optional,fluid mechanics
 2152.1.14,satellite engineer,mechanical engineering,optional,mechanical engineering
-2152.1.14,satellite engineer,"guidance, navigation and control",optional,guidance navigation and control
+2152.1.14,satellite engineer,guidance navigation and control,optional,guidance navigation and control
 2152.1.14,satellite engineer,defense system,optional,defense system
 2152.1.14,satellite engineer,synthetic natural environment,optional,synthetic natural environment
 2152.1.14,satellite engineer,record test data,optional,record test data
@@ -3467,7 +3467,7 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2514.2.2,mobile application developer,integrate system components,optional,integrate system components
 2514.2.2,mobile application developer,adapt to changes in technological development plans,optional,adapt to changes in technological development plans
 2514.2.2,mobile application developer,design user interface,optional,design user interface
-3324.4.12,wholesale merchant in fish crustaceans and molluscs,"fish, crustacean and mollusc products",essential,fish crustacean and mollusc products
+3324.4.12,wholesale merchant in fish crustaceans and molluscs,fish crustacean and mollusc products,essential,fish crustacean and mollusc products
 3324.4.12,wholesale merchant in fish crustaceans and molluscs,product comprehension,essential,product comprehension
 3324.4.12,wholesale merchant in fish crustaceans and molluscs,sales strategies,essential,sales strategies
 3324.4.12,wholesale merchant in fish crustaceans and molluscs,identify suppliers,essential,identify suppliers
@@ -3741,31 +3741,31 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3331.2.1.35,import export specialist in wood and construction materials,monitor merchandise delivery,essential,monitor merchandise delivery
 3331.2.1.35,import export specialist in wood and construction materials,have computer literacy,essential,have computer literacy
 3331.2.1.35,import export specialist in wood and construction materials,plan transport operations,essential,plan transport operations
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",embargo regulations,essential,embargo regulations
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",general principles of food law,essential,general principles of food law
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds","agricultural raw materials, seeds and animal feed products",essential,agricultural raw materials seeds and animal feed products
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",protective measures against the introduction of organisms,essential,protective measures against the introduction of organisms
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",international commercial transactions rules,essential,international commercial transactions rules
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",international business,essential,international business
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",international import export regulations,essential,international import export regulations
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",regulations on substances,essential,regulations on substances
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",create solutions to problems,essential,create solutions to problems
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",create import-export commercial documentation,essential,create import-export commercial documentation
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",apply conflict management,essential,apply conflict management
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",apply export strategies,essential,apply export strategies
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",handle quotes from prospective shippers,essential,handle quotes from prospective shippers
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",speak different languages,essential,speak different languages
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",ensure customs compliance,essential,ensure customs compliance
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",administer multi-modal logistics,essential,administer multi-modal logistics
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",communicate with shipment forwarders,essential,communicate with shipment forwarders
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",meet deadlines,essential,meet deadlines
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",apply import strategies,essential,apply import strategies
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",file claims with insurance companies,essential,file claims with insurance companies
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",handle carriers,essential,handle carriers
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",monitor merchandise delivery,essential,monitor merchandise delivery
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",have computer literacy,essential,have computer literacy
-3331.2.1.2,"import export specialist in agricultural raw materials, seeds and animal feeds",plan transport operations,essential,plan transport operations
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,embargo regulations,essential,embargo regulations
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,general principles of food law,essential,general principles of food law
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,agricultural raw materials seeds and animal feed products,essential,agricultural raw materials seeds and animal feed products
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,protective measures against the introduction of organisms,essential,protective measures against the introduction of organisms
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,international commercial transactions rules,essential,international commercial transactions rules
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,international business,essential,international business
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,international import export regulations,essential,international import export regulations
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,regulations on substances,essential,regulations on substances
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,create solutions to problems,essential,create solutions to problems
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,create import-export commercial documentation,essential,create import-export commercial documentation
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,apply conflict management,essential,apply conflict management
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,apply export strategies,essential,apply export strategies
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,handle quotes from prospective shippers,essential,handle quotes from prospective shippers
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,speak different languages,essential,speak different languages
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,ensure customs compliance,essential,ensure customs compliance
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,administer multi-modal logistics,essential,administer multi-modal logistics
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,communicate with shipment forwarders,essential,communicate with shipment forwarders
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,meet deadlines,essential,meet deadlines
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,apply import strategies,essential,apply import strategies
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,file claims with insurance companies,essential,file claims with insurance companies
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,handle carriers,essential,handle carriers
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,monitor merchandise delivery,essential,monitor merchandise delivery
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,have computer literacy,essential,have computer literacy
+3331.2.1.2,import export specialist in agricultural raw materials seeds and animal feeds,plan transport operations,essential,plan transport operations
 3312.3,credit manager,debt collection techniques,essential,debt collection techniques
 3312.3,credit manager,financial statements,essential,financial statements
 3312.3,credit manager,financial management,essential,financial management
@@ -4508,7 +4508,7 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3324.4,wholesale merchant,metal and metal ore products,optional,metal and metal ore products
 3324.4,wholesale merchant,pharmaceutical products,optional,pharmaceutical products
 3324.4,wholesale merchant,chemical products,optional,chemical products
-3324.4,wholesale merchant,"agricultural raw materials, seeds and animal feed products",optional,agricultural raw materials seeds and animal feed products
+3324.4,wholesale merchant,agricultural raw materials seeds and animal feed products,optional,agricultural raw materials seeds and animal feed products
 3324.4,wholesale merchant,textile industry machinery products,optional,textile industry machinery products
 3324.4,wholesale merchant,e-procurement,optional,e-procurement
 3324.4,wholesale merchant,waste management,optional,waste management
@@ -4524,14 +4524,14 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3324.4,wholesale merchant,types of maritime vessels,optional,types of maritime vessels
 3324.4,wholesale merchant,export control principles,optional,export control principles
 3324.4,wholesale merchant,dairy and edible oil products,optional,dairy and edible oil products
-3324.4,wholesale merchant,"fish, crustacean and mollusc products",optional,fish crustacean and mollusc products
-3324.4,wholesale merchant,"sugar, chocolate and sugar confectionery products",optional,sugar chocolate and sugar confectionery products
-3324.4,wholesale merchant,"textile products, textile semi-finished products and raw materials",optional,textile products textile semi-finished products and raw materials
+3324.4,wholesale merchant,fish crustacean and mollusc products,optional,fish crustacean and mollusc products
+3324.4,wholesale merchant,sugar chocolate and sugar confectionery products,optional,sugar chocolate and sugar confectionery products
+3324.4,wholesale merchant,textile products textile semi-finished products and raw materials,optional,textile products textile semi-finished products and raw materials
 3324.4,wholesale merchant,machinery products,optional,machinery products
-3324.4,wholesale merchant,"hides, skins and leather products",optional,hides skins and leather products
-3324.4,wholesale merchant,"furniture, carpet and lighting equipment products",optional,furniture carpet and lighting equipment products
+3324.4,wholesale merchant,hides skins and leather products,optional,hides skins and leather products
+3324.4,wholesale merchant,furniture carpet and lighting equipment products,optional,furniture carpet and lighting equipment products
 3324.4,wholesale merchant,meat and meat products,optional,meat and meat products
-3324.4,wholesale merchant,"hardware, plumbing and heating equipment products",optional,hardware plumbing and heating equipment products
+3324.4,wholesale merchant,hardware plumbing and heating equipment products,optional,hardware plumbing and heating equipment products
 3324.4,wholesale merchant,beverage products,optional,beverage products
 3324.4,wholesale merchant,computer equipment,optional,computer equipment
 3324.4,wholesale merchant,fruit and vegetable products,optional,fruit and vegetable products
@@ -4542,10 +4542,10 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3324.4,wholesale merchant,watches and jewellery products,optional,watches and jewellery products
 3324.4,wholesale merchant,wood products,optional,wood products
 3324.4,wholesale merchant,perfume and cosmetic products,optional,perfume and cosmetic products
-3324.4,wholesale merchant,"mining, construction and civil engineering machinery products",optional,mining construction and civil engineering machinery products
+3324.4,wholesale merchant,mining construction and civil engineering machinery products,optional,mining construction and civil engineering machinery products
 3324.4,wholesale merchant,supply chain principles,optional,supply chain principles
 3324.4,wholesale merchant,commercial law,optional,commercial law
-3324.4,wholesale merchant,"coffee, tea, cocoa and spice products",optional,coffee tea cocoa and spice products
+3324.4,wholesale merchant,coffee tea cocoa and spice products,optional,coffee tea cocoa and spice products
 3324.4,wholesale merchant,office furniture products,optional,office furniture products
 3324.4,wholesale merchant,electronic communication,optional,electronic communication
 3324.4,wholesale merchant,household products,optional,household products
@@ -4561,29 +4561,29 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3324.4,wholesale merchant,meet deadlines,optional,meet deadlines
 3324.4,wholesale merchant,handle cargo space on sale,optional,handle cargo space on sale
 3324.4,wholesale merchant,tolerate stress,optional,tolerate stress
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",embargo regulations,essential,embargo regulations
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",import export regulations of dangerous chemicals,essential,import export regulations of dangerous chemicals
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",international commercial transactions rules,essential,international commercial transactions rules
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment","hardware, plumbing and heating equipment products",essential,hardware plumbing and heating equipment products
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",international import export regulations,essential,international import export regulations
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",export regulations of dual-use goods,essential,export regulations of dual-use goods
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",create solutions to problems,essential,create solutions to problems
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",create import-export commercial documentation,essential,create import-export commercial documentation
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",apply conflict management,essential,apply conflict management
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",apply export strategies,essential,apply export strategies
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",handle quotes from prospective shippers,essential,handle quotes from prospective shippers
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",speak different languages,essential,speak different languages
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",ensure customs compliance,essential,ensure customs compliance
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",administer multi-modal logistics,essential,administer multi-modal logistics
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",communicate with shipment forwarders,essential,communicate with shipment forwarders
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",meet deadlines,essential,meet deadlines
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",apply import strategies,essential,apply import strategies
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",file claims with insurance companies,essential,file claims with insurance companies
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",handle carriers,essential,handle carriers
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",monitor merchandise delivery,essential,monitor merchandise delivery
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",have computer literacy,essential,have computer literacy
-3331.2.1.16,"import export specialist in hardware, plumbing and heating equipment",plan transport operations,essential,plan transport operations
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,embargo regulations,essential,embargo regulations
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,import export regulations of dangerous chemicals,essential,import export regulations of dangerous chemicals
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,international commercial transactions rules,essential,international commercial transactions rules
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,hardware plumbing and heating equipment products,essential,hardware plumbing and heating equipment products
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,international import export regulations,essential,international import export regulations
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,export regulations of dual-use goods,essential,export regulations of dual-use goods
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,create solutions to problems,essential,create solutions to problems
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,create import-export commercial documentation,essential,create import-export commercial documentation
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,apply conflict management,essential,apply conflict management
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,apply export strategies,essential,apply export strategies
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,handle quotes from prospective shippers,essential,handle quotes from prospective shippers
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,speak different languages,essential,speak different languages
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,ensure customs compliance,essential,ensure customs compliance
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,administer multi-modal logistics,essential,administer multi-modal logistics
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,communicate with shipment forwarders,essential,communicate with shipment forwarders
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,meet deadlines,essential,meet deadlines
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,apply import strategies,essential,apply import strategies
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,file claims with insurance companies,essential,file claims with insurance companies
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,handle carriers,essential,handle carriers
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,monitor merchandise delivery,essential,monitor merchandise delivery
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,have computer literacy,essential,have computer literacy
+3331.2.1.16,import export specialist in hardware plumbing and heating equipment,plan transport operations,essential,plan transport operations
 2519.3,ICT change and configuration manager,digital systems,essential,digital systems
 2519.3,ICT change and configuration manager,tools for software configuration management,essential,tools for software configuration management
 2519.3,ICT change and configuration manager,ICT project management methodologies,essential,ict project management methodologies
@@ -4850,25 +4850,25 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3512.4,ICT technician,remove computer virus or malware from a computer,optional,remove computer virus or malware from a computer
 3512.4,ICT technician,manage ICT legacy implication,optional,manage ict legacy implication
 3512.4,ICT technician,configure ICT system,optional,configure ict system
-3324.4.17,"wholesale merchant in hides, skins and leather products","hides, skins and leather products",essential,hides skins and leather products
-3324.4.17,"wholesale merchant in hides, skins and leather products",product comprehension,essential,product comprehension
-3324.4.17,"wholesale merchant in hides, skins and leather products",sales strategies,essential,sales strategies
-3324.4.17,"wholesale merchant in hides, skins and leather products",identify suppliers,essential,identify suppliers
-3324.4.17,"wholesale merchant in hides, skins and leather products",monitor international market performance,essential,monitor international market performance
-3324.4.17,"wholesale merchant in hides, skins and leather products",initiate contact with sellers,essential,initiate contact with sellers
-3324.4.17,"wholesale merchant in hides, skins and leather products",identify customer's needs,essential,identify customer s needs
-3324.4.17,"wholesale merchant in hides, skins and leather products",negotiate sales contracts,essential,negotiate sales contracts
-3324.4.17,"wholesale merchant in hides, skins and leather products",comprehend financial business terminology,essential,comprehend financial business terminology
-3324.4.17,"wholesale merchant in hides, skins and leather products",assess supplier risks,essential,assess supplier risks
-3324.4.17,"wholesale merchant in hides, skins and leather products",initiate contact with buyers,essential,initiate contact with buyers
-3324.4.17,"wholesale merchant in hides, skins and leather products",have computer literacy,essential,have computer literacy
-3324.4.17,"wholesale merchant in hides, skins and leather products",identify new business opportunities,essential,identify new business opportunities
-3324.4.17,"wholesale merchant in hides, skins and leather products",negotiate sale of commodities,essential,negotiate sale of commodities
-3324.4.17,"wholesale merchant in hides, skins and leather products",build business relationships,essential,build business relationships
-3324.4.17,"wholesale merchant in hides, skins and leather products",plan transport operations,essential,plan transport operations
-3324.4.17,"wholesale merchant in hides, skins and leather products",maintain financial records,essential,maintain financial records
-3324.4.17,"wholesale merchant in hides, skins and leather products",negotiate buying conditions,essential,negotiate buying conditions
-3324.4.17,"wholesale merchant in hides, skins and leather products",perform market research,essential,perform market research
+3324.4.17,wholesale merchant in hides skins and leather products,hides skins and leather products,essential,hides skins and leather products
+3324.4.17,wholesale merchant in hides skins and leather products,product comprehension,essential,product comprehension
+3324.4.17,wholesale merchant in hides skins and leather products,sales strategies,essential,sales strategies
+3324.4.17,wholesale merchant in hides skins and leather products,identify suppliers,essential,identify suppliers
+3324.4.17,wholesale merchant in hides skins and leather products,monitor international market performance,essential,monitor international market performance
+3324.4.17,wholesale merchant in hides skins and leather products,initiate contact with sellers,essential,initiate contact with sellers
+3324.4.17,wholesale merchant in hides skins and leather products,identify customer's needs,essential,identify customer s needs
+3324.4.17,wholesale merchant in hides skins and leather products,negotiate sales contracts,essential,negotiate sales contracts
+3324.4.17,wholesale merchant in hides skins and leather products,comprehend financial business terminology,essential,comprehend financial business terminology
+3324.4.17,wholesale merchant in hides skins and leather products,assess supplier risks,essential,assess supplier risks
+3324.4.17,wholesale merchant in hides skins and leather products,initiate contact with buyers,essential,initiate contact with buyers
+3324.4.17,wholesale merchant in hides skins and leather products,have computer literacy,essential,have computer literacy
+3324.4.17,wholesale merchant in hides skins and leather products,identify new business opportunities,essential,identify new business opportunities
+3324.4.17,wholesale merchant in hides skins and leather products,negotiate sale of commodities,essential,negotiate sale of commodities
+3324.4.17,wholesale merchant in hides skins and leather products,build business relationships,essential,build business relationships
+3324.4.17,wholesale merchant in hides skins and leather products,plan transport operations,essential,plan transport operations
+3324.4.17,wholesale merchant in hides skins and leather products,maintain financial records,essential,maintain financial records
+3324.4.17,wholesale merchant in hides skins and leather products,negotiate buying conditions,essential,negotiate buying conditions
+3324.4.17,wholesale merchant in hides skins and leather products,perform market research,essential,perform market research
 3312.8,mortgage broker,banking activities,essential,banking activities
 3312.8,mortgage broker,securities,essential,securities
 3312.8,mortgage broker,mortgage loans,essential,mortgage loans
@@ -5404,35 +5404,35 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3321.3.1,property insurance underwriter,handle financial disputes,optional,handle financial disputes
 3321.3.1,property insurance underwriter,manage contract disputes,optional,manage contract disputes
 3321.3.1,property insurance underwriter,organise a damage assessment,optional,organise a damage assessment
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",characteristics of products,essential,characteristics of products
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",sales promotion techniques,essential,sales promotion techniques
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment","hardware, plumbing and heating equipment products",essential,hardware plumbing and heating equipment products
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",product comprehension,essential,product comprehension
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",characteristics of services,essential,characteristics of services
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",guarantee customer satisfaction,essential,guarantee customer satisfaction
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",communicate with customers,essential,communicate with customers
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",manage schedule of tasks,essential,manage schedule of tasks
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",implement marketing strategies,essential,implement marketing strategies
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",ensure compliance with legal requirements,essential,ensure compliance with legal requirements
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",answer requests for quotation,essential,answer requests for quotation
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",maintain relationship with customers,essential,maintain relationship with customers
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",implement customer follow-up,essential,implement customer follow-up
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",prospect new customers,essential,prospect new customers
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",record customers' personal data,essential,record customers personal data
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",contact customers,essential,contact customers
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",keep records of customer interaction,essential,keep records of customer interaction
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",demonstrate motivation for sales,essential,demonstrate motivation for sales
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",use customer relationship management software,essential,use customer relationship management software
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",produce sales reports,essential,produce sales reports
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",ensure client orientation,essential,ensure client orientation
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",implement sales strategies,essential,implement sales strategies
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",apply technical communication skills,essential,apply technical communication skills
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",respond to customers' inquiries,essential,respond to customers inquiries
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",supervise sales activities,essential,supervise sales activities
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",have computer literacy,essential,have computer literacy
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",demonstrate products' features,essential,demonstrate products features
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",provide customer follow-up services,essential,provide customer follow-up services
-2433.6.3,"technical sales representative in hardware, plumbing and heating equipment",keep records on sales,essential,keep records on sales
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,characteristics of products,essential,characteristics of products
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,sales promotion techniques,essential,sales promotion techniques
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,hardware plumbing and heating equipment products,essential,hardware plumbing and heating equipment products
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,product comprehension,essential,product comprehension
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,characteristics of services,essential,characteristics of services
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,guarantee customer satisfaction,essential,guarantee customer satisfaction
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,communicate with customers,essential,communicate with customers
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,manage schedule of tasks,essential,manage schedule of tasks
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,implement marketing strategies,essential,implement marketing strategies
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,ensure compliance with legal requirements,essential,ensure compliance with legal requirements
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,answer requests for quotation,essential,answer requests for quotation
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,maintain relationship with customers,essential,maintain relationship with customers
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,implement customer follow-up,essential,implement customer follow-up
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,prospect new customers,essential,prospect new customers
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,record customers' personal data,essential,record customers personal data
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,contact customers,essential,contact customers
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,keep records of customer interaction,essential,keep records of customer interaction
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,demonstrate motivation for sales,essential,demonstrate motivation for sales
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,use customer relationship management software,essential,use customer relationship management software
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,produce sales reports,essential,produce sales reports
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,ensure client orientation,essential,ensure client orientation
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,implement sales strategies,essential,implement sales strategies
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,apply technical communication skills,essential,apply technical communication skills
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,respond to customers' inquiries,essential,respond to customers inquiries
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,supervise sales activities,essential,supervise sales activities
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,have computer literacy,essential,have computer literacy
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,demonstrate products' features,essential,demonstrate products features
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,provide customer follow-up services,essential,provide customer follow-up services
+2433.6.3,technical sales representative in hardware plumbing and heating equipment,keep records on sales,essential,keep records on sales
 2431.12,membership manager,customer service,essential,customer service
 2431.12,membership manager,corporate social responsibility,essential,corporate social responsibility
 2431.12,membership manager,product comprehension,essential,product comprehension
@@ -6301,7 +6301,7 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2519.7.4,ICT system tester,perform software recovery testing,optional,perform software recovery testing
 2433.6.5,technical sales representative in mining and construction machinery,characteristics of products,essential,characteristics of products
 2433.6.5,technical sales representative in mining and construction machinery,sales promotion techniques,essential,sales promotion techniques
-2433.6.5,technical sales representative in mining and construction machinery,"mining, construction and civil engineering machinery products",essential,mining construction and civil engineering machinery products
+2433.6.5,technical sales representative in mining and construction machinery,mining construction and civil engineering machinery products,essential,mining construction and civil engineering machinery products
 2433.6.5,technical sales representative in mining and construction machinery,product comprehension,essential,product comprehension
 2433.6.5,technical sales representative in mining and construction machinery,characteristics of services,essential,characteristics of services
 2433.6.5,technical sales representative in mining and construction machinery,guarantee customer satisfaction,essential,guarantee customer satisfaction
@@ -6544,7 +6544,7 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2434.2,ICT business development manager,build business relationships,optional,build business relationships
 1213.7,health safety and environmental manager,production processes,essential,production processes
 1213.7,health safety and environmental manager,health and safety in the workplace,essential,health and safety in the workplace
-1213.7,health safety and environmental manager,"health, safety and hygiene legislation",essential,health safety and hygiene legislation
+1213.7,health safety and environmental manager,health safety and hygiene legislation,essential,health safety and hygiene legislation
 1213.7,health safety and environmental manager,pollution legislation,essential,pollution legislation
 1213.7,health safety and environmental manager,business analysis,essential,business analysis
 1213.7,health safety and environmental manager,audit techniques,essential,audit techniques
@@ -6558,7 +6558,7 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 1213.7,health safety and environmental manager,energy conservation,essential,energy conservation
 1213.7,health safety and environmental manager,health and safety regulations,essential,health and safety regulations
 1213.7,health safety and environmental manager,communicate health and safety measures,essential,communicate health and safety measures
-1213.7,health safety and environmental manager,"make health, safety and environment assessments",essential,make health safety and environment assessments
+1213.7,health safety and environmental manager,make health safety and environment assessments,essential,make health safety and environment assessments
 1213.7,health safety and environmental manager,perform risk analysis,essential,perform risk analysis
 1213.7,health safety and environmental manager,manage health and safety standards,essential,manage health and safety standards
 1213.7,health safety and environmental manager,promote sustainability,essential,promote sustainability
@@ -7364,7 +7364,7 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3331.2.1,import export specialist,pharmaceutical products,optional,pharmaceutical products
 3331.2.1,import export specialist,types of coffee beans,optional,types of coffee beans
 3331.2.1,import export specialist,chemical products,optional,chemical products
-3331.2.1,import export specialist,"agricultural raw materials, seeds and animal feed products",optional,agricultural raw materials seeds and animal feed products
+3331.2.1,import export specialist,agricultural raw materials seeds and animal feed products,optional,agricultural raw materials seeds and animal feed products
 3331.2.1,import export specialist,textile industry machinery products,optional,textile industry machinery products
 3331.2.1,import export specialist,protective measures against the introduction of organisms,optional,protective measures against the introduction of organisms
 3331.2.1,import export specialist,footwear industry,optional,footwear industry
@@ -7381,15 +7381,15 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3331.2.1,import export specialist,types of maritime vessels,optional,types of maritime vessels
 3331.2.1,import export specialist,export control principles,optional,export control principles
 3331.2.1,import export specialist,dairy and edible oil products,optional,dairy and edible oil products
-3331.2.1,import export specialist,"fish, crustacean and mollusc products",optional,fish crustacean and mollusc products
-3331.2.1,import export specialist,"sugar, chocolate and sugar confectionery products",optional,sugar chocolate and sugar confectionery products
-3331.2.1,import export specialist,"textile products, textile semi-finished products and raw materials",optional,textile products textile semi-finished products and raw materials
+3331.2.1,import export specialist,fish crustacean and mollusc products,optional,fish crustacean and mollusc products
+3331.2.1,import export specialist,sugar chocolate and sugar confectionery products,optional,sugar chocolate and sugar confectionery products
+3331.2.1,import export specialist,textile products textile semi-finished products and raw materials,optional,textile products textile semi-finished products and raw materials
 3331.2.1,import export specialist,machinery products,optional,machinery products
 3331.2.1,import export specialist,food hygiene rules,optional,food hygiene rules
-3331.2.1,import export specialist,"hides, skins and leather products",optional,hides skins and leather products
-3331.2.1,import export specialist,"furniture, carpet and lighting equipment products",optional,furniture carpet and lighting equipment products
+3331.2.1,import export specialist,hides skins and leather products,optional,hides skins and leather products
+3331.2.1,import export specialist,furniture carpet and lighting equipment products,optional,furniture carpet and lighting equipment products
 3331.2.1,import export specialist,meat and meat products,optional,meat and meat products
-3331.2.1,import export specialist,"hardware, plumbing and heating equipment products",optional,hardware plumbing and heating equipment products
+3331.2.1,import export specialist,hardware plumbing and heating equipment products,optional,hardware plumbing and heating equipment products
 3331.2.1,import export specialist,beverage products,optional,beverage products
 3331.2.1,import export specialist,computer equipment,optional,computer equipment
 3331.2.1,import export specialist,fruit and vegetable products,optional,fruit and vegetable products
@@ -7405,9 +7405,9 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3331.2.1,import export specialist,wood products,optional,wood products
 3331.2.1,import export specialist,perfume and cosmetic products,optional,perfume and cosmetic products
 3331.2.1,import export specialist,export regulations of dual-use goods,optional,export regulations of dual-use goods
-3331.2.1,import export specialist,"mining, construction and civil engineering machinery products",optional,mining construction and civil engineering machinery products
+3331.2.1,import export specialist,mining construction and civil engineering machinery products,optional,mining construction and civil engineering machinery products
 3331.2.1,import export specialist,regulations on substances,optional,regulations on substances
-3331.2.1,import export specialist,"coffee, tea, cocoa and spice products",optional,coffee tea cocoa and spice products
+3331.2.1,import export specialist,coffee tea cocoa and spice products,optional,coffee tea cocoa and spice products
 3331.2.1,import export specialist,food and beverage industry,optional,food and beverage industry
 3331.2.1,import export specialist,office furniture products,optional,office furniture products
 3331.2.1,import export specialist,household products,optional,household products
@@ -7660,30 +7660,30 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 1213.2,policy manager,implement strategic planning,optional,implement strategic planning
 1213.2,policy manager,advise on waste management procedures,optional,advise on waste management procedures
 1213.2,policy manager,perform market research,optional,perform market research
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",types of aircraft,essential,types of aircraft
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",capital goods industry,essential,capital goods industry
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",types of maritime vessels,essential,types of maritime vessels
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",machinery products,essential,machinery products
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",industrial tools,essential,industrial tools
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",product comprehension,essential,product comprehension
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",sales strategies,essential,sales strategies
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",identify suppliers,essential,identify suppliers
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",monitor international market performance,essential,monitor international market performance
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",initiate contact with sellers,essential,initiate contact with sellers
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",identify customer's needs,essential,identify customer s needs
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",negotiate sales contracts,essential,negotiate sales contracts
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",comprehend financial business terminology,essential,comprehend financial business terminology
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",assess supplier risks,essential,assess supplier risks
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",initiate contact with buyers,essential,initiate contact with buyers
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",have computer literacy,essential,have computer literacy
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",identify new business opportunities,essential,identify new business opportunities
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",negotiate sale of commodities,essential,negotiate sale of commodities
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",build business relationships,essential,build business relationships
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",plan transport operations,essential,plan transport operations
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",maintain financial records,essential,maintain financial records
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",negotiate buying conditions,essential,negotiate buying conditions
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",perform market research,essential,perform market research
-3324.4.20,"wholesale merchant in machinery, industrial equipment, ships and aircraft",international business,optional,international business
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,types of aircraft,essential,types of aircraft
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,capital goods industry,essential,capital goods industry
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,types of maritime vessels,essential,types of maritime vessels
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,machinery products,essential,machinery products
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,industrial tools,essential,industrial tools
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,product comprehension,essential,product comprehension
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,sales strategies,essential,sales strategies
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,identify suppliers,essential,identify suppliers
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,monitor international market performance,essential,monitor international market performance
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,initiate contact with sellers,essential,initiate contact with sellers
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,identify customer's needs,essential,identify customer s needs
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,negotiate sales contracts,essential,negotiate sales contracts
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,comprehend financial business terminology,essential,comprehend financial business terminology
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,assess supplier risks,essential,assess supplier risks
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,initiate contact with buyers,essential,initiate contact with buyers
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,have computer literacy,essential,have computer literacy
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,identify new business opportunities,essential,identify new business opportunities
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,negotiate sale of commodities,essential,negotiate sale of commodities
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,build business relationships,essential,build business relationships
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,plan transport operations,essential,plan transport operations
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,maintain financial records,essential,maintain financial records
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,negotiate buying conditions,essential,negotiate buying conditions
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,perform market research,essential,perform market research
+3324.4.20,wholesale merchant in machinery industrial equipment ships and aircraft,international business,optional,international business
 2412.11,venture capitalist,funding methods,essential,funding methods
 2412.11,venture capitalist,business valuation techniques,essential,business valuation techniques
 2412.11,venture capitalist,business analysis,essential,business analysis
@@ -7749,25 +7749,25 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2422.3,employment programme coordinator,advise on legislative acts,optional,advise on legislative acts
 2422.3,employment programme coordinator,analyse goal progress,optional,analyse goal progress
 2422.3,employment programme coordinator,manage government policy implementation,optional,manage government policy implementation
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment","furniture, carpet and lighting equipment products",essential,furniture carpet and lighting equipment products
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",product comprehension,essential,product comprehension
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",sales strategies,essential,sales strategies
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",identify suppliers,essential,identify suppliers
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",monitor international market performance,essential,monitor international market performance
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",initiate contact with sellers,essential,initiate contact with sellers
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",identify customer's needs,essential,identify customer s needs
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",negotiate sales contracts,essential,negotiate sales contracts
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",comprehend financial business terminology,essential,comprehend financial business terminology
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",assess supplier risks,essential,assess supplier risks
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",initiate contact with buyers,essential,initiate contact with buyers
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",have computer literacy,essential,have computer literacy
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",identify new business opportunities,essential,identify new business opportunities
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",negotiate sale of commodities,essential,negotiate sale of commodities
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",build business relationships,essential,build business relationships
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",plan transport operations,essential,plan transport operations
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",maintain financial records,essential,maintain financial records
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",negotiate buying conditions,essential,negotiate buying conditions
-3324.4.15,"wholesale merchant in furniture, carpets and lighting equipment",perform market research,essential,perform market research
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,furniture carpet and lighting equipment products,essential,furniture carpet and lighting equipment products
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,product comprehension,essential,product comprehension
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,sales strategies,essential,sales strategies
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,identify suppliers,essential,identify suppliers
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,monitor international market performance,essential,monitor international market performance
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,initiate contact with sellers,essential,initiate contact with sellers
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,identify customer's needs,essential,identify customer s needs
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,negotiate sales contracts,essential,negotiate sales contracts
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,comprehend financial business terminology,essential,comprehend financial business terminology
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,assess supplier risks,essential,assess supplier risks
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,initiate contact with buyers,essential,initiate contact with buyers
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,have computer literacy,essential,have computer literacy
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,identify new business opportunities,essential,identify new business opportunities
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,negotiate sale of commodities,essential,negotiate sale of commodities
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,build business relationships,essential,build business relationships
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,plan transport operations,essential,plan transport operations
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,maintain financial records,essential,maintain financial records
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,negotiate buying conditions,essential,negotiate buying conditions
+3324.4.15,wholesale merchant in furniture carpets and lighting equipment,perform market research,essential,perform market research
 2431.11,market research analyst,digital data processing,essential,digital data processing
 2431.11,market research analyst,consumer goods industry,essential,consumer goods industry
 2431.11,market research analyst,marketing analytics,essential,marketing analytics
@@ -7964,25 +7964,25 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2422.12.9,immigration policy officer,foster dialogue in society,optional,foster dialogue in society
 2422.12.9,immigration policy officer,advise on foreign affairs policies,optional,advise on foreign affairs policies
 2422.12.9,immigration policy officer,analyse community needs,optional,analyse community needs
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery","sugar, chocolate and sugar confectionery products",essential,sugar chocolate and sugar confectionery products
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",product comprehension,essential,product comprehension
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",sales strategies,essential,sales strategies
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",identify suppliers,essential,identify suppliers
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",monitor international market performance,essential,monitor international market performance
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",initiate contact with sellers,essential,initiate contact with sellers
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",identify customer's needs,essential,identify customer s needs
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",negotiate sales contracts,essential,negotiate sales contracts
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",comprehend financial business terminology,essential,comprehend financial business terminology
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",assess supplier risks,essential,assess supplier risks
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",initiate contact with buyers,essential,initiate contact with buyers
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",have computer literacy,essential,have computer literacy
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",identify new business opportunities,essential,identify new business opportunities
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",negotiate sale of commodities,essential,negotiate sale of commodities
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",build business relationships,essential,build business relationships
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",plan transport operations,essential,plan transport operations
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",maintain financial records,essential,maintain financial records
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",negotiate buying conditions,essential,negotiate buying conditions
-3324.4.29,"wholesale merchant in sugar, chocolate and sugar confectionery",perform market research,essential,perform market research
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,sugar chocolate and sugar confectionery products,essential,sugar chocolate and sugar confectionery products
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,product comprehension,essential,product comprehension
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,sales strategies,essential,sales strategies
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,identify suppliers,essential,identify suppliers
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,monitor international market performance,essential,monitor international market performance
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,initiate contact with sellers,essential,initiate contact with sellers
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,identify customer's needs,essential,identify customer s needs
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,negotiate sales contracts,essential,negotiate sales contracts
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,comprehend financial business terminology,essential,comprehend financial business terminology
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,assess supplier risks,essential,assess supplier risks
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,initiate contact with buyers,essential,initiate contact with buyers
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,have computer literacy,essential,have computer literacy
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,identify new business opportunities,essential,identify new business opportunities
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,negotiate sale of commodities,essential,negotiate sale of commodities
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,build business relationships,essential,build business relationships
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,plan transport operations,essential,plan transport operations
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,maintain financial records,essential,maintain financial records
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,negotiate buying conditions,essential,negotiate buying conditions
+3324.4.29,wholesale merchant in sugar chocolate and sugar confectionery,perform market research,essential,perform market research
 2512.9,IoT developer,digital data processing,essential,digital data processing
 2512.9,IoT developer,machine learning,essential,machine learning
 2512.9,IoT developer,hardware testing methods,essential,hardware testing methods
@@ -8266,25 +8266,25 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2511.12,ICT research consultant,report analysis results,optional,report analysis results
 2511.12,ICT research consultant,monitor ICT research,optional,monitor ict research
 2511.12,ICT research consultant,provide multimedia content,optional,provide multimedia content
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices","coffee, tea, cocoa and spice products",essential,coffee tea cocoa and spice products
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",product comprehension,essential,product comprehension
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",sales strategies,essential,sales strategies
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",identify suppliers,essential,identify suppliers
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",monitor international market performance,essential,monitor international market performance
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",initiate contact with sellers,essential,initiate contact with sellers
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",identify customer's needs,essential,identify customer s needs
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",negotiate sales contracts,essential,negotiate sales contracts
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",comprehend financial business terminology,essential,comprehend financial business terminology
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",assess supplier risks,essential,assess supplier risks
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",initiate contact with buyers,essential,initiate contact with buyers
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",have computer literacy,essential,have computer literacy
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",identify new business opportunities,essential,identify new business opportunities
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",negotiate sale of commodities,essential,negotiate sale of commodities
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",build business relationships,essential,build business relationships
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",plan transport operations,essential,plan transport operations
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",maintain financial records,essential,maintain financial records
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",negotiate buying conditions,essential,negotiate buying conditions
-3324.4.7,"wholesale merchant in coffee, tea, cocoa and spices",perform market research,essential,perform market research
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,coffee tea cocoa and spice products,essential,coffee tea cocoa and spice products
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,product comprehension,essential,product comprehension
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,sales strategies,essential,sales strategies
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,identify suppliers,essential,identify suppliers
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,monitor international market performance,essential,monitor international market performance
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,initiate contact with sellers,essential,initiate contact with sellers
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,identify customer's needs,essential,identify customer s needs
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,negotiate sales contracts,essential,negotiate sales contracts
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,comprehend financial business terminology,essential,comprehend financial business terminology
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,assess supplier risks,essential,assess supplier risks
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,initiate contact with buyers,essential,initiate contact with buyers
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,have computer literacy,essential,have computer literacy
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,identify new business opportunities,essential,identify new business opportunities
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,negotiate sale of commodities,essential,negotiate sale of commodities
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,build business relationships,essential,build business relationships
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,plan transport operations,essential,plan transport operations
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,maintain financial records,essential,maintain financial records
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,negotiate buying conditions,essential,negotiate buying conditions
+3324.4.7,wholesale merchant in coffee tea cocoa and spices,perform market research,essential,perform market research
 3521.1.2,camera operator,photography,essential,photography
 3521.1.2,camera operator,lighting techniques,essential,lighting techniques
 3521.1.2,camera operator,audiovisual equipment,essential,audiovisual equipment
@@ -8536,31 +8536,31 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2412.8,personal trust officer,analyse financial risk,optional,analyse financial risk
 2412.8,personal trust officer,handle financial disputes,optional,handle financial disputes
 2412.8,personal trust officer,handle financial transactions,optional,handle financial transactions
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",embargo regulations,essential,embargo regulations
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",general principles of food law,essential,general principles of food law
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",protective measures against the introduction of organisms,essential,protective measures against the introduction of organisms
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery","sugar, chocolate and sugar confectionery products",essential,sugar chocolate and sugar confectionery products
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",international commercial transactions rules,essential,international commercial transactions rules
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",food hygiene rules,essential,food hygiene rules
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",international import export regulations,essential,international import export regulations
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",regulations on substances,essential,regulations on substances
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",create solutions to problems,essential,create solutions to problems
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",create import-export commercial documentation,essential,create import-export commercial documentation
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",apply conflict management,essential,apply conflict management
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",apply export strategies,essential,apply export strategies
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",handle quotes from prospective shippers,essential,handle quotes from prospective shippers
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",speak different languages,essential,speak different languages
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",ensure customs compliance,essential,ensure customs compliance
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",administer multi-modal logistics,essential,administer multi-modal logistics
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",communicate with shipment forwarders,essential,communicate with shipment forwarders
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",meet deadlines,essential,meet deadlines
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",apply import strategies,essential,apply import strategies
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",file claims with insurance companies,essential,file claims with insurance companies
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",handle carriers,essential,handle carriers
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",monitor merchandise delivery,essential,monitor merchandise delivery
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",have computer literacy,essential,have computer literacy
-3331.2.1.29,"import export specialist in sugar, chocolate and sugar confectionery",plan transport operations,essential,plan transport operations
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,embargo regulations,essential,embargo regulations
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,general principles of food law,essential,general principles of food law
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,protective measures against the introduction of organisms,essential,protective measures against the introduction of organisms
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,sugar chocolate and sugar confectionery products,essential,sugar chocolate and sugar confectionery products
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,international commercial transactions rules,essential,international commercial transactions rules
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,food hygiene rules,essential,food hygiene rules
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,international import export regulations,essential,international import export regulations
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,regulations on substances,essential,regulations on substances
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,create solutions to problems,essential,create solutions to problems
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,create import-export commercial documentation,essential,create import-export commercial documentation
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,apply conflict management,essential,apply conflict management
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,apply export strategies,essential,apply export strategies
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,handle quotes from prospective shippers,essential,handle quotes from prospective shippers
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,speak different languages,essential,speak different languages
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,ensure customs compliance,essential,ensure customs compliance
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,administer multi-modal logistics,essential,administer multi-modal logistics
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,communicate with shipment forwarders,essential,communicate with shipment forwarders
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,meet deadlines,essential,meet deadlines
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,apply import strategies,essential,apply import strategies
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,file claims with insurance companies,essential,file claims with insurance companies
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,handle carriers,essential,handle carriers
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,monitor merchandise delivery,essential,monitor merchandise delivery
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,have computer literacy,essential,have computer literacy
+3331.2.1.29,import export specialist in sugar chocolate and sugar confectionery,plan transport operations,essential,plan transport operations
 2519.7.3,ICT integration tester,software anomalies,essential,software anomalies
 2519.7.3,ICT integration tester,levels of software testing,essential,levels of software testing
 2519.7.3,ICT integration tester,use an application-specific interface,essential,use an application-specific interface
@@ -9319,7 +9319,7 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2152.1.6,microelectronics designer,perform resource planning,optional,perform resource planning
 2422.17,sports programme coordinator,project management principles,essential,project management principles
 2422.17,sports programme coordinator,government policy implementation,essential,government policy implementation
-2422.17,sports programme coordinator,"health, safety and hygiene legislation",essential,health safety and hygiene legislation
+2422.17,sports programme coordinator,health safety and hygiene legislation,essential,health safety and hygiene legislation
 2422.17,sports programme coordinator,liaise with local authorities,essential,liaise with local authorities
 2422.17,sports programme coordinator,liaise with sports organisations,essential,liaise with sports organisations
 2422.17,sports programme coordinator,establish collaborative relations,essential,establish collaborative relations
@@ -10007,29 +10007,29 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2432.2,election agent,develop media strategy,optional,develop media strategy
 2432.2,election agent,influence voting behaviour,optional,influence voting behaviour
 2432.2,election agent,advise on public image,optional,advise on public image
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",embargo regulations,essential,embargo regulations
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",international commercial transactions rules,essential,international commercial transactions rules
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",computer equipment,essential,computer equipment
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",ICT software specifications,essential,ict software specifications
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",multimedia systems,essential,multimedia systems
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",international import export regulations,essential,international import export regulations
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",create solutions to problems,essential,create solutions to problems
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",create import-export commercial documentation,essential,create import-export commercial documentation
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",apply conflict management,essential,apply conflict management
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",apply export strategies,essential,apply export strategies
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",handle quotes from prospective shippers,essential,handle quotes from prospective shippers
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",speak different languages,essential,speak different languages
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",ensure customs compliance,essential,ensure customs compliance
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",administer multi-modal logistics,essential,administer multi-modal logistics
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",communicate with shipment forwarders,essential,communicate with shipment forwarders
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",meet deadlines,essential,meet deadlines
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",apply import strategies,essential,apply import strategies
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",file claims with insurance companies,essential,file claims with insurance companies
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",handle carriers,essential,handle carriers
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",monitor merchandise delivery,essential,monitor merchandise delivery
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",have computer literacy,essential,have computer literacy
-3331.2.1.8,"import export specialist in computers, peripheral equipment and software",plan transport operations,essential,plan transport operations
+3331.2.1.8,import export specialist in computers peripheral equipment and software,embargo regulations,essential,embargo regulations
+3331.2.1.8,import export specialist in computers peripheral equipment and software,international commercial transactions rules,essential,international commercial transactions rules
+3331.2.1.8,import export specialist in computers peripheral equipment and software,computer equipment,essential,computer equipment
+3331.2.1.8,import export specialist in computers peripheral equipment and software,ICT software specifications,essential,ict software specifications
+3331.2.1.8,import export specialist in computers peripheral equipment and software,multimedia systems,essential,multimedia systems
+3331.2.1.8,import export specialist in computers peripheral equipment and software,international import export regulations,essential,international import export regulations
+3331.2.1.8,import export specialist in computers peripheral equipment and software,create solutions to problems,essential,create solutions to problems
+3331.2.1.8,import export specialist in computers peripheral equipment and software,create import-export commercial documentation,essential,create import-export commercial documentation
+3331.2.1.8,import export specialist in computers peripheral equipment and software,apply conflict management,essential,apply conflict management
+3331.2.1.8,import export specialist in computers peripheral equipment and software,apply export strategies,essential,apply export strategies
+3331.2.1.8,import export specialist in computers peripheral equipment and software,handle quotes from prospective shippers,essential,handle quotes from prospective shippers
+3331.2.1.8,import export specialist in computers peripheral equipment and software,speak different languages,essential,speak different languages
+3331.2.1.8,import export specialist in computers peripheral equipment and software,ensure customs compliance,essential,ensure customs compliance
+3331.2.1.8,import export specialist in computers peripheral equipment and software,administer multi-modal logistics,essential,administer multi-modal logistics
+3331.2.1.8,import export specialist in computers peripheral equipment and software,build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
+3331.2.1.8,import export specialist in computers peripheral equipment and software,communicate with shipment forwarders,essential,communicate with shipment forwarders
+3331.2.1.8,import export specialist in computers peripheral equipment and software,meet deadlines,essential,meet deadlines
+3331.2.1.8,import export specialist in computers peripheral equipment and software,apply import strategies,essential,apply import strategies
+3331.2.1.8,import export specialist in computers peripheral equipment and software,file claims with insurance companies,essential,file claims with insurance companies
+3331.2.1.8,import export specialist in computers peripheral equipment and software,handle carriers,essential,handle carriers
+3331.2.1.8,import export specialist in computers peripheral equipment and software,monitor merchandise delivery,essential,monitor merchandise delivery
+3331.2.1.8,import export specialist in computers peripheral equipment and software,have computer literacy,essential,have computer literacy
+3331.2.1.8,import export specialist in computers peripheral equipment and software,plan transport operations,essential,plan transport operations
 2411.1.5,cost analyst,financial department processes,essential,financial department processes
 2411.1.5,cost analyst,liquidity management,essential,liquidity management
 2411.1.5,cost analyst,cost management,essential,cost management
@@ -10557,25 +10557,25 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2422.13,political affairs officer,maintain operational communications,optional,maintain operational communications
 2422.13,political affairs officer,analyse potential threats against national security,optional,analyse potential threats against national security
 2422.13,political affairs officer,perform political negotiation,optional,perform political negotiation
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds","agricultural raw materials, seeds and animal feed products",essential,agricultural raw materials seeds and animal feed products
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",product comprehension,essential,product comprehension
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",sales strategies,essential,sales strategies
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",identify suppliers,essential,identify suppliers
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",monitor international market performance,essential,monitor international market performance
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",initiate contact with sellers,essential,initiate contact with sellers
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",identify customer's needs,essential,identify customer s needs
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",negotiate sales contracts,essential,negotiate sales contracts
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",comprehend financial business terminology,essential,comprehend financial business terminology
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",assess supplier risks,essential,assess supplier risks
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",initiate contact with buyers,essential,initiate contact with buyers
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",have computer literacy,essential,have computer literacy
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",identify new business opportunities,essential,identify new business opportunities
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",negotiate sale of commodities,essential,negotiate sale of commodities
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",build business relationships,essential,build business relationships
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",plan transport operations,essential,plan transport operations
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",maintain financial records,essential,maintain financial records
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",negotiate buying conditions,essential,negotiate buying conditions
-3324.4.2,"wholesale merchant in agricultural raw materials, seeds and animal feeds",perform market research,essential,perform market research
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,agricultural raw materials seeds and animal feed products,essential,agricultural raw materials seeds and animal feed products
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,product comprehension,essential,product comprehension
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,sales strategies,essential,sales strategies
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,identify suppliers,essential,identify suppliers
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,monitor international market performance,essential,monitor international market performance
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,initiate contact with sellers,essential,initiate contact with sellers
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,identify customer's needs,essential,identify customer s needs
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,negotiate sales contracts,essential,negotiate sales contracts
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,comprehend financial business terminology,essential,comprehend financial business terminology
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,assess supplier risks,essential,assess supplier risks
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,initiate contact with buyers,essential,initiate contact with buyers
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,have computer literacy,essential,have computer literacy
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,identify new business opportunities,essential,identify new business opportunities
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,negotiate sale of commodities,essential,negotiate sale of commodities
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,build business relationships,essential,build business relationships
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,plan transport operations,essential,plan transport operations
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,maintain financial records,essential,maintain financial records
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,negotiate buying conditions,essential,negotiate buying conditions
+3324.4.2,wholesale merchant in agricultural raw materials seeds and animal feeds,perform market research,essential,perform market research
 2152.1.7,microelectronics engineer,computer simulation,essential,computer simulation
 2152.1.7,microelectronics engineer,electronic test procedures,essential,electronic test procedures
 2152.1.7,microelectronics engineer,electronic equipment standards,essential,electronic equipment standards
@@ -11435,28 +11435,28 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3324.4.21,wholesale merchant in machine tools,maintain financial records,essential,maintain financial records
 3324.4.21,wholesale merchant in machine tools,negotiate buying conditions,essential,negotiate buying conditions
 3324.4.21,wholesale merchant in machine tools,perform market research,essential,perform market research
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",embargo regulations,essential,embargo regulations
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",international commercial transactions rules,essential,international commercial transactions rules
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment","furniture, carpet and lighting equipment products",essential,furniture carpet and lighting equipment products
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",international import export regulations,essential,international import export regulations
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",regulations on substances,essential,regulations on substances
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",create solutions to problems,essential,create solutions to problems
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",create import-export commercial documentation,essential,create import-export commercial documentation
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",apply conflict management,essential,apply conflict management
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",apply export strategies,essential,apply export strategies
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",handle quotes from prospective shippers,essential,handle quotes from prospective shippers
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",speak different languages,essential,speak different languages
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",ensure customs compliance,essential,ensure customs compliance
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",administer multi-modal logistics,essential,administer multi-modal logistics
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",communicate with shipment forwarders,essential,communicate with shipment forwarders
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",meet deadlines,essential,meet deadlines
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",apply import strategies,essential,apply import strategies
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",file claims with insurance companies,essential,file claims with insurance companies
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",handle carriers,essential,handle carriers
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",monitor merchandise delivery,essential,monitor merchandise delivery
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",have computer literacy,essential,have computer literacy
-3331.2.1.15,"import export specialist in furniture, carpets and lighting equipment",plan transport operations,essential,plan transport operations
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,embargo regulations,essential,embargo regulations
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,international commercial transactions rules,essential,international commercial transactions rules
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,furniture carpet and lighting equipment products,essential,furniture carpet and lighting equipment products
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,international import export regulations,essential,international import export regulations
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,regulations on substances,essential,regulations on substances
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,create solutions to problems,essential,create solutions to problems
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,create import-export commercial documentation,essential,create import-export commercial documentation
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,apply conflict management,essential,apply conflict management
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,apply export strategies,essential,apply export strategies
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,handle quotes from prospective shippers,essential,handle quotes from prospective shippers
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,speak different languages,essential,speak different languages
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,ensure customs compliance,essential,ensure customs compliance
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,administer multi-modal logistics,essential,administer multi-modal logistics
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,communicate with shipment forwarders,essential,communicate with shipment forwarders
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,meet deadlines,essential,meet deadlines
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,apply import strategies,essential,apply import strategies
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,file claims with insurance companies,essential,file claims with insurance companies
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,handle carriers,essential,handle carriers
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,monitor merchandise delivery,essential,monitor merchandise delivery
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,have computer literacy,essential,have computer literacy
+3331.2.1.15,import export specialist in furniture carpets and lighting equipment,plan transport operations,essential,plan transport operations
 3113.1,electrical engineering technician,electricity principles,essential,electricity principles
 3113.1,electrical engineering technician,design drawings,essential,design drawings
 3113.1,electrical engineering technician,electrical engineering,essential,electrical engineering
@@ -11864,7 +11864,7 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2422.12.10,labour market policy officer,liaise with politicians,optional,liaise with politicians
 2422.12.10,labour market policy officer,analyse goal progress,optional,analyse goal progress
 2422.12.10,labour market policy officer,analyse community needs,optional,analyse community needs
-3324.4.31,wholesale merchant in textiles and textile semi-finished and raw materials,"textile products, textile semi-finished products and raw materials",essential,textile products textile semi-finished products and raw materials
+3324.4.31,wholesale merchant in textiles and textile semi-finished and raw materials,textile products textile semi-finished products and raw materials,essential,textile products textile semi-finished products and raw materials
 3324.4.31,wholesale merchant in textiles and textile semi-finished and raw materials,product comprehension,essential,product comprehension
 3324.4.31,wholesale merchant in textiles and textile semi-finished and raw materials,sales strategies,essential,sales strategies
 3324.4.31,wholesale merchant in textiles and textile semi-finished and raw materials,identify suppliers,essential,identify suppliers
@@ -12178,26 +12178,26 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3521.1.11,video technician,document your own practice,optional,document your own practice
 3521.1.11,video technician,maintain system layout for a production,optional,maintain system layout for a production
 3521.1.11,video technician,instruct on set up of equipment,optional,instruct on set up of equipment
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies","hardware, plumbing and heating equipment products",essential,hardware plumbing and heating equipment products
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",product comprehension,essential,product comprehension
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",sales strategies,essential,sales strategies
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",vertical markets,essential,vertical markets
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",identify suppliers,essential,identify suppliers
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",monitor international market performance,essential,monitor international market performance
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",initiate contact with sellers,essential,initiate contact with sellers
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",identify customer's needs,essential,identify customer s needs
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",negotiate sales contracts,essential,negotiate sales contracts
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",comprehend financial business terminology,essential,comprehend financial business terminology
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",assess supplier risks,essential,assess supplier risks
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",initiate contact with buyers,essential,initiate contact with buyers
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",have computer literacy,essential,have computer literacy
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",identify new business opportunities,essential,identify new business opportunities
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",negotiate sale of commodities,essential,negotiate sale of commodities
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",build business relationships,essential,build business relationships
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",plan transport operations,essential,plan transport operations
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",maintain financial records,essential,maintain financial records
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",negotiate buying conditions,essential,negotiate buying conditions
-3324.4.16,"wholesale merchant in hardware, plumbing and heating equipment and supplies",perform market research,essential,perform market research
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,hardware plumbing and heating equipment products,essential,hardware plumbing and heating equipment products
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,product comprehension,essential,product comprehension
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,sales strategies,essential,sales strategies
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,vertical markets,essential,vertical markets
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,identify suppliers,essential,identify suppliers
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,monitor international market performance,essential,monitor international market performance
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,initiate contact with sellers,essential,initiate contact with sellers
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,identify customer's needs,essential,identify customer s needs
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,negotiate sales contracts,essential,negotiate sales contracts
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,comprehend financial business terminology,essential,comprehend financial business terminology
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,assess supplier risks,essential,assess supplier risks
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,initiate contact with buyers,essential,initiate contact with buyers
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,have computer literacy,essential,have computer literacy
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,identify new business opportunities,essential,identify new business opportunities
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,negotiate sale of commodities,essential,negotiate sale of commodities
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,build business relationships,essential,build business relationships
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,plan transport operations,essential,plan transport operations
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,maintain financial records,essential,maintain financial records
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,negotiate buying conditions,essential,negotiate buying conditions
+3324.4.16,wholesale merchant in hardware plumbing and heating equipment and supplies,perform market research,essential,perform market research
 2511.13,ICT system analyst,systems development life-cycle,essential,systems development life-cycle
 2511.13,ICT system analyst,software architecture models,essential,software architecture models
 2511.13,ICT system analyst,digital systems,essential,digital systems
@@ -12563,27 +12563,27 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3331.2.1.6,import export specialist in clothing and footwear,monitor merchandise delivery,essential,monitor merchandise delivery
 3331.2.1.6,import export specialist in clothing and footwear,have computer literacy,essential,have computer literacy
 3331.2.1.6,import export specialist in clothing and footwear,plan transport operations,essential,plan transport operations
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",capital goods industry,essential,capital goods industry
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery","mining, construction and civil engineering machinery products",essential,mining construction and civil engineering machinery products
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",product comprehension,essential,product comprehension
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",sales strategies,essential,sales strategies
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",vertical markets,essential,vertical markets
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",identify suppliers,essential,identify suppliers
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",monitor international market performance,essential,monitor international market performance
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",initiate contact with sellers,essential,initiate contact with sellers
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",identify customer's needs,essential,identify customer s needs
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",negotiate sales contracts,essential,negotiate sales contracts
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",comprehend financial business terminology,essential,comprehend financial business terminology
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",assess supplier risks,essential,assess supplier risks
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",initiate contact with buyers,essential,initiate contact with buyers
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",have computer literacy,essential,have computer literacy
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",identify new business opportunities,essential,identify new business opportunities
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",negotiate sale of commodities,essential,negotiate sale of commodities
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",build business relationships,essential,build business relationships
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",plan transport operations,essential,plan transport operations
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",maintain financial records,essential,maintain financial records
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",negotiate buying conditions,essential,negotiate buying conditions
-3324.4.24,"wholesale merchant in mining, construction and civil engineering machinery",perform market research,essential,perform market research
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,capital goods industry,essential,capital goods industry
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,mining construction and civil engineering machinery products,essential,mining construction and civil engineering machinery products
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,product comprehension,essential,product comprehension
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,sales strategies,essential,sales strategies
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,vertical markets,essential,vertical markets
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,identify suppliers,essential,identify suppliers
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,monitor international market performance,essential,monitor international market performance
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,initiate contact with sellers,essential,initiate contact with sellers
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,identify customer's needs,essential,identify customer s needs
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,negotiate sales contracts,essential,negotiate sales contracts
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,comprehend financial business terminology,essential,comprehend financial business terminology
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,assess supplier risks,essential,assess supplier risks
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,initiate contact with buyers,essential,initiate contact with buyers
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,have computer literacy,essential,have computer literacy
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,identify new business opportunities,essential,identify new business opportunities
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,negotiate sale of commodities,essential,negotiate sale of commodities
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,build business relationships,essential,build business relationships
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,plan transport operations,essential,plan transport operations
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,maintain financial records,essential,maintain financial records
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,negotiate buying conditions,essential,negotiate buying conditions
+3324.4.24,wholesale merchant in mining construction and civil engineering machinery,perform market research,essential,perform market research
 3512.1,ICT help desk agent,characteristics of products,essential,characteristics of products
 3512.1,ICT help desk agent,ICT system user requirements,essential,ict system user requirements
 3512.1,ICT help desk agent,product comprehension,essential,product comprehension
@@ -13011,34 +13011,34 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3312.4,credit risk analyst,apply information security policies,optional,apply information security policies
 3312.4,credit risk analyst,enforce customer's debt repayment,optional,enforce customer s debt repayment
 3312.4,credit risk analyst,show diplomacy,optional,show diplomacy
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",embargo regulations,essential,embargo regulations
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",types of aircraft,essential,types of aircraft
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",import export regulations of dangerous chemicals,essential,import export regulations of dangerous chemicals
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",capital goods industry,essential,capital goods industry
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",types of maritime vessels,essential,types of maritime vessels
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",international commercial transactions rules,essential,international commercial transactions rules
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",machinery products,essential,machinery products
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",international business,essential,international business
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",industrial tools,essential,industrial tools
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",international import export regulations,essential,international import export regulations
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",export regulations of dual-use goods,essential,export regulations of dual-use goods
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",create solutions to problems,essential,create solutions to problems
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",create import-export commercial documentation,essential,create import-export commercial documentation
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",apply conflict management,essential,apply conflict management
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",apply export strategies,essential,apply export strategies
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",handle quotes from prospective shippers,essential,handle quotes from prospective shippers
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",speak different languages,essential,speak different languages
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",ensure customs compliance,essential,ensure customs compliance
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",administer multi-modal logistics,essential,administer multi-modal logistics
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",communicate with shipment forwarders,essential,communicate with shipment forwarders
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",meet deadlines,essential,meet deadlines
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",apply import strategies,essential,apply import strategies
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",file claims with insurance companies,essential,file claims with insurance companies
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",handle carriers,essential,handle carriers
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",monitor merchandise delivery,essential,monitor merchandise delivery
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",have computer literacy,essential,have computer literacy
-3331.2.1.20,"import export specialist in machinery, industrial equipment, ships and aircraft",plan transport operations,essential,plan transport operations
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,embargo regulations,essential,embargo regulations
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,types of aircraft,essential,types of aircraft
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,import export regulations of dangerous chemicals,essential,import export regulations of dangerous chemicals
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,capital goods industry,essential,capital goods industry
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,types of maritime vessels,essential,types of maritime vessels
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,international commercial transactions rules,essential,international commercial transactions rules
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,machinery products,essential,machinery products
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,international business,essential,international business
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,industrial tools,essential,industrial tools
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,international import export regulations,essential,international import export regulations
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,export regulations of dual-use goods,essential,export regulations of dual-use goods
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,create solutions to problems,essential,create solutions to problems
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,create import-export commercial documentation,essential,create import-export commercial documentation
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,apply conflict management,essential,apply conflict management
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,apply export strategies,essential,apply export strategies
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,handle quotes from prospective shippers,essential,handle quotes from prospective shippers
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,speak different languages,essential,speak different languages
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,ensure customs compliance,essential,ensure customs compliance
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,administer multi-modal logistics,essential,administer multi-modal logistics
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,communicate with shipment forwarders,essential,communicate with shipment forwarders
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,meet deadlines,essential,meet deadlines
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,apply import strategies,essential,apply import strategies
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,file claims with insurance companies,essential,file claims with insurance companies
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,handle carriers,essential,handle carriers
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,monitor merchandise delivery,essential,monitor merchandise delivery
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,have computer literacy,essential,have computer literacy
+3331.2.1.20,import export specialist in machinery industrial equipment ships and aircraft,plan transport operations,essential,plan transport operations
 2431.10.1,advertising media planner,market research,essential,market research
 2431.10.1,advertising media planner,types of media,essential,types of media
 2431.10.1,advertising media planner,digital media,essential,digital media
@@ -13279,31 +13279,31 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2431.5,business developer,develop professional network,optional,develop professional network
 2431.5,business developer,negotiate settlements,optional,negotiate settlements
 2431.5,business developer,analyse data about clients,optional,analyse data about clients
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",embargo regulations,essential,embargo regulations
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",general principles of food law,essential,general principles of food law
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",protective measures against the introduction of organisms,essential,protective measures against the introduction of organisms
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs","fish, crustacean and mollusc products",essential,fish crustacean and mollusc products
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",international commercial transactions rules,essential,international commercial transactions rules
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",food hygiene rules,essential,food hygiene rules
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",animal health rules of distribution of products of animal origin,essential,animal health rules of distribution of products of animal origin
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",international import export regulations,essential,international import export regulations
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",create solutions to problems,essential,create solutions to problems
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",create import-export commercial documentation,essential,create import-export commercial documentation
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",apply conflict management,essential,apply conflict management
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",apply export strategies,essential,apply export strategies
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",handle quotes from prospective shippers,essential,handle quotes from prospective shippers
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",speak different languages,essential,speak different languages
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",ensure customs compliance,essential,ensure customs compliance
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",administer multi-modal logistics,essential,administer multi-modal logistics
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",communicate with shipment forwarders,essential,communicate with shipment forwarders
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",meet deadlines,essential,meet deadlines
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",apply import strategies,essential,apply import strategies
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",file claims with insurance companies,essential,file claims with insurance companies
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",handle carriers,essential,handle carriers
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",monitor merchandise delivery,essential,monitor merchandise delivery
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",have computer literacy,essential,have computer literacy
-3331.2.1.12,"import export specialist in fish, crustaceans and molluscs",plan transport operations,essential,plan transport operations
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,embargo regulations,essential,embargo regulations
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,general principles of food law,essential,general principles of food law
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,protective measures against the introduction of organisms,essential,protective measures against the introduction of organisms
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,fish crustacean and mollusc products,essential,fish crustacean and mollusc products
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,international commercial transactions rules,essential,international commercial transactions rules
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,food hygiene rules,essential,food hygiene rules
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,animal health rules of distribution of products of animal origin,essential,animal health rules of distribution of products of animal origin
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,international import export regulations,essential,international import export regulations
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,create solutions to problems,essential,create solutions to problems
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,create import-export commercial documentation,essential,create import-export commercial documentation
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,apply conflict management,essential,apply conflict management
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,apply export strategies,essential,apply export strategies
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,handle quotes from prospective shippers,essential,handle quotes from prospective shippers
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,speak different languages,essential,speak different languages
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,ensure customs compliance,essential,ensure customs compliance
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,administer multi-modal logistics,essential,administer multi-modal logistics
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,communicate with shipment forwarders,essential,communicate with shipment forwarders
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,meet deadlines,essential,meet deadlines
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,apply import strategies,essential,apply import strategies
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,file claims with insurance companies,essential,file claims with insurance companies
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,handle carriers,essential,handle carriers
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,monitor merchandise delivery,essential,monitor merchandise delivery
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,have computer literacy,essential,have computer literacy
+3331.2.1.12,import export specialist in fish crustaceans and molluscs,plan transport operations,essential,plan transport operations
 2413.1.2,investment analyst,financial products,essential,financial products
 2413.1.2,investment analyst,international trade,essential,international trade
 2413.1.2,investment analyst,funding methods,essential,funding methods
@@ -13458,29 +13458,29 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2412.7,investment fund manager,liaise with board members,optional,liaise with board members
 2412.7,investment fund manager,negotiate loan agreements,optional,negotiate loan agreements
 2412.7,investment fund manager,liaise with managers,optional,liaise with managers
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",embargo regulations,essential,embargo regulations
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",international commercial transactions rules,essential,international commercial transactions rules
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",international import export regulations,essential,international import export regulations
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",export regulations of dual-use goods,essential,export regulations of dual-use goods
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery","mining, construction and civil engineering machinery products",essential,mining construction and civil engineering machinery products
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",create solutions to problems,essential,create solutions to problems
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",create import-export commercial documentation,essential,create import-export commercial documentation
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",apply conflict management,essential,apply conflict management
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",apply export strategies,essential,apply export strategies
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",handle quotes from prospective shippers,essential,handle quotes from prospective shippers
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",speak different languages,essential,speak different languages
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",ensure customs compliance,essential,ensure customs compliance
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",administer multi-modal logistics,essential,administer multi-modal logistics
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",communicate with shipment forwarders,essential,communicate with shipment forwarders
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",meet deadlines,essential,meet deadlines
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",apply import strategies,essential,apply import strategies
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",file claims with insurance companies,essential,file claims with insurance companies
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",handle carriers,essential,handle carriers
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",monitor merchandise delivery,essential,monitor merchandise delivery
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",have computer literacy,essential,have computer literacy
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",plan transport operations,essential,plan transport operations
-3331.2.1.24,"import export specialist in mining, construction, civil engineering machinery",foreign languages for international careers,optional,foreign languages for international careers
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,embargo regulations,essential,embargo regulations
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,international commercial transactions rules,essential,international commercial transactions rules
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,international import export regulations,essential,international import export regulations
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,export regulations of dual-use goods,essential,export regulations of dual-use goods
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,mining construction and civil engineering machinery products,essential,mining construction and civil engineering machinery products
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,create solutions to problems,essential,create solutions to problems
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,create import-export commercial documentation,essential,create import-export commercial documentation
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,apply conflict management,essential,apply conflict management
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,apply export strategies,essential,apply export strategies
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,handle quotes from prospective shippers,essential,handle quotes from prospective shippers
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,speak different languages,essential,speak different languages
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,ensure customs compliance,essential,ensure customs compliance
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,administer multi-modal logistics,essential,administer multi-modal logistics
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,communicate with shipment forwarders,essential,communicate with shipment forwarders
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,meet deadlines,essential,meet deadlines
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,apply import strategies,essential,apply import strategies
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,file claims with insurance companies,essential,file claims with insurance companies
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,handle carriers,essential,handle carriers
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,monitor merchandise delivery,essential,monitor merchandise delivery
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,have computer literacy,essential,have computer literacy
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,plan transport operations,essential,plan transport operations
+3331.2.1.24,import export specialist in mining construction civil engineering machinery,foreign languages for international careers,optional,foreign languages for international careers
 3313.3,grants administrator,financial management,essential,financial management
 3313.3,grants administrator,grant concessions,essential,grant concessions
 3313.3,grants administrator,instruct grant recipient,essential,instruct grant recipient
@@ -14587,13 +14587,13 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2433.6,technical sales representative,international commercial transactions rules,optional,international commercial transactions rules
 2433.6,technical sales representative,machinery products,optional,machinery products
 2433.6,technical sales representative,consumer protection,optional,consumer protection
-2433.6,technical sales representative,"hardware, plumbing and heating equipment products",optional,hardware plumbing and heating equipment products
+2433.6,technical sales representative,hardware plumbing and heating equipment products,optional,hardware plumbing and heating equipment products
 2433.6,technical sales representative,ICT software specifications,optional,ict software specifications
 2433.6,technical sales representative,industrial tools,optional,industrial tools
 2433.6,technical sales representative,multimedia systems,optional,multimedia systems
 2433.6,technical sales representative,electronic business,optional,electronic business
 2433.6,technical sales representative,e-commerce systems,optional,e-commerce systems
-2433.6,technical sales representative,"mining, construction and civil engineering machinery products",optional,mining construction and civil engineering machinery products
+2433.6,technical sales representative,mining construction and civil engineering machinery products,optional,mining construction and civil engineering machinery products
 2433.6,technical sales representative,market pricing,optional,market pricing
 2433.6,technical sales representative,electronic communication,optional,electronic communication
 2433.6,technical sales representative,sales strategies,optional,sales strategies
@@ -16430,7 +16430,7 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 2511.14,ICT system architect,perform resource planning,optional,perform resource planning
 3331.2.1.31,import export specialist in textiles and textile semi-finished and raw materials,embargo regulations,essential,embargo regulations
 3331.2.1.31,import export specialist in textiles and textile semi-finished and raw materials,protective measures against the introduction of organisms,essential,protective measures against the introduction of organisms
-3331.2.1.31,import export specialist in textiles and textile semi-finished and raw materials,"textile products, textile semi-finished products and raw materials",essential,textile products textile semi-finished products and raw materials
+3331.2.1.31,import export specialist in textiles and textile semi-finished and raw materials,textile products textile semi-finished products and raw materials,essential,textile products textile semi-finished products and raw materials
 3331.2.1.31,import export specialist in textiles and textile semi-finished and raw materials,international commercial transactions rules,essential,international commercial transactions rules
 3331.2.1.31,import export specialist in textiles and textile semi-finished and raw materials,international import export regulations,essential,international import export regulations
 3331.2.1.31,import export specialist in textiles and textile semi-finished and raw materials,regulations on substances,essential,regulations on substances
@@ -17568,32 +17568,32 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3331.2.1.30,import export specialist in textile industry machinery,monitor merchandise delivery,essential,monitor merchandise delivery
 3331.2.1.30,import export specialist in textile industry machinery,have computer literacy,essential,have computer literacy
 3331.2.1.30,import export specialist in textile industry machinery,plan transport operations,essential,plan transport operations
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",embargo regulations,essential,embargo regulations
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",general principles of food law,essential,general principles of food law
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",types of coffee beans,essential,types of coffee beans
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",protective measures against the introduction of organisms,essential,protective measures against the introduction of organisms
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",international commercial transactions rules,essential,international commercial transactions rules
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",food hygiene rules,essential,food hygiene rules
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",international import export regulations,essential,international import export regulations
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",regulations on substances,essential,regulations on substances
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices","coffee, tea, cocoa and spice products",essential,coffee tea cocoa and spice products
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",create solutions to problems,essential,create solutions to problems
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",create import-export commercial documentation,essential,create import-export commercial documentation
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",apply conflict management,essential,apply conflict management
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",apply export strategies,essential,apply export strategies
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",handle quotes from prospective shippers,essential,handle quotes from prospective shippers
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",speak different languages,essential,speak different languages
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",ensure customs compliance,essential,ensure customs compliance
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",administer multi-modal logistics,essential,administer multi-modal logistics
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",communicate with shipment forwarders,essential,communicate with shipment forwarders
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",meet deadlines,essential,meet deadlines
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",apply import strategies,essential,apply import strategies
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",file claims with insurance companies,essential,file claims with insurance companies
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",handle carriers,essential,handle carriers
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",monitor merchandise delivery,essential,monitor merchandise delivery
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",have computer literacy,essential,have computer literacy
-3331.2.1.7,"import export specialist in coffee, tea, cocoa and spices",plan transport operations,essential,plan transport operations
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,embargo regulations,essential,embargo regulations
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,general principles of food law,essential,general principles of food law
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,types of coffee beans,essential,types of coffee beans
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,protective measures against the introduction of organisms,essential,protective measures against the introduction of organisms
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,international commercial transactions rules,essential,international commercial transactions rules
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,food hygiene rules,essential,food hygiene rules
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,international import export regulations,essential,international import export regulations
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,regulations on substances,essential,regulations on substances
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,coffee tea cocoa and spice products,essential,coffee tea cocoa and spice products
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,create solutions to problems,essential,create solutions to problems
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,create import-export commercial documentation,essential,create import-export commercial documentation
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,apply conflict management,essential,apply conflict management
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,apply export strategies,essential,apply export strategies
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,handle quotes from prospective shippers,essential,handle quotes from prospective shippers
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,speak different languages,essential,speak different languages
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,ensure customs compliance,essential,ensure customs compliance
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,administer multi-modal logistics,essential,administer multi-modal logistics
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,communicate with shipment forwarders,essential,communicate with shipment forwarders
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,meet deadlines,essential,meet deadlines
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,apply import strategies,essential,apply import strategies
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,file claims with insurance companies,essential,file claims with insurance companies
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,handle carriers,essential,handle carriers
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,monitor merchandise delivery,essential,monitor merchandise delivery
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,have computer literacy,essential,have computer literacy
+3331.2.1.7,import export specialist in coffee tea cocoa and spices,plan transport operations,essential,plan transport operations
 3324.4.13,wholesale merchant in flowers and plants,product comprehension,essential,product comprehension
 3324.4.13,wholesale merchant in flowers and plants,sales strategies,essential,sales strategies
 3324.4.13,wholesale merchant in flowers and plants,flower and plant products,essential,flower and plant products
@@ -17755,28 +17755,28 @@ occupation_id,canonical_title,skill_label,occupation_skill_relation_type,skill_l
 3315.2,gemmologist,conduct jewellery market research,optional,conduct jewellery market research
 3315.2,gemmologist,develop jewellery designs,optional,develop jewellery designs
 3315.2,gemmologist,model mineral deposits,optional,model mineral deposits
-3331.2.1.17,"import export specialist in hides, skins and leather products",embargo regulations,essential,embargo regulations
-3331.2.1.17,"import export specialist in hides, skins and leather products",protective measures against the introduction of organisms,essential,protective measures against the introduction of organisms
-3331.2.1.17,"import export specialist in hides, skins and leather products",international commercial transactions rules,essential,international commercial transactions rules
-3331.2.1.17,"import export specialist in hides, skins and leather products","hides, skins and leather products",essential,hides skins and leather products
-3331.2.1.17,"import export specialist in hides, skins and leather products",international import export regulations,essential,international import export regulations
-3331.2.1.17,"import export specialist in hides, skins and leather products",create solutions to problems,essential,create solutions to problems
-3331.2.1.17,"import export specialist in hides, skins and leather products",create import-export commercial documentation,essential,create import-export commercial documentation
-3331.2.1.17,"import export specialist in hides, skins and leather products",apply conflict management,essential,apply conflict management
-3331.2.1.17,"import export specialist in hides, skins and leather products",apply export strategies,essential,apply export strategies
-3331.2.1.17,"import export specialist in hides, skins and leather products",handle quotes from prospective shippers,essential,handle quotes from prospective shippers
-3331.2.1.17,"import export specialist in hides, skins and leather products",speak different languages,essential,speak different languages
-3331.2.1.17,"import export specialist in hides, skins and leather products",ensure customs compliance,essential,ensure customs compliance
-3331.2.1.17,"import export specialist in hides, skins and leather products",administer multi-modal logistics,essential,administer multi-modal logistics
-3331.2.1.17,"import export specialist in hides, skins and leather products",build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
-3331.2.1.17,"import export specialist in hides, skins and leather products",communicate with shipment forwarders,essential,communicate with shipment forwarders
-3331.2.1.17,"import export specialist in hides, skins and leather products",meet deadlines,essential,meet deadlines
-3331.2.1.17,"import export specialist in hides, skins and leather products",apply import strategies,essential,apply import strategies
-3331.2.1.17,"import export specialist in hides, skins and leather products",file claims with insurance companies,essential,file claims with insurance companies
-3331.2.1.17,"import export specialist in hides, skins and leather products",handle carriers,essential,handle carriers
-3331.2.1.17,"import export specialist in hides, skins and leather products",monitor merchandise delivery,essential,monitor merchandise delivery
-3331.2.1.17,"import export specialist in hides, skins and leather products",have computer literacy,essential,have computer literacy
-3331.2.1.17,"import export specialist in hides, skins and leather products",plan transport operations,essential,plan transport operations
+3331.2.1.17,import export specialist in hides skins and leather products,embargo regulations,essential,embargo regulations
+3331.2.1.17,import export specialist in hides skins and leather products,protective measures against the introduction of organisms,essential,protective measures against the introduction of organisms
+3331.2.1.17,import export specialist in hides skins and leather products,international commercial transactions rules,essential,international commercial transactions rules
+3331.2.1.17,import export specialist in hides skins and leather products,hides skins and leather products,essential,hides skins and leather products
+3331.2.1.17,import export specialist in hides skins and leather products,international import export regulations,essential,international import export regulations
+3331.2.1.17,import export specialist in hides skins and leather products,create solutions to problems,essential,create solutions to problems
+3331.2.1.17,import export specialist in hides skins and leather products,create import-export commercial documentation,essential,create import-export commercial documentation
+3331.2.1.17,import export specialist in hides skins and leather products,apply conflict management,essential,apply conflict management
+3331.2.1.17,import export specialist in hides skins and leather products,apply export strategies,essential,apply export strategies
+3331.2.1.17,import export specialist in hides skins and leather products,handle quotes from prospective shippers,essential,handle quotes from prospective shippers
+3331.2.1.17,import export specialist in hides skins and leather products,speak different languages,essential,speak different languages
+3331.2.1.17,import export specialist in hides skins and leather products,ensure customs compliance,essential,ensure customs compliance
+3331.2.1.17,import export specialist in hides skins and leather products,administer multi-modal logistics,essential,administer multi-modal logistics
+3331.2.1.17,import export specialist in hides skins and leather products,build rapport with people from different cultural backgrounds,essential,build rapport with people from different cultural backgrounds
+3331.2.1.17,import export specialist in hides skins and leather products,communicate with shipment forwarders,essential,communicate with shipment forwarders
+3331.2.1.17,import export specialist in hides skins and leather products,meet deadlines,essential,meet deadlines
+3331.2.1.17,import export specialist in hides skins and leather products,apply import strategies,essential,apply import strategies
+3331.2.1.17,import export specialist in hides skins and leather products,file claims with insurance companies,essential,file claims with insurance companies
+3331.2.1.17,import export specialist in hides skins and leather products,handle carriers,essential,handle carriers
+3331.2.1.17,import export specialist in hides skins and leather products,monitor merchandise delivery,essential,monitor merchandise delivery
+3331.2.1.17,import export specialist in hides skins and leather products,have computer literacy,essential,have computer literacy
+3331.2.1.17,import export specialist in hides skins and leather products,plan transport operations,essential,plan transport operations
 3311.2.1,foreign exchange broker,foreign valuta,essential,foreign valuta
 3311.2.1,foreign exchange broker,economics,essential,economics
 3311.2.1,foreign exchange broker,financial markets,essential,financial markets

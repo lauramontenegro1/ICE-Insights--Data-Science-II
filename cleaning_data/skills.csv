@@ -214,7 +214,7 @@ find grants,skill/competence,sector-specific,,find grants
 counselling methods,knowledge,cross-sector,,counselling methods
 lead process optimisation,skill/competence,sector-specific,,lead process optimisation
 software UI design patterns,knowledge,sector-specific,,software ui design patterns
-"make health, safety and environment assessments",skill/competence,cross-sector,,make health safety and environment assessments
+make health safety and environment assessments,skill/competence,cross-sector,,make health safety and environment assessments
 advise on credit rating,skill/competence,cross-sector,,advise on credit rating
 sustainable technologies,knowledge,cross-sector,,sustainable technologies
 environmental economics,knowledge,sector-specific,,environmental economics
@@ -605,7 +605,7 @@ implement short term objectives,skill/competence,cross-sector,,implement short t
 adapt to change in marketing,skill/competence,occupation-specific,,adapt to change in marketing
 establish data processes,skill/competence,sector-specific,,establish data processes
 evaluate project plans,skill/competence,sector-specific,,evaluate project plans
-"health, safety and hygiene legislation",knowledge,cross-sector,,health safety and hygiene legislation
+health safety and hygiene legislation,knowledge,cross-sector,,health safety and hygiene legislation
 carry out sales analysis,skill/competence,sector-specific,,carry out sales analysis
 ICT network security risks,knowledge,sector-specific,,ict network security risks
 purchase props,skill/competence,sector-specific,,purchase props
@@ -623,7 +623,7 @@ transportation sector policies,knowledge,sector-specific,,transportation sector 
 deliver a sales pitch,skill/competence,sector-specific,,deliver a sales pitch
 apply quality standards in social services,skill/competence,sector-specific,,apply quality standards in social services
 European integration,knowledge,sector-specific,,european integration
-"agricultural raw materials, seeds and animal feed products",knowledge,sector-specific,,agricultural raw materials seeds and animal feed products
+agricultural raw materials seeds and animal feed products,knowledge,sector-specific,,agricultural raw materials seeds and animal feed products
 price product,skill/competence,sector-specific,,price product
 innovation processes,knowledge,sector-specific,,innovation processes
 operate welding equipment,skill/competence,cross-sector,,operate welding equipment
@@ -1431,7 +1431,7 @@ use analytics for commercial purposes,skill/competence,cross-sector,,use analyti
 film music techniques,knowledge,sector-specific,,film music techniques
 research and development in textiles,knowledge,sector-specific,,research and development in textiles
 identify customer's needs,skill/competence,sector-specific,,identify customer s needs
-"fish, crustacean and mollusc products",knowledge,sector-specific,,fish crustacean and mollusc products
+fish crustacean and mollusc products,knowledge,sector-specific,,fish crustacean and mollusc products
 write technical reports related to trees,skill/competence,sector-specific,,write technical reports related to trees
 follow up accounts receivables,skill/competence,cross-sector,,follow up accounts receivables
 read standard blueprints,skill/competence,cross-sector,,read standard blueprints
@@ -1449,7 +1449,7 @@ develop documentation in accordance with legal requirements,skill/competence,cro
 implement sustainable procurement,skill/competence,sector-specific,,implement sustainable procurement
 information extraction,knowledge,sector-specific,,information extraction
 monitor social impact,skill/competence,occupation-specific,,monitor social impact
-"sugar, chocolate and sugar confectionery products",knowledge,sector-specific,,sugar chocolate and sugar confectionery products
+sugar chocolate and sugar confectionery products,knowledge,sector-specific,,sugar chocolate and sugar confectionery products
 utilise regular expressions,skill/competence,occupation-specific,,utilise regular expressions
 design campaign actions,skill/competence,occupation-specific,,design campaign actions
 blockchain concept application,knowledge,cross-sector,,blockchain concept application
@@ -1514,7 +1514,7 @@ trade foreign currencies,skill/competence,sector-specific,,trade foreign currenc
 make independent operating decisions,skill/competence,cross-sector,,make independent operating decisions
 assess procurement needs,skill/competence,sector-specific,,assess procurement needs
 oceanography,knowledge,cross-sector,,oceanography
-"textile products, textile semi-finished products and raw materials",knowledge,sector-specific,,textile products textile semi-finished products and raw materials
+textile products textile semi-finished products and raw materials,knowledge,sector-specific,,textile products textile semi-finished products and raw materials
 test sensors,skill/competence,cross-sector,,test sensors
 maintain audiovisual equipment,skill/competence,sector-specific,,maintain audiovisual equipment
 ICT communications protocols,knowledge,sector-specific,,ict communications protocols
@@ -1828,7 +1828,7 @@ service-oriented modelling,knowledge,sector-specific,,service-oriented modelling
 innovate in ICT,skill/competence,sector-specific,,innovate in ict
 apply research ethics and scientific integrity principles in research activities,skill/competence,cross-sector,,apply research ethics and scientific integrity principles in research activities
 inspect trees,skill/competence,cross-sector,,inspect trees
-"hides, skins and leather products",knowledge,sector-specific,,hides skins and leather products
+hides skins and leather products,knowledge,sector-specific,,hides skins and leather products
 remove computer virus or malware from a computer,skill/competence,cross-sector,,remove computer virus or malware from a computer
 receive appropriate permissions for use of recorded audiovisual examples,skill/competence,sector-specific,,receive appropriate permissions for use of recorded audiovisual examples
 utilise machine learning,skill/competence,sector-specific,,utilise machine learning
@@ -1915,7 +1915,7 @@ types of media,knowledge,cross-sector,,types of media
 work safely with chemicals,skill/competence,sector-specific,,work safely with chemicals
 implement smart contracts,skill/competence,cross-sector,,implement smart contracts
 computer engineering,knowledge,cross-sector,,computer engineering
-"furniture, carpet and lighting equipment products",knowledge,sector-specific,,furniture carpet and lighting equipment products
+furniture carpet and lighting equipment products,knowledge,sector-specific,,furniture carpet and lighting equipment products
 conduct financial audits,skill/competence,cross-sector,,conduct financial audits
 use a telecine,skill/competence,sector-specific,,use a telecine
 trigonometry,knowledge,sector-specific,,trigonometry
@@ -1981,7 +1981,7 @@ maintain professional administration,skill/competence,cross-sector,,maintain pro
 maintain hydraulic systems,skill/competence,cross-sector,,maintain hydraulic systems
 cloud monitoring and reporting,knowledge,sector-specific,,cloud monitoring and reporting
 responsible gambling,knowledge,sector-specific,,responsible gambling
-"hardware, plumbing and heating equipment products",knowledge,sector-specific,,hardware plumbing and heating equipment products
+hardware plumbing and heating equipment products,knowledge,sector-specific,,hardware plumbing and heating equipment products
 design process for blockchain-based systems,skill/competence,sector-specific,,design process for blockchain-based systems
 make price recommendations,skill/competence,sector-specific,,make price recommendations
 alternative energy,knowledge,cross-sector,,alternative energy
@@ -2388,7 +2388,7 @@ assemble instrumentation equipment,skill/competence,cross-sector,,assemble instr
 repair wiring,skill/competence,cross-sector,,repair wiring
 operate surveying instruments,skill/competence,sector-specific,,operate surveying instruments
 types of packaging used in industrial shipments,knowledge,sector-specific,,types of packaging used in industrial shipments
-"guidance, navigation and control",knowledge,sector-specific,,guidance navigation and control
+guidance navigation and control,knowledge,sector-specific,,guidance navigation and control
 develop code exploits,skill/competence,sector-specific,,develop code exploits
 operate broadcast equipment,skill/competence,sector-specific,,operate broadcast equipment
 coordinate technological activities,skill/competence,sector-specific,,coordinate technological activities
@@ -2831,7 +2831,7 @@ document your own practice,skill/competence,sector-specific,,document your own p
 iOS,knowledge,sector-specific,,ios
 explain distributed ledger technologies principles,skill/competence,cross-sector,,explain distributed ledger technologies principles
 manage system testing,skill/competence,sector-specific,,manage system testing
-"mining, construction and civil engineering machinery products",knowledge,sector-specific,,mining construction and civil engineering machinery products
+mining construction and civil engineering machinery products,knowledge,sector-specific,,mining construction and civil engineering machinery products
 collaborate in company's daily operations,skill/competence,cross-sector,,collaborate in company s daily operations
 competition law,knowledge,cross-sector,,competition law
 perform copywriting,skill/competence,cross-sector,,perform copywriting
@@ -2935,7 +2935,7 @@ read musical score,skill/competence,sector-specific,,read musical score
 assist scientific research,skill/competence,cross-sector,,assist scientific research
 commercial law,knowledge,sector-specific,,commercial law
 analyse data about clients,skill/competence,cross-sector,,analyse data about clients
-"coffee, tea, cocoa and spice products",knowledge,sector-specific,,coffee tea cocoa and spice products
+coffee tea cocoa and spice products,knowledge,sector-specific,,coffee tea cocoa and spice products
 tax legislation,knowledge,cross-sector,,tax legislation
 blockchain-based business models,knowledge,sector-specific,,blockchain-based business models
 capture people's attention,skill/competence,cross-sector,,capture people s attention

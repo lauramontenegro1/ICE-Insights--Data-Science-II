@@ -1,293 +1,293 @@
 occupation_group,canonical_title,task_description_ISCO,ilo_exposure_score
-1211,Finance Managers,"Planning, directing and coordinating the financial operations of an enterprise or organization;",0.37
-1211,Finance Managers,"Assessing the financial situation of the enterprise or organization, preparing budgets and overseeing financial operations;",0.37
+1211,Finance Managers,Planning directing and coordinating the financial operations of an enterprise or organization;,0.37
+1211,Finance Managers,Assessing the financial situation of the enterprise or organization preparing budgets and overseeing financial operations;,0.37
 1211,Finance Managers,Consulting with the chief executive and with managers of other departments or sections,0.37
-1211,Finance Managers,"Establishing and managing budgets, controlling expenditure and ensuring the efficient use of resources;",0.37
+1211,Finance Managers,Establishing and managing budgets controlling expenditure and ensuring the efficient use of resources;,0.37
 1211,Finance Managers,Establishing and directing operational and administrative procedures;,0.37
 1211,Finance Managers,Planning and directing daily operations;,0.37
-1211,Finance Managers,"Overseeing the selection, training and performance of staff;",0.37
+1211,Finance Managers,Overseeing the selection training and performance of staff;,0.37
 1211,Finance Managers,Representing the enterprise or organization in dealings with outside bodies.,0.37
-1213,Policy and Planning Managers,"Developing, implementing and monitoring strategic plans, programmes, policies, processes, systems and procedures to achieve goals, objectives and work standards;",0.36
-1213,Policy and Planning Managers,"Developing, directing, administering and participating in policy research and analysis;",0.36
+1213,Policy and Planning Managers,Developing implementing and monitoring strategic plans programmes policies processes systems and procedures to achieve goals objectives and work standards;,0.36
+1213,Policy and Planning Managers,Developing directing administering and participating in policy research and analysis;,0.36
 1213,Policy and Planning Managers,Coordinating the implementation of policies and practices;,0.36
 1213,Policy and Planning Managers,Establishing activity measures and measurements of accountability;,0.36
 1213,Policy and Planning Managers,Planning and directing daily operations;,0.36
 1213,Policy and Planning Managers,Leading and managing the activities of policy development and strategic planning staff;,0.36
-1213,Policy and Planning Managers,"Overseeing the selection, training and performance of staff;",0.36
+1213,Policy and Planning Managers,Overseeing the selection training and performance of staff;,0.36
 1213,Policy and Planning Managers,Consulting with senior management and with managers of other departments;,0.36
-1213,Policy and Planning Managers,"Representing the enterprise or organization in negotiations, and at conventions, seminars, public hearings and forums.",0.36
-1330,Information and Communications Technology Service Managers,"Consulting with users, management, vendors, and technicians to assess computing needs and system requirements and specifying technology to meet those needs;",0.44
-1330,Information and Communications Technology Service Managers,"Formulating and directing information and communication technology (ICT) strategies, policies and plans;",0.44
+1213,Policy and Planning Managers,Representing the enterprise or organization in negotiations and at conventions seminars public hearings and forums.,0.36
+1330,Information and Communications Technology Service Managers,Consulting with users management vendors and technicians to assess computing needs and system requirements and specifying technology to meet those needs;,0.44
+1330,Information and Communications Technology Service Managers,Formulating and directing information and communication technology (ICT) strategies policies and plans;,0.44
 1330,Information and Communications Technology Service Managers,Directing the selection and installation of ICT resources and the provision of user training;,0.44
-1330,Information and Communications Technology Service Managers,"Directing ICT operations, analysing workflow, establishing priorities, developing standards and setting deadlines;",0.44
+1330,Information and Communications Technology Service Managers,Directing ICT operations analysing workflow establishing priorities developing standards and setting deadlines;,0.44
 1330,Information and Communications Technology Service Managers,Overseeing the security of ICT systems;,0.44
-1330,Information and Communications Technology Service Managers,"Assigning, reviewing, managing and leading the work of systems analysts, programmers, and other computer-related workers;",0.44
+1330,Information and Communications Technology Service Managers,Assigning reviewing managing and leading the work of systems analysts programmers and other computer-related workers;,0.44
 1330,Information and Communications Technology Service Managers,Evaluating the organization's technology use and needs and recommending improvements such as hardware and software upgrades;,0.44
-1330,Information and Communications Technology Service Managers,"Establishing and managing budgets, controlling expenditure and ensuring the efficient use of resources;",0.44
+1330,Information and Communications Technology Service Managers,Establishing and managing budgets controlling expenditure and ensuring the efficient use of resources;,0.44
 1330,Information and Communications Technology Service Managers,Establishing and directing operational and administrative procedures;,0.44
-1330,Information and Communications Technology Service Managers,"Overseeing the selection, training and performance of staff;",0.44
-1330,Information and Communications Technology Service Managers,"Representing the enterprise or organization at ICT related conventions, seminars and conferences.",0.44
-2151,Electrical Engineers,"Advising on and designing power stations and systems which generate, transmit and distribute electrical power;",0.31
-2151,Electrical Engineers,"Supervising, controlling and monitoring the operation of electrical generation, transmission and distribution systems;",0.31
-2151,Electrical Engineers,"Advising on and designing systems for electrical motors, electrical traction and other equipment, or electrical domestic appliances;",0.31
+1330,Information and Communications Technology Service Managers,Overseeing the selection training and performance of staff;,0.44
+1330,Information and Communications Technology Service Managers,Representing the enterprise or organization at ICT related conventions seminars and conferences.,0.44
+2151,Electrical Engineers,Advising on and designing power stations and systems which generate transmit and distribute electrical power;,0.31
+2151,Electrical Engineers,Supervising controlling and monitoring the operation of electrical generation transmission and distribution systems;,0.31
+2151,Electrical Engineers,Advising on and designing systems for electrical motors electrical traction and other equipment or electrical domestic appliances;,0.31
 2151,Electrical Engineers,Specifying electrical installation and application in industrial and other buildings and objects;,0.31
-2151,Electrical Engineers,"Establishing control standards and procedures to monitor performance and safety of electrical generating and distribution systems, motors and equipment;",0.31
-2151,Electrical Engineers,"Determining manufacturing methods for electrical systems, as well as maintenance and repair of existing electrical systems, motors and equipment.",0.31
-2152,Electronics Engineers,"Advising on and designing electronic devices or components, circuits, semi-conductors and systems;",0.42
-2152,Electronics Engineers,"Specifying production or installation methods, materials and quality standards, and directing production or installation work of electronic products and systems;",0.42
-2152,Electronics Engineers,"Establishing control standards and procedures to ensure efficient functioning and safety of electronic systems, motors and equipment;",0.42
+2151,Electrical Engineers,Establishing control standards and procedures to monitor performance and safety of electrical generating and distribution systems motors and equipment;,0.31
+2151,Electrical Engineers,Determining manufacturing methods for electrical systems as well as maintenance and repair of existing electrical systems motors and equipment.,0.31
+2152,Electronics Engineers,Advising on and designing electronic devices or components circuits semi-conductors and systems;,0.42
+2152,Electronics Engineers,Specifying production or installation methods materials and quality standards and directing production or installation work of electronic products and systems;,0.42
+2152,Electronics Engineers,Establishing control standards and procedures to ensure efficient functioning and safety of electronic systems motors and equipment;,0.42
 2152,Electronics Engineers,Organising and directing maintenance and repair of existing electronic systems and equipment;,0.42
-2152,Electronics Engineers,"Designing electronic circuits and components for use in fields such as aerospace guidance and propulsion control, acoustics, or instruments and controls;",0.42
-2152,Electronics Engineers,"Researching and advising on radar, telemetry and remote control systems, microwaves and other electronic equipment;",0.42
+2152,Electronics Engineers,Designing electronic circuits and components for use in fields such as aerospace guidance and propulsion control acoustics or instruments and controls;,0.42
+2152,Electronics Engineers,Researching and advising on radar telemetry and remote control systems microwaves and other electronic equipment;,0.42
 2152,Electronics Engineers,Designing and developing signal processing algorithms and implementing these through appropriate choice of hardware and software;,0.42
-2152,Electronics Engineers,"Developing apparatus and procedures to test electronic components, circuits and systems.",0.42
-2153,Telecommunications Engineers,"Advising on and designing telecommunications devices or components, systems, equipment and distribution centres;",0.48
-2153,Telecommunications Engineers,"Specifying production or installation methods, materials, quality and safety standards and directing production or installation work of telecommunications products and systems;",0.48
-2153,Telecommunications Engineers,"Organizing and directing maintenance and repair of existing telecommunication systems, motors and equipment;",0.48
+2152,Electronics Engineers,Developing apparatus and procedures to test electronic components circuits and systems.,0.42
+2153,Telecommunications Engineers,Advising on and designing telecommunications devices or components systems equipment and distribution centres;,0.48
+2153,Telecommunications Engineers,Specifying production or installation methods materials quality and safety standards and directing production or installation work of telecommunications products and systems;,0.48
+2153,Telecommunications Engineers,Organizing and directing maintenance and repair of existing telecommunication systems motors and equipment;,0.48
 2153,Telecommunications Engineers,Researching and advising on telecommunications equipment;,0.48
-2153,Telecommunications Engineers,"Planning and designing communications networks based on wired, fibre optical and wireless communication media;",0.48
+2153,Telecommunications Engineers,Planning and designing communications networks based on wired fibre optical and wireless communication media;,0.48
 2153,Telecommunications Engineers,Designing and developing signal processing algorithms and implementing these through appropriate choice of hardware and software;,0.48
-2153,Telecommunications Engineers,"Designing telecommunications networks and radio and television distribution systems, including both cable and over the air.",0.48
-2411,Accountants,"Advising on, planning and installing budgetary, accounts controlling and other accounting policies and systems;",0.51
-2411,Accountants,"Preparing and certifying financial statements for presentation to management, shareholders and statutory or other bodies;",0.51
-2411,Accountants,"Preparing tax returns, advising on taxation problems and contesting disputed claims before tax officials;",0.51
+2153,Telecommunications Engineers,Designing telecommunications networks and radio and television distribution systems including both cable and over the air.,0.48
+2411,Accountants,Advising on planning and installing budgetary accounts controlling and other accounting policies and systems;,0.51
+2411,Accountants,Preparing and certifying financial statements for presentation to management shareholders and statutory or other bodies;,0.51
+2411,Accountants,Preparing tax returns advising on taxation problems and contesting disputed claims before tax officials;,0.51
 2411,Accountants,Preparing or reporting on profit forecasts and budgets;,0.51
-2411,Accountants,"Conducting financial investigations in such matters as suspected fraud, insolvency and bankruptcy;",0.51
+2411,Accountants,Conducting financial investigations in such matters as suspected fraud insolvency and bankruptcy;,0.51
 2411,Accountants,Auditing accounts and bookkeeping records;,0.51
-2411,Accountants,"Conducting investigations and advising management on financial aspects of productivity, stockholdings, sales, new products, etc.;",0.51
+2411,Accountants,Conducting investigations and advising management on financial aspects of productivity stockholdings sales new products etc.;,0.51
 2411,Accountants,Devising and controlling a system to determine unit cost of products and services.,0.51
 2412,Financial and Investment Advisers,Building and maintaining a client base;,0.57
-2412,Financial and Investment Advisers,"Interviewing clients to determine financial status and objectives, risk tolerance and other information needed to develop financial plans and investment strategies;",0.57
-2412,Financial and Investment Advisers,"Setting financial objectives, and developing and implementing strategies for achieving the financial objectives;",0.57
+2412,Financial and Investment Advisers,Interviewing clients to determine financial status and objectives risk tolerance and other information needed to develop financial plans and investment strategies;,0.57
+2412,Financial and Investment Advisers,Setting financial objectives and developing and implementing strategies for achieving the financial objectives;,0.57
 2412,Financial and Investment Advisers,Arranging to buy and sell stocks and bonds for clients;,0.57
-2412,Financial and Investment Advisers,"Monitoring investment performance, and reviewing and revising investment plans based on modified needs and changes in markets;",0.57
+2412,Financial and Investment Advisers,Monitoring investment performance and reviewing and revising investment plans based on modified needs and changes in markets;,0.57
 2412,Financial and Investment Advisers,Recommending and arranging insurance cover for clients.,0.57
-2413,Financial Analysts,"Analysing financial information to produce forecasts of business, industry, and economic conditions for use in making investment decisions;",0.62
-2413,Financial Analysts,"Maintaining knowledge and staying abreast of developments in the fields of industrial technology, business, finance, and economic theory;",0.62
-2413,Financial Analysts,"Interpreting data affecting investment programmes, such as price, yield, stability, future trends in investment risks and economic influences;",0.62
-2413,Financial Analysts,"Monitoring economic, industrial, and corporate developments through analysis of information obtained from financial publications and services, investment banking firms, government agencies, trade publications, company sources and personal interviews;",0.62
-2413,Financial Analysts,"Recommending investments and investment timing to companies, investment firm staff or the investing public;",0.62
+2413,Financial Analysts,Analysing financial information to produce forecasts of business industry and economic conditions for use in making investment decisions;,0.62
+2413,Financial Analysts,Maintaining knowledge and staying abreast of developments in the fields of industrial technology business finance and economic theory;,0.62
+2413,Financial Analysts,Interpreting data affecting investment programmes such as price yield stability future trends in investment risks and economic influences;,0.62
+2413,Financial Analysts,Monitoring economic industrial and corporate developments through analysis of information obtained from financial publications and services investment banking firms government agencies trade publications company sources and personal interviews;,0.62
+2413,Financial Analysts,Recommending investments and investment timing to companies investment firm staff or the investing public;,0.62
 2413,Financial Analysts,Determining the prices at which securities should be syndicated and offered to the public;,0.62
 2413,Financial Analysts,Preparing plans of action for investment based on financial analyses;,0.62
 2413,Financial Analysts,Evaluating and comparing the relative quality of various securities in a given industry;,0.62
-2413,Financial Analysts,"Presenting oral and written reports on general economic trends, individual corporations, and entire industries.",0.62
-2421,Management and Organization Analysts,"Assisting and encouraging the development of objectives, strategies and plans aimed at achieving customer satisfaction and the efficient use of organizations'Äô resources;",0.46
+2413,Financial Analysts,Presenting oral and written reports on general economic trends individual corporations and entire industries.,0.62
+2421,Management and Organization Analysts,Assisting and encouraging the development of objectives strategies and plans aimed at achieving customer satisfaction and the efficient use of organizations'Äô resources;,0.46
 2421,Management and Organization Analysts,Analysing and evaluating current systems and structures;,0.46
 2421,Management and Organization Analysts,Discussing current systems with staff and observing systems at all levels of organization;,0.46
 2421,Management and Organization Analysts,Directing clients towards more efficient organization and developing solutions to organizational problems;,0.46
 2421,Management and Organization Analysts,Undertaking and reviewing work studies by analysing existing and proposed methods and procedures such as administrative and clerical procedures;,0.46
-2421,Management and Organization Analysts,"Recording and analysing organizations'Äô workflow charts, records, reports, manuals and job descriptions;",0.46
-2421,Management and Organization Analysts,"Preparing and recommending proposals to revise methods and procedures, alter work flows, redefine job functions and resolve organizational problems;",0.46
-2421,Management and Organization Analysts,"Assisting in implementing approved recommendations, issuing revised instructions and procedure manuals, and drafting other documentation;",0.46
+2421,Management and Organization Analysts,Recording and analysing organizations'Äô workflow charts records reports manuals and job descriptions;,0.46
+2421,Management and Organization Analysts,Preparing and recommending proposals to revise methods and procedures alter work flows redefine job functions and resolve organizational problems;,0.46
+2421,Management and Organization Analysts,Assisting in implementing approved recommendations issuing revised instructions and procedure manuals and drafting other documentation;,0.46
 2421,Management and Organization Analysts,Reviewing operating procedures and advising of departures from procedures and standards.,0.46
 2422,Policy Administration Professionals,Liaising and consulting with programme administrators and other interested parties to identify policy needs;,0.42
 2422,Policy Administration Professionals,Reviewing existing policies and legislation to identify anomalies and out-of-date provisions;,0.42
-2422,Policy Administration Professionals,"Researching social, economic and industrial trends, and client expectations of programmes and services provided;",0.42
-2422,Policy Administration Professionals,"Formulating and analysing policy options, preparing briefing papers and recommendations for policy changes, and advising on preferred options;",0.42
-2422,Policy Administration Professionals,"Assessing impacts, financial implications, interactions with other programmes and political and administrative feasibility of policies;",0.42
+2422,Policy Administration Professionals,Researching social economic and industrial trends and client expectations of programmes and services provided;,0.42
+2422,Policy Administration Professionals,Formulating and analysing policy options preparing briefing papers and recommendations for policy changes and advising on preferred options;,0.42
+2422,Policy Administration Professionals,Assessing impacts financial implications interactions with other programmes and political and administrative feasibility of policies;,0.42
 2422,Policy Administration Professionals,Conducting threat and risk assessments and developing responses;,0.42
 2422,Policy Administration Professionals,Reviewing operations and programmes to ensure consistency with policies of the organization.,0.42
-2423,Personnel and Careers Professionals,"Advising on and performing personnel functions relating to employee recruitment, placement, training, promotion, compensation, and employee-management relations or other areas of personnel policy;",0.45
-2423,Personnel and Careers Professionals,"Studying and analysing jobs performed in an establishment by various means, including interviews with workers, supervisors and management, and writing detailed position, job or occupation descriptions from information obtained;",0.45
+2423,Personnel and Careers Professionals,Advising on and performing personnel functions relating to employee recruitment placement training promotion compensation and employee-management relations or other areas of personnel policy;,0.45
+2423,Personnel and Careers Professionals,Studying and analysing jobs performed in an establishment by various means including interviews with workers supervisors and management and writing detailed position job or occupation descriptions from information obtained;,0.45
 2423,Personnel and Careers Professionals,Preparing occupational information or working on occupational classification systems;,0.45
-2423,Personnel and Careers Professionals,"Advising and working on the foregoing and other aspects of job and occupational analysis in such fields as personnel administration, workforce research and planning, training or occupational information and vocational guidance;",0.45
-2423,Personnel and Careers Professionals,"Studying and advising individuals on employment opportunities, career choices and further education or training that may be desirable.",0.45
+2423,Personnel and Careers Professionals,Advising and working on the foregoing and other aspects of job and occupational analysis in such fields as personnel administration workforce research and planning training or occupational information and vocational guidance;,0.45
+2423,Personnel and Careers Professionals,Studying and advising individuals on employment opportunities career choices and further education or training that may be desirable.,0.45
 2424,Training and Staff Development Professionals,Identifying training needs and requirements of individuals and organizations;,0.41
 2424,Training and Staff Development Professionals,Setting human resource development objectives and evaluating learning outcomes;,0.41
-2424,Training and Staff Development Professionals,"Preparing and developing instructional training material and aids such as handbooks, visual aids, online tutorials, demonstration models and supporting training reference documentation;",0.41
-2424,Training and Staff Development Professionals,"Designing, coordinating, scheduling and conducting training and development programmes that can be delivered in the form of individual and group instruction, and facilitating workshops, meetings, demonstrations and conferences;",0.41
+2424,Training and Staff Development Professionals,Preparing and developing instructional training material and aids such as handbooks visual aids online tutorials demonstration models and supporting training reference documentation;,0.41
+2424,Training and Staff Development Professionals,Designing coordinating scheduling and conducting training and development programmes that can be delivered in the form of individual and group instruction and facilitating workshops meetings demonstrations and conferences;,0.41
 2424,Training and Staff Development Professionals,Liaising with external training providers to arrange delivery of specific training and development programmes;,0.41
-2424,Training and Staff Development Professionals,"Promoting internal and external training and development, and evaluating these promotional activities;",0.41
-2424,Training and Staff Development Professionals,"Monitoring and performing ongoing evaluation and assessment of internal and external training quality and effectiveness, and reviewing and modifying training objectives, methods and course deliverables;",0.41
-2424,Training and Staff Development Professionals,"Gathering, investigating and researching background materials to gain an understanding of various subject matters and systems.",0.41
-2431,Advertising and Marketing Professionals,"Planning, developing and organizing advertising policies and campaigns to support sales objectives;",0.55
-2431,Advertising and Marketing Professionals,"Advising managers and clients on strategies and campaigns to reach target markets, creating consumer awareness and effectively promoting the attributes of goods and services;",0.55
-2431,Advertising and Marketing Professionals,"Writing advertising copy and media scripts, and arranging television and film production and media placement;",0.55
+2424,Training and Staff Development Professionals,Promoting internal and external training and development and evaluating these promotional activities;,0.41
+2424,Training and Staff Development Professionals,Monitoring and performing ongoing evaluation and assessment of internal and external training quality and effectiveness and reviewing and modifying training objectives methods and course deliverables;,0.41
+2424,Training and Staff Development Professionals,Gathering investigating and researching background materials to gain an understanding of various subject matters and systems.,0.41
+2431,Advertising and Marketing Professionals,Planning developing and organizing advertising policies and campaigns to support sales objectives;,0.55
+2431,Advertising and Marketing Professionals,Advising managers and clients on strategies and campaigns to reach target markets creating consumer awareness and effectively promoting the attributes of goods and services;,0.55
+2431,Advertising and Marketing Professionals,Writing advertising copy and media scripts and arranging television and film production and media placement;,0.55
 2431,Advertising and Marketing Professionals,Collecting and analysing data regarding consumer patterns and preferences;,0.55
 2431,Advertising and Marketing Professionals,Interpreting and predicting current and future consumer trends;,0.55
 2431,Advertising and Marketing Professionals,Researching potential demand and market characteristics for new goods and services;,0.55
-2431,Advertising and Marketing Professionals,"Supporting business growth and development through the preparation and execution of marketing objectives, policies and programmes;",0.55
+2431,Advertising and Marketing Professionals,Supporting business growth and development through the preparation and execution of marketing objectives policies and programmes;,0.55
 2431,Advertising and Marketing Professionals,Commissioning and undertaking market research to identify market opportunities for new and existing goods and services;,0.55
-2431,Advertising and Marketing Professionals,"Advising on all elements of marketing such as product mix, pricing, advertising and sales promotion, selling and distribution channels.",0.55
+2431,Advertising and Marketing Professionals,Advising on all elements of marketing such as product mix pricing advertising and sales promotion selling and distribution channels.,0.55
 2432,Public Relations Professionals,Planning and organizing publicity campaigns and communication strategies;,0.43
-2432,Public Relations Professionals,"Advising executives on the public relations implications of their policies, programmes and practices preparing and controlling the issue of news and press releases;",0.43
-2432,Public Relations Professionals,"Undertaking and commissioning public opinion research, analysing the findings and planning public relations and promotional campaigns;",0.43
-2432,Public Relations Professionals,"Organizing special events, seminars, entertainment, competitions and social functions to promote goodwill and favourable publicity;",0.43
+2432,Public Relations Professionals,Advising executives on the public relations implications of their policies programmes and practices preparing and controlling the issue of news and press releases;,0.43
+2432,Public Relations Professionals,Undertaking and commissioning public opinion research analysing the findings and planning public relations and promotional campaigns;,0.43
+2432,Public Relations Professionals,Organizing special events seminars entertainment competitions and social functions to promote goodwill and favourable publicity;,0.43
 2432,Public Relations Professionals,Representing organizations and arranging interviews with publicity media;,0.43
-2432,Public Relations Professionals,"Attending business, social and other functions to promote the organization;",0.43
+2432,Public Relations Professionals,Attending business social and other functions to promote the organization;,0.43
 2432,Public Relations Professionals,Commissioning and obtaining photographs and other illustrative material;,0.43
-2432,Public Relations Professionals,"Selecting, appraising and revising material submitted by publicity writers, photographers, illustrators and others to create favourable publicity.",0.43
+2432,Public Relations Professionals,Selecting appraising and revising material submitted by publicity writers photographers illustrators and others to create favourable publicity.,0.43
 2433,Technical and Medical Sales Professionals (excluding ICT),Compiling lists of prospective client businesses using directories and other sources;,0.5
-2433,Technical and Medical Sales Professionals (excluding ICT),"Acquiring and updating knowledge of employers'Äô and competitors'Äô goods and services, and market conditions;",0.5
+2433,Technical and Medical Sales Professionals (excluding ICT),Acquiring and updating knowledge of employers'Äô and competitors'Äô goods and services and market conditions;,0.5
 2433,Technical and Medical Sales Professionals (excluding ICT),Visiting regular and prospective client businesses to establish and act on selling opportunities;,0.5
 2433,Technical and Medical Sales Professionals (excluding ICT),Assessing clients' needs and resources and recommending appropriate goods or services;,0.5
 2433,Technical and Medical Sales Professionals (excluding ICT),Providing input to product design where goods or services must be tailored to suit clients'Äô needs;,0.5
 2433,Technical and Medical Sales Professionals (excluding ICT),Developing reports and proposals as part of sales presentation to demonstrate benefits from use of goods or service;,0.5
 2433,Technical and Medical Sales Professionals (excluding ICT),Estimating costs of installing and maintaining equipment or service;,0.5
-2433,Technical and Medical Sales Professionals (excluding ICT),"Monitoring customers'Äô changing needs and competitor activity, and reporting these developments to sales management;",0.5
-2433,Technical and Medical Sales Professionals (excluding ICT),"Quoting and negotiating prices and credit terms, and preparing and administering sales contracts;",0.5
-2433,Technical and Medical Sales Professionals (excluding ICT),"Arranging delivery of goods, installation of equipment and the provision of services;",0.5
+2433,Technical and Medical Sales Professionals (excluding ICT),Monitoring customers'Äô changing needs and competitor activity and reporting these developments to sales management;,0.5
+2433,Technical and Medical Sales Professionals (excluding ICT),Quoting and negotiating prices and credit terms and preparing and administering sales contracts;,0.5
+2433,Technical and Medical Sales Professionals (excluding ICT),Arranging delivery of goods installation of equipment and the provision of services;,0.5
 2433,Technical and Medical Sales Professionals (excluding ICT),Reporting to sales management on sales made and the marketability of goods and services;,0.5
 2433,Technical and Medical Sales Professionals (excluding ICT),Consulting with clients after sale to ensure a satisfactory resolution of any problems and provide ongoing support.,0.5
-2434,Information and Communications Technology Sales Professionals,"Soliciting orders and selling goods to retail, industrial, wholesale and other establishments;",0.51
-2434,Information and Communications Technology Sales Professionals,"Selling technical equipment, supplies and related services to business establishments or individuals;",0.51
-2434,Information and Communications Technology Sales Professionals,"Discussing the needs of new and existing customers and providing specialized information about how particular equipment, supplies and services meet those needs;",0.51
-2434,Information and Communications Technology Sales Professionals,"Quoting and negotiating prices and credit terms, and completing contracts and recording orders;",0.51
+2434,Information and Communications Technology Sales Professionals,Soliciting orders and selling goods to retail industrial wholesale and other establishments;,0.51
+2434,Information and Communications Technology Sales Professionals,Selling technical equipment supplies and related services to business establishments or individuals;,0.51
+2434,Information and Communications Technology Sales Professionals,Discussing the needs of new and existing customers and providing specialized information about how particular equipment supplies and services meet those needs;,0.51
+2434,Information and Communications Technology Sales Professionals,Quoting and negotiating prices and credit terms and completing contracts and recording orders;,0.51
 2434,Information and Communications Technology Sales Professionals,Updating customer records and preparing sales reports;,0.51
-2434,Information and Communications Technology Sales Professionals,"Arranging delivery of goods, installation of equipment and the provision of services;",0.51
+2434,Information and Communications Technology Sales Professionals,Arranging delivery of goods installation of equipment and the provision of services;,0.51
 2434,Information and Communications Technology Sales Professionals,Reporting customers' reactions and requirements to manufacturers.,0.51
 2511,Systems Analysts,Consulting with users to formulate and document requirements and with management to ensure agreement on systems principles;,0.49
-2511,Systems Analysts,"Identifying and analysing business processes, procedures and work practices;",0.49
+2511,Systems Analysts,Identifying and analysing business processes procedures and work practices;,0.49
 2511,Systems Analysts,Identifying and evaluating inefficiencies and recommending optimal business practices and system functionality and behaviour;,0.49
-2511,Systems Analysts,"Taking responsibility for deploying functional solutions, such as creating, adopting and implementing system test plans;",0.49
+2511,Systems Analysts,Taking responsibility for deploying functional solutions such as creating adopting and implementing system test plans;,0.49
 2511,Systems Analysts,Developing functional specifications for use by systems developers;,0.49
 2511,Systems Analysts,Expanding or modifying systems to improve workflow or serve new purposes;,0.49
 2511,Systems Analysts,Coordinating and linking the computer systems within an organization to increase compatibility.,0.49
-2512,Software Developers,"Researching, analysing and evaluating requirements for software applications and operating systems;",0.53
-2512,Software Developers,"Researching, designing, and developing computer software systems;",0.53
+2512,Software Developers,Researching analysing and evaluating requirements for software applications and operating systems;,0.53
+2512,Software Developers,Researching designing and developing computer software systems;,0.53
 2512,Software Developers,Consulting with engineering staff to evaluate interfaces between hardware and software;,0.53
 2512,Software Developers,Developing and directing software testing and validation procedures;,0.53
-2512,Software Developers,"Modifying existing software to correct errors, to adapt it to new hardware or to upgrade interfaces and improve performance;",0.53
+2512,Software Developers,Modifying existing software to correct errors to adapt it to new hardware or to upgrade interfaces and improve performance;,0.53
 2512,Software Developers,Directing software programming and development of documentation;,0.53
-2512,Software Developers,"Assessing, developing, upgrading and documenting maintenance procedures for operating systems, communications environments and applications software;",0.53
+2512,Software Developers,Assessing developing upgrading and documenting maintenance procedures for operating systems communications environments and applications software;,0.53
 2512,Software Developers,Consulting with customers concerning maintenance of software system.,0.53
-2513,Web and Multimedia Developers,"Analysing, designing and developing Internet sites by applying a mixture of artistry and creativity with software programming and scripting languages and interfacing with operating environments;",0.6
-2513,Web and Multimedia Developers,"Designing and developing digital animations, imaging, presentations, games, audio and video clips, and Internet applications using multimedia software, tools and utilities, interactive graphics and programming languages;",0.6
-2513,Web and Multimedia Developers,"Communicating with network specialists regarding web-related issues, such as security and hosting web sites, to control and enforce Internet and web server security, space allocation, user access, business continuity, web site backup and disaster recovery planning;",0.6
-2513,Web and Multimedia Developers,"Designing, developing and integrating computer code with other specialised inputs, such as image files, audio files and scripting languages, to produce, maintain and support web sites;",0.6
-2513,Web and Multimedia Developers,"Assisting in analysing, specifying and developing Internet strategies, web-based methodologies and development plans.",0.6
+2513,Web and Multimedia Developers,Analysing designing and developing Internet sites by applying a mixture of artistry and creativity with software programming and scripting languages and interfacing with operating environments;,0.6
+2513,Web and Multimedia Developers,Designing and developing digital animations imaging presentations games audio and video clips and Internet applications using multimedia software tools and utilities interactive graphics and programming languages;,0.6
+2513,Web and Multimedia Developers,Communicating with network specialists regarding web-related issues such as security and hosting web sites to control and enforce Internet and web server security space allocation user access business continuity web site backup and disaster recovery planning;,0.6
+2513,Web and Multimedia Developers,Designing developing and integrating computer code with other specialised inputs such as image files audio files and scripting languages to produce maintain and support web sites;,0.6
+2513,Web and Multimedia Developers,Assisting in analysing specifying and developing Internet strategies web-based methodologies and development plans.,0.6
 2514,Applications Programmers,Writing and maintaining programme code outlined in instructions and specifications in accordance with quality accredited standards;,0.57
-2514,Applications Programmers,"Revising, repairing or expanding existing programmes to increase operating efficiency or adapt to new requirements;",0.57
+2514,Applications Programmers,Revising repairing or expanding existing programmes to increase operating efficiency or adapt to new requirements;,0.57
 2514,Applications Programmers,Conducting trial runs of programmes and software applications to confirm that they will produce the desired information;,0.57
 2514,Applications Programmers,Compiling and writing documentation of programme development;,0.57
-2514,Applications Programmers,"Identifying and communicating technical problems, processes and solutions.",0.57
+2514,Applications Programmers,Identifying and communicating technical problems processes and solutions.,0.57
 2519,Software and Applications Developers and Analysts Not Elsewhere Classified,Developing and documenting software testing plans;,0.55
 2519,Software and Applications Developers and Analysts Not Elsewhere Classified,Installing software and hardware and configuring operating system software in preparation for testing;,0.55
 2519,Software and Applications Developers and Analysts Not Elsewhere Classified,Verifying that programmes function according to user requirements and established guidelines;,0.55
-2519,Software and Applications Developers and Analysts Not Elsewhere Classified,"Executing, analysing and documenting results of software application tests and information and telecommunication systems tests;",0.55
-2519,Software and Applications Developers and Analysts Not Elsewhere Classified,"Developing and implementing software and information system testing policies, procedures and scripts.",0.55
-3113,Electrical Engineering Technicians,"Providing technical assistance in research on and development of electrical equipment and facilities, or testing prototypes;",0.27
+2519,Software and Applications Developers and Analysts Not Elsewhere Classified,Executing analysing and documenting results of software application tests and information and telecommunication systems tests;,0.55
+2519,Software and Applications Developers and Analysts Not Elsewhere Classified,Developing and implementing software and information system testing policies procedures and scripts.,0.55
+3113,Electrical Engineering Technicians,Providing technical assistance in research on and development of electrical equipment and facilities or testing prototypes;,0.27
 3113,Electrical Engineering Technicians,Designing and preparing blueprints of electrical installations and circuitry according to the specifications given;,0.27
-3113,Electrical Engineering Technicians,"Preparing detailed estimates of quantities and costs of materials and labour required for manufacture and installation, according to the specifications given;",0.27
-3113,Electrical Engineering Technicians,"Monitoring technical aspects of the manufacture, installation, utilization, maintenance and repair of electrical systems and equipment to ensure satisfactory performance and compliance with specifications and regulations;",0.27
-3113,Electrical Engineering Technicians,"Planning installation methods, checking completed installation for safety and controls or undertaking the initial running of the new electrical equipment or systems;",0.27
-3113,Electrical Engineering Technicians,"Assembling, installing, testing, calibrating, modifying and repairing electrical equipment and installations to conform with regulations and safety requirements.",0.27
-3114,Electronics Engineering Technicians,"Providing technical assistance in research and development of electronic equipment, or testing prototypes;",0.38
+3113,Electrical Engineering Technicians,Preparing detailed estimates of quantities and costs of materials and labour required for manufacture and installation according to the specifications given;,0.27
+3113,Electrical Engineering Technicians,Monitoring technical aspects of the manufacture installation utilization maintenance and repair of electrical systems and equipment to ensure satisfactory performance and compliance with specifications and regulations;,0.27
+3113,Electrical Engineering Technicians,Planning installation methods checking completed installation for safety and controls or undertaking the initial running of the new electrical equipment or systems;,0.27
+3113,Electrical Engineering Technicians,Assembling installing testing calibrating modifying and repairing electrical equipment and installations to conform with regulations and safety requirements.,0.27
+3114,Electronics Engineering Technicians,Providing technical assistance in research and development of electronic equipment or testing prototypes;,0.38
 3114,Electronics Engineering Technicians,Designing and preparing blueprints of electronic circuitry according to the specifications given;,0.38
-3114,Electronics Engineering Technicians,"Preparing detailed estimates of quantities and costs of materials and labour required for the manufacture and installation of electronic equipment, according to the specifications given;",0.38
-3114,Electronics Engineering Technicians,"Monitoring technical aspects of the manufacture, utilization, maintenance and repair of electronic equipment to ensure satisfactory performance and ensure compliance with specifications and regulations;",0.38
-3114,Electronics Engineering Technicians,"Assisting in the design, development, installation, operation and maintenance of electronic systems;",0.38
-3114,Electronics Engineering Technicians,"Planning installation methods, checking completed installation for safety and controls or undertaking the initial running of the new electronic equipment or system;",0.38
-3114,Electronics Engineering Technicians,"Conducting tests of electronic systems, collecting and analysing data, and assembling circuitry in support of electronics engineers.",0.38
+3114,Electronics Engineering Technicians,Preparing detailed estimates of quantities and costs of materials and labour required for the manufacture and installation of electronic equipment according to the specifications given;,0.38
+3114,Electronics Engineering Technicians,Monitoring technical aspects of the manufacture utilization maintenance and repair of electronic equipment to ensure satisfactory performance and ensure compliance with specifications and regulations;,0.38
+3114,Electronics Engineering Technicians,Assisting in the design development installation operation and maintenance of electronic systems;,0.38
+3114,Electronics Engineering Technicians,Planning installation methods checking completed installation for safety and controls or undertaking the initial running of the new electronic equipment or system;,0.38
+3114,Electronics Engineering Technicians,Conducting tests of electronic systems collecting and analysing data and assembling circuitry in support of electronics engineers.,0.38
 3311,Securities and Finance Dealers and Brokers,Obtaining information about the financial circumstances of customers and companies in which investments may be made;,0.63
-3311,Securities and Finance Dealers and Brokers,"Analysing market trends for securities, bonds, stocks and other financial instruments, including foreign exchange;",0.63
+3311,Securities and Finance Dealers and Brokers,Analysing market trends for securities bonds stocks and other financial instruments including foreign exchange;,0.63
 3311,Securities and Finance Dealers and Brokers,Informing prospective customers about market conditions and prospects;,0.63
-3311,Securities and Finance Dealers and Brokers,"Advising on and participating in the negotiation of terms for, and organization of, loans and placement of stocks and bonds in the financial market to raise capital for customers;",0.63
-3311,Securities and Finance Dealers and Brokers,"Recording and transmitting buy and sell orders for securities, stocks, bonds or other financial instruments and for foreign exchange for future or immediate delivery.",0.63
-3312,Credit and Loans Officers,"Interviewing applicants for personal, mortgage, student and business loans;",0.6
-3312,Credit and Loans Officers,"Researching and evaluating loan applicant'Äôs financial status, references, credit and ability to repay the loan;",0.6
+3311,Securities and Finance Dealers and Brokers,Advising on and participating in the negotiation of terms for and organization of loans and placement of stocks and bonds in the financial market to raise capital for customers;,0.63
+3311,Securities and Finance Dealers and Brokers,Recording and transmitting buy and sell orders for securities stocks bonds or other financial instruments and for foreign exchange for future or immediate delivery.,0.63
+3312,Credit and Loans Officers,Interviewing applicants for personal mortgage student and business loans;,0.6
+3312,Credit and Loans Officers,Researching and evaluating loan applicant'Äôs financial status references credit and ability to repay the loan;,0.6
 3312,Credit and Loans Officers,Submitting credit and loan applications to management with recommendations for approval or rejection;,0.6
 3312,Credit and Loans Officers,Approving or rejecting loan applications within authorized limits ensuring that credit standards of the institution are respected;,0.6
-3312,Credit and Loans Officers,"Keeping records of payments, and preparing routine letters requesting payment for overdue accounts and forwarding these for legal action;",0.6
+3312,Credit and Loans Officers,Keeping records of payments and preparing routine letters requesting payment for overdue accounts and forwarding these for legal action;,0.6
 3312,Credit and Loans Officers,Completing credit and loan documentation.,0.6
-3313,Accounting Associate Professionals,"Maintaining complete records of all financial transactions of an undertaking according to general bookkeeping principles, with guidance from Accountants;",0.49
-3313,Accounting Associate Professionals,"Verifying accuracy of documents and records relating to payments, receipts and other financial transactions;",0.49
+3313,Accounting Associate Professionals,Maintaining complete records of all financial transactions of an undertaking according to general bookkeeping principles with guidance from Accountants;,0.49
+3313,Accounting Associate Professionals,Verifying accuracy of documents and records relating to payments receipts and other financial transactions;,0.49
 3313,Accounting Associate Professionals,Preparing financial statements and reports for specified periods;,0.49
 3313,Accounting Associate Professionals,Applying knowledge of bookkeeping principles and practices in order to identify and solve problems arising in the course of their work;,0.49
 3313,Accounting Associate Professionals,Using standard computer software packages to perform accounting and related calculations;,0.49
 3313,Accounting Associate Professionals,Supervising the work of accounts and bookkeeping clerks.,0.49
-3314,"Statistical, Mathematical and Related Associate Professionals","Assisting in planning and performing statistical, mathematical, actuarial and related calculations;",0.57
-3314,"Statistical, Mathematical and Related Associate Professionals",Preparing detailed estimates of quantities and costs of materials and labour required for statistical census and survey operations;,0.57
-3314,"Statistical, Mathematical and Related Associate Professionals","Performing technical tasks connected with establishing, maintaining and using registers and sampling frames for census and survey operations;",0.57
-3314,"Statistical, Mathematical and Related Associate Professionals",Performing technical tasks connected with data collection and quality control operations in censuses and surveys;,0.57
-3314,"Statistical, Mathematical and Related Associate Professionals","Using standard computer software packages to perform mathematical, actuarial, statistical, accounting and related calculations;",0.57
-3314,"Statistical, Mathematical and Related Associate Professionals","Preparing statistical, mathematical, actuarial, accounting and other results for presentation in graphical or tabular form;",0.57
-3314,"Statistical, Mathematical and Related Associate Professionals","Applying knowledge of statistical, mathematical, actuarial, accounting and related principles and practices in order to identify and solve problems arising in the course of their work;",0.57
-3314,"Statistical, Mathematical and Related Associate Professionals",Supervising the work of statistical clerks.,0.57
-3315,Valuers and Loss Assessors,"Determining the quality or value of raw materials, real estate, industrial equipment, personal and household effects, works of art, gems and other objects;",0.45
+3314,Statistical Mathematical and Related Associate Professionals,Assisting in planning and performing statistical mathematical actuarial and related calculations;,0.57
+3314,Statistical Mathematical and Related Associate Professionals,Preparing detailed estimates of quantities and costs of materials and labour required for statistical census and survey operations;,0.57
+3314,Statistical Mathematical and Related Associate Professionals,Performing technical tasks connected with establishing maintaining and using registers and sampling frames for census and survey operations;,0.57
+3314,Statistical Mathematical and Related Associate Professionals,Performing technical tasks connected with data collection and quality control operations in censuses and surveys;,0.57
+3314,Statistical Mathematical and Related Associate Professionals,Using standard computer software packages to perform mathematical actuarial statistical accounting and related calculations;,0.57
+3314,Statistical Mathematical and Related Associate Professionals,Preparing statistical mathematical actuarial accounting and other results for presentation in graphical or tabular form;,0.57
+3314,Statistical Mathematical and Related Associate Professionals,Applying knowledge of statistical mathematical actuarial accounting and related principles and practices in order to identify and solve problems arising in the course of their work;,0.57
+3314,Statistical Mathematical and Related Associate Professionals,Supervising the work of statistical clerks.,0.57
+3315,Valuers and Loss Assessors,Determining the quality or value of raw materials real estate industrial equipment personal and household effects works of art gems and other objects;,0.45
 3315,Valuers and Loss Assessors,Assessing the extent of damage or loss and liabilities of insurance companies and underwriters for losses covered by insurance policies;,0.45
 3315,Valuers and Loss Assessors,Obtaining records of sales and value of similar items or property;,0.45
-3315,Valuers and Loss Assessors,"Inspecting items or property to evaluate condition, size and construction;",0.45
-3315,Valuers and Loss Assessors,"Preparing reports of value, outlining the estimation factors and methods used.",0.45
+3315,Valuers and Loss Assessors,Inspecting items or property to evaluate condition size and construction;,0.45
+3315,Valuers and Loss Assessors,Preparing reports of value outlining the estimation factors and methods used.,0.45
 3321,Insurance Representatives,Obtaining information about customers'Äô circumstances necessary to determine appropriate type of insurance and conditions;,0.53
 3321,Insurance Representatives,Negotiating with customers to determine type and degree of risk for which insurance is required;,0.53
-3321,Insurance Representatives,"Explaining details of insurance and conditions, risk coverage premiums and benefits to customers;",0.53
-3321,Insurance Representatives,"Assisting clients to determine the type and level of coverage required, calculating premiums and establishing method of payment;",0.53
+3321,Insurance Representatives,Explaining details of insurance and conditions risk coverage premiums and benefits to customers;,0.53
+3321,Insurance Representatives,Assisting clients to determine the type and level of coverage required calculating premiums and establishing method of payment;,0.53
 3321,Insurance Representatives,Negotiating and placing reinsurance contracts;,0.53
-3321,Insurance Representatives,"Advising on, negotiating terms for and placing insurance contracts for large or special types of projects, installations or risks.",0.53
-3322,Commercial Sales Representatives,"Soliciting orders and selling goods to retail, industrial, wholesale and other establishments;",0.49
-3322,Commercial Sales Representatives,"Selling equipment, supplies and related services to business establishments or individuals;",0.49
+3321,Insurance Representatives,Advising on negotiating terms for and placing insurance contracts for large or special types of projects installations or risks.,0.53
+3322,Commercial Sales Representatives,Soliciting orders and selling goods to retail industrial wholesale and other establishments;,0.49
+3322,Commercial Sales Representatives,Selling equipment supplies and related services to business establishments or individuals;,0.49
 3322,Commercial Sales Representatives,Obtaining and updating knowledge of market conditions and of employer'Äôs and competitors'Äô goods and services;,0.49
-3322,Commercial Sales Representatives,"Providing prospective customers with information about the characteristics and functions of the products and equipment for sale, and demonstrating its use or qualities;",0.49
-3322,Commercial Sales Representatives,"Quoting prices and credit terms, recording orders and arranging deliveries;",0.49
+3322,Commercial Sales Representatives,Providing prospective customers with information about the characteristics and functions of the products and equipment for sale and demonstrating its use or qualities;,0.49
+3322,Commercial Sales Representatives,Quoting prices and credit terms recording orders and arranging deliveries;,0.49
 3322,Commercial Sales Representatives,Reporting customers'Äô reactions and requirements to suppliers and manufacturers;,0.49
 3322,Commercial Sales Representatives,Following up clients to ensure satisfaction with products purchased.,0.49
-3323,Buyers,"Determining or negotiating contract terms and conditions, awarding supplier contracts or recommending contract awards for the purchase of equipment, raw materials, products, services and merchandise for resale;",0.39
-3323,Buyers,"Obtaining information about requirements and stock and developing specifications for quantity and quality to be purchased, costs, delivery dates and other contract conditions;",0.39
-3323,Buyers,"Purchasing general and specialized equipment, materials or business services for use or for further processing by their establishment;",0.39
-3323,Buyers,"Inviting tenders, consulting with suppliers and reviewing quotations;",0.39
+3323,Buyers,Determining or negotiating contract terms and conditions awarding supplier contracts or recommending contract awards for the purchase of equipment raw materials products services and merchandise for resale;,0.39
+3323,Buyers,Obtaining information about requirements and stock and developing specifications for quantity and quality to be purchased costs delivery dates and other contract conditions;,0.39
+3323,Buyers,Purchasing general and specialized equipment materials or business services for use or for further processing by their establishment;,0.39
+3323,Buyers,Inviting tenders consulting with suppliers and reviewing quotations;,0.39
 3323,Buyers,Purchasing merchandise for resale by retail or wholesale establishments;,0.39
-3323,Buyers,"Studying market reports, trade periodicals and sales promotion materials and visiting trade shows, showrooms, factories and product design events;",0.39
+3323,Buyers,Studying market reports trade periodicals and sales promotion materials and visiting trade shows showrooms factories and product design events;,0.39
 3323,Buyers,Selecting the merchandise or products that best fit the establishment's requirements;,0.39
-3323,Buyers,"Interviewing suppliers and negotiating prices, discounts, credit terms and transportation arrangements;",0.39
+3323,Buyers,Interviewing suppliers and negotiating prices discounts credit terms and transportation arrangements;,0.39
 3323,Buyers,Overseeing distribution of merchandise to outlets and maintaining adequate stock levels;,0.39
-3323,Buyers,"Establishing delivery schedules, monitoring progress and contacting clients and suppliers to resolve problems.",0.39
+3323,Buyers,Establishing delivery schedules monitoring progress and contacting clients and suppliers to resolve problems.,0.39
 3324,Trade Brokers,Establishing contact between buyers and sellers of commodities;,0.44
 3324,Trade Brokers,Discussing buying or selling requirements of clients and giving advice accordingly;,0.44
 3324,Trade Brokers,Buying and selling cargo space on ships;,0.44
 3324,Trade Brokers,Negotiating purchase or sale of commodities and commodity futures;,0.44
-3324,Trade Brokers,"Finding cargo and/or storage space for commodities and negotiating freight, shipping and storage charges;",0.44
+3324,Trade Brokers,Finding cargo and/or storage space for commodities and negotiating freight shipping and storage charges;,0.44
 3324,Trade Brokers,Monitoring and analysing market trends and other factors affecting the supply and demand for commodities and shipping services.,0.44
 3331,Clearing and Forwarding Aents,Carrying out customs clearing procedures for exports or imports;,0.57
 3331,Clearing and Forwarding Aents,Ensuring that insurance is in order;,0.57
 3331,Clearing and Forwarding Aents,Ensuring that export/import licences and other formalities are in order;,0.57
 3331,Clearing and Forwarding Aents,Signing and issuing bills of lading;,0.57
-3331,Clearing and Forwarding Aents,"Checking import/export documentation to determine cargo contents, and classifying goods into different fee or tariff groups, using a tariff coding system.",0.57
-3341,Office Supervisors,"Coordinating, assigning and reviewing the work of clerks engaged in the following duties: word processing, record keeping and filing, operating telephones and switchboards; data entry, desktop publishing and other activities involving general office and administrative skills;",0.43
+3331,Clearing and Forwarding Aents,Checking import/export documentation to determine cargo contents and classifying goods into different fee or tariff groups using a tariff coding system.,0.57
+3341,Office Supervisors,Coordinating assigning and reviewing the work of clerks engaged in the following duties: word processing record keeping and filing operating telephones and switchboards; data entry desktop publishing and other activities involving general office and administrative skills;,0.43
 3341,Office Supervisors,Establishing work schedules and procedures and co-coordinating activities with other work units or departments;,0.43
 3341,Office Supervisors,Resolving work-related problems and preparing and submitting progress and other reports;,0.43
-3341,Office Supervisors,"Training and instructing employees in job duties, safety procedures and company policies, or arranging for training to be provided;",0.43
-3341,Office Supervisors,"Evaluating employees'Äô job performance and conformity with regulations, and recommending appropriate personnel action;",0.43
-3341,Office Supervisors,"Assisting in recruitment, interviewing and selection of employees.",0.43
+3341,Office Supervisors,Training and instructing employees in job duties safety procedures and company policies or arranging for training to be provided;,0.43
+3341,Office Supervisors,Evaluating employees'Äô job performance and conformity with regulations and recommending appropriate personnel action;,0.43
+3341,Office Supervisors,Assisting in recruitment interviewing and selection of employees.,0.43
 3511,Information and Communications Technology Operations Technicians,Operating and controlling peripheral and related computer equipment;,0.43
-3511,Information and Communications Technology Operations Technicians,"Entering commands, using computer terminal, and activating controls on computer and peripheral equipment to integrate and operate equipment;",0.43
+3511,Information and Communications Technology Operations Technicians,Entering commands using computer terminal and activating controls on computer and peripheral equipment to integrate and operate equipment;,0.43
 3511,Information and Communications Technology Operations Technicians,Monitoring systems for equipment failure or errors in performance;,0.43
 3511,Information and Communications Technology Operations Technicians,Notifying supervisor or maintenance technician of equipment malfunctions;,0.43
-3511,Information and Communications Technology Operations Technicians,"Responding to programme error messages by finding and correcting problems, escalating the problem to other staff or terminating the programme;",0.43
-3511,Information and Communications Technology Operations Technicians,"Reading job set-up instructions to determine equipment to be used, order of use, material such as disks and paper to be loaded, and control settings;",0.43
-3511,Information and Communications Technology Operations Technicians,"Retrieving, separating and sorting programme output as needed, and sending data to specified users;",0.43
-3511,Information and Communications Technology Operations Technicians,"Loading peripheral equipment, such as printers, with selected materials for operating runs, or overseeing loading of peripheral equipment by peripheral equipment operators.",0.43
+3511,Information and Communications Technology Operations Technicians,Responding to programme error messages by finding and correcting problems escalating the problem to other staff or terminating the programme;,0.43
+3511,Information and Communications Technology Operations Technicians,Reading job set-up instructions to determine equipment to be used order of use material such as disks and paper to be loaded and control settings;,0.43
+3511,Information and Communications Technology Operations Technicians,Retrieving separating and sorting programme output as needed and sending data to specified users;,0.43
+3511,Information and Communications Technology Operations Technicians,Loading peripheral equipment such as printers with selected materials for operating runs or overseeing loading of peripheral equipment by peripheral equipment operators.,0.43
 3512,Information and Communications Technology User Support Technicians,Answering user inquiries regarding software or hardware operation to resolve problems;,0.47
 3512,Information and Communications Technology User Support Technicians,Entering commands and observing system functioning to verify correct operations and detect errors;,0.47
-3512,Information and Communications Technology User Support Technicians,"Installing and performing minor repairs to hardware, software or peripheral equipment, following design or installation specifications;",0.47
+3512,Information and Communications Technology User Support Technicians,Installing and performing minor repairs to hardware software or peripheral equipment following design or installation specifications;,0.47
 3512,Information and Communications Technology User Support Technicians,Overseeing the daily performance of communications and computer systems;,0.47
-3512,Information and Communications Technology User Support Technicians,"Setting up equipment for employee use and performing or ensuring proper installation of cables, operating systems or appropriate software;",0.47
-3512,Information and Communications Technology User Support Technicians,"Maintaining records of daily data communication transactions, problems and remedial actions taken, or installation activities.",0.47
+3512,Information and Communications Technology User Support Technicians,Setting up equipment for employee use and performing or ensuring proper installation of cables operating systems or appropriate software;,0.47
+3512,Information and Communications Technology User Support Technicians,Maintaining records of daily data communication transactions problems and remedial actions taken or installation activities.,0.47
 3512,Information and Communications Technology User Support Technicians,Emulating or reproducing technical problems encountered by users;,0.47
-3512,Information and Communications Technology User Support Technicians,"Consulting user guides, technical manuals and other documents to research and implement solutions;",0.47
-3512,Information and Communications Technology User Support Technicians,"Assisting applications programmers, systems developers and other ICT professionals to develop and test ICT products and services.",0.47
-3513,Computer Network and Systems Technicians,"Operating, maintaining and troubleshooting network systems;",0.43
+3512,Information and Communications Technology User Support Technicians,Consulting user guides technical manuals and other documents to research and implement solutions;,0.47
+3512,Information and Communications Technology User Support Technicians,Assisting applications programmers systems developers and other ICT professionals to develop and test ICT products and services.,0.47
+3513,Computer Network and Systems Technicians,Operating maintaining and troubleshooting network systems;,0.43
 3513,Computer Network and Systems Technicians,Operating and maintaining data communications systems other than networks;,0.43
 3513,Computer Network and Systems Technicians,Assisting users with network and data communications problems;,0.43
 3513,Computer Network and Systems Technicians,Identifying areas needing upgraded equipment and software;,0.43
-3513,Computer Network and Systems Technicians,"Installing computer hardware, network software, operating system software and applications software;",0.43
+3513,Computer Network and Systems Technicians,Installing computer hardware network software operating system software and applications software;,0.43
 3513,Computer Network and Systems Technicians,Performing start up and close down as well as backup and disaster recovery operations for computer networks.,0.43
-3514,Web Technicians,"Installing, monitoring and supporting the reliability and usability of Internet and Intranet websites or web server hardware or software;",0.53
-3514,Web Technicians,"Developing and maintaining documentation, policies and instructions, recording operational procedures and system logs;",0.53
-3514,Web Technicians,"Developing, coordinating, implementing and monitoring security measures;",0.53
-3514,Web Technicians,"Analysing and making recommendations to enhance performance, including upgrading and acquiring new systems;",0.53
-3514,Web Technicians,"Liaising with, and providing guidance to, clients and users;",0.53
+3514,Web Technicians,Installing monitoring and supporting the reliability and usability of Internet and Intranet websites or web server hardware or software;,0.53
+3514,Web Technicians,Developing and maintaining documentation policies and instructions recording operational procedures and system logs;,0.53
+3514,Web Technicians,Developing coordinating implementing and monitoring security measures;,0.53
+3514,Web Technicians,Analysing and making recommendations to enhance performance including upgrading and acquiring new systems;,0.53
+3514,Web Technicians,Liaising with and providing guidance to clients and users;,0.53
 3514,Web Technicians,Creating and modifying web pages;,0.53
 3514,Web Technicians,Performing web server backup and recovery operations.,0.53
 3521,Broadcasting and Audio-visual Technicians,Controlling equipment to record sound;,0.35
 3521,Broadcasting and Audio-visual Technicians,Controlling equipment to edit and mix image and sound recordings to ensure satisfactory quality and to create special image and sound effects;,0.35
 3521,Broadcasting and Audio-visual Technicians,Applying knowledge of principles and practices of image and sound recording and editing in order to identify and solve problems;,0.35
 3521,Broadcasting and Audio-visual Technicians,Controlling transmitting and broadcast systems and satellite systems for radio and television programmes;,0.35
-3521,Broadcasting and Audio-visual Technicians,"Controlling radio communications systems, satellite services and multiplex systems on land, sea or in aircraft;",0.35
-3521,Broadcasting and Audio-visual Technicians,"Applying knowledge of principles and practices of broadcasting, telecommunications terminals and transmissions systems, in order to identify and solve problems;",0.35
+3521,Broadcasting and Audio-visual Technicians,Controlling radio communications systems satellite services and multiplex systems on land sea or in aircraft;,0.35
+3521,Broadcasting and Audio-visual Technicians,Applying knowledge of principles and practices of broadcasting telecommunications terminals and transmissions systems in order to identify and solve problems;,0.35
 3521,Broadcasting and Audio-visual Technicians,Making emergency repairs to equipment.,0.35
-3522,Telecommunications Engineering Technicians,"Providing technical assistance connected with research and the development of telecommunications equipment, or testing prototypes;",0.45
+3522,Telecommunications Engineering Technicians,Providing technical assistance connected with research and the development of telecommunications equipment or testing prototypes;,0.45
 3522,Telecommunications Engineering Technicians,Studying technical material such as blue prints and sketches to determine the method of work to be adopted;,0.45
-3522,Telecommunications Engineering Technicians,"Preparing detailed estimates of quantities and costs of materials and labour required for the manufacture and installation of telecommunications equipment, according to the specifications given;",0.45
-3522,Telecommunications Engineering Technicians,"Providing technical supervision of the manufacture, utilization, maintenance and repair of telecommunications systems to ensure satisfactory performance and compliance with specifications and regulations;",0.45
+3522,Telecommunications Engineering Technicians,Preparing detailed estimates of quantities and costs of materials and labour required for the manufacture and installation of telecommunications equipment according to the specifications given;,0.45
+3522,Telecommunications Engineering Technicians,Providing technical supervision of the manufacture utilization maintenance and repair of telecommunications systems to ensure satisfactory performance and compliance with specifications and regulations;,0.45
 3522,Telecommunications Engineering Technicians,Applying technical knowledge of telecommunications engineering principles and practices in order to identify and solve problems arising in the course of their work.,0.45
